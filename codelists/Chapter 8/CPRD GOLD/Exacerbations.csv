@@ -1,0 +1,80 @@
+Category,Medcode,Read V2 Code,Read Term
+Exacerbation,1446,,Acute exacerbation of chronic obstructive airways disease
+Exacerbation,7884,,"Chron obstruct pulmonary dis wth acute exacerbation, unspec"
+Exacerbation - LRTI,8980,16L..00,Influenza-like symptoms
+Exacerbation - LRTI,98125,1J72.00,Suspected influenza A virus subtype H1N1 infection
+Exacerbation - LRTI,98115,1J72.11,Suspected swine influenza
+Exacerbation - LRTI,98103,1W0..00,Possible influenza A virus H1N1 subtype
+Exacerbation - LRTI,63697,43jQ.00,Avian influenza virus nucleic acid detection
+Exacerbation - LRTI,94130,43jx.00,Parainfluenza type 1 nucleic acid detection
+Exacerbation - LRTI,94858,43jy.00,Parainfluenza type 2 nucleic acid detection
+Exacerbation - LRTI,91123,43jz.00,Parainfluenza type 3 nucleic acid detection
+Exacerbation - LRTI,98143,4J3L.00,Influenza A virus H1N1 subtype detected
+Exacerbation - LRTI,96019,4JU0.00,Influenza H1 virus detected
+Exacerbation - LRTI,102918,4JU1.00,Influenza H2 virus detected
+Exacerbation - LRTI,96018,4JU2.00,Influenza H3 virus detected
+Exacerbation - LRTI,98156,4JU3.00,Influenza H5 virus detected
+Exacerbation - LRTI,97062,4JU4.00,"Influenza A virus, other or untyped strain detected"
+Exacerbation - LRTI,96017,4JU5.00,Influenza B virus detected
+Exacerbation - LRTI,96286,4JUF.00,Human parainfluenza virus detected
+Exacerbation - LRTI,29669,H06..00,Acute bronchitis and bronchiolitis
+Exacerbation - LRTI,312,H060.00,Acute bronchitis
+Exacerbation - LRTI,5978,H060.11,Acute wheezy bronchitis
+Exacerbation - LRTI,101775,H060100,Acute membranous bronchitis
+Exacerbation - LRTI,71370,H060200,Acute pseudomembranous bronchitis
+Exacerbation - LRTI,11072,H060300,Acute purulent bronchitis
+Exacerbation - LRTI,21145,H060400,Acute croupous bronchitis
+Exacerbation - LRTI,9043,H060600,Acute pneumococcal bronchitis
+Exacerbation - LRTI,43362,H060700,Acute streptococcal bronchitis
+Exacerbation - LRTI,21492,H060800,Acute haemophilus influenzae bronchitis
+Exacerbation - LRTI,49794,H060900,Acute neisseria catarrhalis bronchitis
+Exacerbation - LRTI,93153,H060B00,Acute bronchitis due to coxsackievirus
+Exacerbation - LRTI,29273,H060C00,Acute bronchitis due to parainfluenza virus
+Exacerbation - LRTI,48593,H060D00,Acute bronchitis due to respiratory syncytial virus
+Exacerbation - LRTI,64890,H060E00,Acute bronchitis due to rhinovirus
+Exacerbation - LRTI,65916,H060F00,Acute bronchitis due to echovirus
+Exacerbation - LRTI,1382,H060w00,Acute viral bronchitis unspecified
+Exacerbation - LRTI,24800,H060x00,Acute bacterial bronchitis unspecified
+Exacerbation - LRTI,20198,H060z00,Acute bronchitis NOS
+Exacerbation - LRTI,1019,H061.00,Acute bronchiolitis
+Exacerbation - LRTI,54533,H061000,Acute capillary bronchiolitis
+Exacerbation - LRTI,41589,H061100,Acute obliterating bronchiolitis
+Exacerbation - LRTI,17185,H061200,Acute bronchiolitis with bronchospasm
+Exacerbation - LRTI,69192,H061300,Acute exudative bronchiolitis
+Exacerbation - LRTI,6181,H061400,Obliterating fibrous bronchiolitis
+Exacerbation - LRTI,18451,H061500,Acute bronchiolitis due to respiratory syncytial virus
+Exacerbation - LRTI,66228,H061600,Acute bronchiolitis due to other specified organisms
+Exacerbation - LRTI,17917,H061z00,Acute bronchiolitis NOS
+Exacerbation - LRTI,6124,H062.00,Acute lower respiratory tract infection
+Exacerbation - LRTI,41137,H06z.00,Acute bronchitis or bronchiolitis NOS
+Exacerbation - LRTI,2581,H06z000,Chest infection NOS
+Exacerbation - LRTI,68,H06z011,Chest infection
+Exacerbation - LRTI,3358,H06z100,Lower resp tract infection
+Exacerbation - LRTI,37447,H06z112,Acute lower respiratory tract infection
+Exacerbation - LRTI,2476,H07..00,Chest cold
+Exacerbation - LRTI,24316,H24..11,Chest infection with infectious disease EC
+Exacerbation - LRTI,556,H27..00,Influenza
+Exacerbation - LRTI,43625,H271.00,Influenza with other respiratory manifestation
+Exacerbation - LRTI,15774,H271000,Influenza with laryngitis
+Exacerbation - LRTI,29617,H271100,Influenza with pharyngitis
+Exacerbation - LRTI,23488,H271z00,Influenza with respiratory manifestations NOS
+Exacerbation - LRTI,47472,H27y.00,Influenza with other manifestations
+Exacerbation - LRTI,46157,H27y000,Influenza with encephalopathy
+Exacerbation - LRTI,14791,H27y100,Influenza with gastrointestinal tract involvement
+Exacerbation - LRTI,31363,H27yz00,Influenza with other manifestations NOS
+Exacerbation - LRTI,16388,H27z.00,Influenza NOS
+Exacerbation - LRTI,2157,H27z.11,Flu like illness
+Exacerbation - LRTI,5947,H27z.12,Influenza like illness
+Exacerbation - LRTI,94930,H29..00,Avian influenza
+Exacerbation - LRTI,98129,H2A..00,Influenza due to Influenza A virus subtype H1N1
+Exacerbation - LRTI,98102,H2A..11,Influenza A (H1N1) swine flu
+Exacerbation - LRTI,17359,H30..11,Chest infection - unspecified bronchitis
+Exacerbation - LRTI,26125,H312300,Bronchiolitis obliterans
+Exacerbation - LRTI,21061,H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn
+Exacerbation - LRTI,98257,Hyu0400,"[X]Flu+oth respiratory manifestations,'flu virus identified"
+Exacerbation - LRTI,97936,Hyu0500,"[X]Influenza+other manifestations,influenza virus identified"
+Exacerbation - LRTI,97605,Hyu0600,"[X]Influenza+oth respiratory manifestatns,virus not identifd"
+Exacerbation - LRTI,97279,Hyu0700,"[X]Influenza+other manifestations, virus not identified"
+Exacerbation - LRTI,66397,Hyu1.00,[X]Other acute lower respiratory infections
+Exacerbation - LRTI,73100,Hyu1000,[X]Acute bronchitis due to other specified organisms
+Exacerbation - LRTI,99214,Hyu1100,[X]Acute bronchiolitis due to other specified organisms

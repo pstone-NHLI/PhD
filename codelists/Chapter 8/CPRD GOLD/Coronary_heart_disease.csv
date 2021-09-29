@@ -1,0 +1,178 @@
+Category,Medcode,Read V2 Code,Read Term
+Coronary heart disease,35674,14A3.00,H/O: myocardial infarct <60
+Coronary heart disease,40399,14A4.00,H/O: myocardial infarct >60
+Coronary heart disease,50372,14AH.00,H/O: Myocardial infarction in last year
+Coronary heart disease,57062,14AJ.00,H/O: Angina in last year
+Coronary heart disease,18134,182A.00,Chest pain on exertion
+Coronary heart disease,103655,187..00,Frequency of angina
+Coronary heart disease,35287,322Z.00,ECG: myocardial ischaemia NOS
+Coronary heart disease,42104,32E4.00,ECG: S-T depression
+Coronary heart disease,39584,3889.00,Euroscore for angina
+Coronary heart disease,52637,388E.00,Canadian Cardiovascular Society classification of angina
+Coronary heart disease,57962,388F.00,Cardiovascular Limitations and Symptoms Profile angina score
+Coronary heart disease,1021,5543.00,Coronary arteriograph.abnormal
+Coronary heart disease,58135,5C11.00,Radionuclide heart study abnormal
+Coronary heart disease,107967,661M000,Angina self-management plan agreed
+Coronary heart disease,109391,661N000,Angina self-management plan review
+Coronary heart disease,13185,662K.00,Angina control
+Coronary heart disease,19542,662K000,Angina control - good
+Coronary heart disease,15373,662K100,Angina control - poor
+Coronary heart disease,14782,662K200,Angina control - improving
+Coronary heart disease,29300,662K300,Angina control - worsening
+Coronary heart disease,15349,662Kz00,Angina control NOS
+Coronary heart disease,5904,792..00,Coronary artery operations
+Coronary heart disease,737,792..11,Coronary artery bypass graft operations
+Coronary heart disease,18249,7920.00,Saphenous vein graft replacement of coronary artery
+Coronary heart disease,8312,7920.11,Saphenous vein graft bypass of coronary artery
+Coronary heart disease,8679,7920000,Saphenous vein graft replacement of one coronary artery
+Coronary heart disease,7634,7920100,Saphenous vein graft replacement of two coronary arteries
+Coronary heart disease,7442,7920200,Saphenous vein graft replacement of three coronary arteries
+Coronary heart disease,11610,7920300,Saphenous vein graft replacement of four+ coronary arteries
+Coronary heart disease,7137,7920y00,Saphenous vein graft replacement of coronary artery OS
+Coronary heart disease,51515,7920z00,Saphenous vein graft replacement coronary artery NOS
+Coronary heart disease,9414,7921.00,Other autograft replacement of coronary artery
+Coronary heart disease,10209,7921200,Autograft replacement of three coronary arteries NEC
+Coronary heart disease,32651,7922.11,Allograft bypass of coronary artery
+Coronary heart disease,33461,7924.00,Revision of bypass for coronary artery
+Coronary heart disease,5744,7927500,Open angioplasty of coronary artery
+Coronary heart disease,2901,7928.00,Transluminal balloon angioplasty of coronary artery
+Coronary heart disease,18670,7928000,Percut transluminal balloon angioplasty one coronary artery
+Coronary heart disease,33735,7928100,Percut translum balloon angioplasty mult coronary arteries
+Coronary heart disease,42462,7928200,Percut translum balloon angioplasty bypass graft coronary a
+Coronary heart disease,732,7928z00,Transluminal balloon angioplasty of coronary artery NOS
+Coronary heart disease,22828,7929000,Percutaneous transluminal laser coronary angioplasty
+Coronary heart disease,33650,7929100,Percut transluminal coronary thrombolysis with streptokinase
+Coronary heart disease,8942,7929400,Insertion of coronary artery stent
+Coronary heart disease,42304,7929500,Insertion of drug-eluting coronary artery stent
+Coronary heart disease,44585,792Bz00,Repair of coronary artery NOS
+Coronary heart disease,34963,792D.00,Other bypass of coronary artery
+Coronary heart disease,3159,792Dy00,Other specified other bypass of coronary artery
+Coronary heart disease,33471,792Dz00,Other bypass of coronary artery NOS
+Coronary heart disease,105184,792E.00,Percutaneous coronary intervention
+Coronary heart disease,31571,792y.00,Other specified operations on coronary artery
+Coronary heart disease,10603,792z.00,Coronary artery operations NOS
+Coronary heart disease,43939,793G.00,Perc translumin balloon angioplasty stenting coronary artery
+Coronary heart disease,60067,793G000,Perc translum ball angio insert 1-2 drug elut stents cor art
+Coronary heart disease,87849,793G100,Perc tran ball angio ins 3 or more drug elut stents cor art
+Coronary heart disease,85947,793G200,Perc translum balloon angioplasty insert 1-2 stents cor art
+Coronary heart disease,61208,793Gz00,Perc translum balloon angioplasty stenting coronary art NOS
+Coronary heart disease,45960,8B27.00,Antianginal therapy
+Coronary heart disease,240,G3...00,Ischaemic heart disease
+Coronary heart disease,24783,G3...11,Arteriosclerotic heart disease
+Coronary heart disease,20416,G3...12,Atherosclerotic heart disease
+Coronary heart disease,1792,G3...13,IHD - Ischaemic heart disease
+Coronary heart disease,241,G30..00,Acute myocardial infarction
+Coronary heart disease,13566,G30..11,Attack - heart
+Coronary heart disease,2491,G30..12,Coronary thrombosis
+Coronary heart disease,30421,G30..13,Cardiac rupture following myocardial infarction (MI)
+Coronary heart disease,1204,G30..14,Heart attack
+Coronary heart disease,1677,G30..15,MI - acute myocardial infarction
+Coronary heart disease,13571,G30..16,Thrombosis - coronary
+Coronary heart disease,17689,G30..17,Silent myocardial infarction
+Coronary heart disease,12139,G300.00,Acute anterolateral infarction
+Coronary heart disease,5387,G301.00,Other specified anterior myocardial infarction
+Coronary heart disease,40429,G301000,Acute anteroapical infarction
+Coronary heart disease,17872,G301100,Acute anteroseptal infarction
+Coronary heart disease,14897,G301z00,Anterior myocardial infarction NOS
+Coronary heart disease,8935,G302.00,Acute inferolateral infarction
+Coronary heart disease,29643,G303.00,Acute inferoposterior infarction
+Coronary heart disease,23892,G304.00,Posterior myocardial infarction NOS
+Coronary heart disease,14898,G305.00,Lateral myocardial infarction NOS
+Coronary heart disease,63467,G306.00,True posterior myocardial infarction
+Coronary heart disease,3704,G307.00,Acute subendocardial infarction
+Coronary heart disease,9507,G307000,Acute non-Q wave infarction
+Coronary heart disease,10562,G307100,Acute non-ST segment elevation myocardial infarction
+Coronary heart disease,1678,G308.00,Inferior myocardial infarction NOS
+Coronary heart disease,30330,G309.00,Acute Q-wave infarct
+Coronary heart disease,17133,G30A.00,Mural thrombosis
+Coronary heart disease,32854,G30B.00,Acute posterolateral myocardial infarction
+Coronary heart disease,29758,G30X.00,Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,12229,G30X000,Acute ST segment elevation myocardial infarction
+Coronary heart disease,34803,G30y.00,Other acute myocardial infarction
+Coronary heart disease,28736,G30y000,Acute atrial infarction
+Coronary heart disease,62626,G30y100,Acute papillary muscle infarction
+Coronary heart disease,41221,G30y200,Acute septal infarction
+Coronary heart disease,46017,G30yz00,Other acute myocardial infarction NOS
+Coronary heart disease,14658,G30z.00,Acute myocardial infarction NOS
+Coronary heart disease,27951,G31..00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,23579,G310.00,Postmyocardial infarction syndrome
+Coronary heart disease,15661,G310.11,Dressler's syndrome
+Coronary heart disease,36523,G311.00,Preinfarction syndrome
+Coronary heart disease,4656,G311.11,Crescendo angina
+Coronary heart disease,39655,G311.12,Impending infarction
+Coronary heart disease,1431,G311.13,Unstable angina
+Coronary heart disease,19655,G311.14,Angina at rest
+Coronary heart disease,7347,G311100,Unstable angina
+Coronary heart disease,17307,G311200,Angina at rest
+Coronary heart disease,34328,G311300,Refractory angina
+Coronary heart disease,18118,G311400,Worsening angina
+Coronary heart disease,11983,G311500,Acute coronary syndrome
+Coronary heart disease,54251,G311z00,Preinfarction syndrome NOS
+Coronary heart disease,39449,G312.00,Coronary thrombosis not resulting in myocardial infarction
+Coronary heart disease,9413,G31y.00,Other acute and subacute ischaemic heart disease
+Coronary heart disease,9276,G31y000,Acute coronary insufficiency
+Coronary heart disease,68357,G31y100,Microinfarction of heart
+Coronary heart disease,39693,G31y200,Subendocardial ischaemia
+Coronary heart disease,21844,G31y300,Transient myocardial ischaemia
+Coronary heart disease,27977,G31yz00,Other acute and subacute ischaemic heart disease NOS
+Coronary heart disease,4017,G32..00,Old myocardial infarction
+Coronary heart disease,16408,G32..11,Healed myocardial infarction
+Coronary heart disease,1430,G33..00,Angina pectoris
+Coronary heart disease,20095,G330.00,Angina decubitus
+Coronary heart disease,18125,G330000,Nocturnal angina
+Coronary heart disease,29902,G330z00,Angina decubitus NOS
+Coronary heart disease,12986,G331.00,Prinzmetal's angina
+Coronary heart disease,11048,G331.11,Variant angina pectoris
+Coronary heart disease,36854,G332.00,Coronary artery spasm
+Coronary heart disease,25842,G33z.00,Angina pectoris NOS
+Coronary heart disease,66388,G33z000,Status anginosus
+Coronary heart disease,7696,G33z200,Syncope anginosa
+Coronary heart disease,1414,G33z300,Angina on effort
+Coronary heart disease,32450,G33z400,Ischaemic chest pain
+Coronary heart disease,9555,G33z500,Post infarct angina
+Coronary heart disease,26863,G33z600,New onset angina
+Coronary heart disease,12804,G33z700,Stable angina
+Coronary heart disease,28554,G33zz00,Angina pectoris NOS
+Coronary heart disease,28138,G34..00,Other chronic ischaemic heart disease
+Coronary heart disease,5413,G340.00,Coronary atherosclerosis
+Coronary heart disease,1655,G340.11,Triple vessel disease of the heart
+Coronary heart disease,1344,G340.12,Coronary artery disease
+Coronary heart disease,3999,G340000,Single coronary vessel disease
+Coronary heart disease,5254,G340100,Double coronary vessel disease
+Coronary heart disease,36609,G342.00,Atherosclerotic cardiovascular disease
+Coronary heart disease,7320,G343.00,Ischaemic cardiomyopathy
+Coronary heart disease,29421,G344.00,Silent myocardial ischaemia
+Coronary heart disease,34633,G34y.00,Other specified chronic ischaemic heart disease
+Coronary heart disease,24540,G34y000,Chronic coronary insufficiency
+Coronary heart disease,23078,G34y100,Chronic myocardial ischaemia
+Coronary heart disease,35713,G34yz00,Other specified chronic ischaemic heart disease NOS
+Coronary heart disease,15754,G34z.00,Other chronic ischaemic heart disease NOS
+Coronary heart disease,18889,G34z000,Asymptomatic coronary heart disease
+Coronary heart disease,18842,G35..00,Subsequent myocardial infarction
+Coronary heart disease,45809,G350.00,Subsequent myocardial infarction of anterior wall
+Coronary heart disease,38609,G351.00,Subsequent myocardial infarction of inferior wall
+Coronary heart disease,72562,G353.00,Subsequent myocardial infarction of other sites
+Coronary heart disease,46166,G35X.00,Subsequent myocardial infarction of unspecified site
+Coronary heart disease,36423,G36..00,Certain current complication follow acute myocardial infarct
+Coronary heart disease,23708,G361.00,Atrial septal defect/curr comp folow acut myocardal infarct
+Coronary heart disease,37657,G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn
+Coronary heart disease,59189,G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI
+Coronary heart disease,29553,G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI"
+Coronary heart disease,32272,G38..00,Postoperative myocardial infarction
+Coronary heart disease,46112,G380.00,Postoperative transmural myocardial infarction anterior wall
+Coronary heart disease,46276,G381.00,Postoperative transmural myocardial infarction inferior wall
+Coronary heart disease,41835,G384.00,Postoperative subendocardial myocardial infarction
+Coronary heart disease,68748,G38z.00,"Postoperative myocardial infarction, unspecified"
+Coronary heart disease,22383,G3y..00,Other specified ischaemic heart disease
+Coronary heart disease,1676,G3z..00,Ischaemic heart disease NOS
+Coronary heart disease,39546,Gyu3000,[X]Other forms of angina pectoris
+Coronary heart disease,96838,Gyu3400,[X]Acute transmural myocardial infarction of unspecif site
+Coronary heart disease,99991,Gyu3600,[X]Subsequent myocardial infarction of unspecified site
+Coronary heart disease,12734,SP07600,Coronary artery bypass graft occlusion
+Coronary heart disease,59350,ZR37.00,Canadian Cardiovascular Society classification of angina
+Coronary heart disease,55673,ZR3P.00,CLASP angina score
+Coronary heart disease,57910,ZR3P.11,CLASP angina score
+Coronary heart disease,98295,ZRB1.00,Euroscore for angina
+Coronary heart disease,18913,ZV45700,[V]Presence of aortocoronary bypass graft
+Coronary heart disease,5030,ZV45K00,[V]Presence of coronary artery bypass graft
+Coronary heart disease,5674,ZV45K11,[V]Presence of coronary artery bypass graft - CABG

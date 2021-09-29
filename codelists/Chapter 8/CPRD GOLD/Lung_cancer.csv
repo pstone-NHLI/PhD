@@ -1,0 +1,26 @@
+Category,Medcode,Read V2 Code,Read Term
+Lung cancer,13243,B22..00,"malignant neoplasm of trachea, bronchus and lung"
+Lung cancer,12870,B221.00,malignant neoplasm of main bronchus
+Lung cancer,17391,B221000,malignant neoplasm of carina of bronchus
+Lung cancer,33444,B221100,malignant neoplasm of hilus of lung
+Lung cancer,21698,B221z00,malignant neoplasm of main bronchus nos
+Lung cancer,10358,B222.00,"malignant neoplasm of upper lobe, bronchus or lung"
+Lung cancer,31700,B222000,malignant neoplasm of upper lobe bronchus
+Lung cancer,25886,B222100,malignant neoplasm of upper lobe of lung
+Lung cancer,44169,B222z00,"malignant neoplasm of upper lobe, bronchus or lung nos"
+Lung cancer,31268,B223.00,"malignant neoplasm of middle lobe, bronchus or lung"
+Lung cancer,41523,B223000,malignant neoplasm of middle lobe bronchus
+Lung cancer,39923,B223100,malignant neoplasm of middle lobe of lung
+Lung cancer,54134,B223z00,"malignant neoplasm of middle lobe, bronchus or lung nos"
+Lung cancer,31188,B224.00,"malignant neoplasm of lower lobe, bronchus or lung"
+Lung cancer,18678,B224000,malignant neoplasm of lower lobe bronchus
+Lung cancer,12582,B224100,malignant neoplasm of lower lobe of lung
+Lung cancer,42566,B224z00,"malignant neoplasm of lower lobe, bronchus or lung nos"
+Lung cancer,36371,B225.00,malignant neoplasm of overlapping lesion of bronchus & lung
+Lung cancer,38961,B22y.00,malignant neoplasm of other sites of bronchus or lung
+Lung cancer,3903,B22z.00,malignant neoplasm of bronchus or lung nos
+Lung cancer,2587,B22z.11,lung cancer
+Lung cancer,4137,B570.00,secondary malignant neoplasm of lung
+Lung cancer,40595,Byu2000,"[x]malignant neoplasm of bronchus or lung, unspecified"
+Lung cancer,32246,ZV10111,[v]personal history of malignant neoplasm of bronchus
+Lung cancer,29284,ZV10112,[v]personal history of malignant neoplasm of lung

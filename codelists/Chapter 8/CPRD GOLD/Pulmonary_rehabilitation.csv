@@ -1,0 +1,12 @@
+Category,Medcode,Read V2 Code,Read Term
+Pulmonary rehabilitation,30647,8FA..00,Pulmonary rehabilitation
+Pulmonary rehabilitation,58151,8FA0.00,Assessment for pulmonary rehabilitation completed
+Pulmonary rehabilitation,46844,8FA1.00,Pulmonary rehabilitation programme commenced
+Pulmonary rehabilitation,10845,8FA2.00,Pulmonary rehabilitation programme completed
+Pulmonary rehabilitation,40735,8H7u.00,Referral to pulmonary rehabilitation
+Pulmonary rehabilitation,106611,8I86.00,Did not complete pulmonary rehabilitation programme
+Pulmonary rehabilitation,108220,9NSL.00,Pulmonary rehabilitation offered
+Pulmonary rehabilitation exception,110041,8I97.00,Pulmonary rehabilitation programme not available
+Pulmonary rehabilitation exception,94952,8IA9.00,Pulmonary rehabilitation declined
+Pulmonary rehabilitation exception,99948,9kf0.00,COPD patient unsuitable for pulmonary rehab - enh serv admin
+Pulmonary rehabilitation exception,103864,9kf0.11,COPD patient unsuitable for pulmonary rehabilitation

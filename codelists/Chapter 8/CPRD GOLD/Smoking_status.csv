@@ -1,0 +1,116 @@
+Category,Medcode,Read V2 Code,Read Term
+Smoking status - Ex-smoker,221248,,Ex-very heavy smoker (40+/day)
+Smoking status - Ex-smoker,230314,,Ex-smoker - amount unknown
+Smoking status - Ex-smoker,239315,,Ex-heavy smoker (20-39/day)
+Smoking status - Ex-smoker,248528,,Stopped smoking
+Smoking status - Ex-smoker,266945,,Ex pipe smoker
+Smoking status - Ex-smoker,276052,,Date ceased smoking
+Smoking status - Ex-smoker,294328,,Ex cigar smoker
+Smoking status - Ex-smoker,12961,1377.00,Ex-trivial smoker (<1/day)
+Smoking status - Ex-smoker,12957,1378.00,Ex-light smoker (1-9/day)
+Smoking status - Ex-smoker,12955,1379.00,Ex-moderate smoker (10-19/day)
+Smoking status - Ex-smoker,12956,137A.00,Ex-heavy smoker (20-39/day)
+Smoking status - Ex-smoker,12959,137B.00,Ex-very heavy smoker (40+/day)
+Smoking status - Ex-smoker,12946,137F.00,Ex-smoker - amount unknown
+Smoking status - Ex-smoker,776,137K.00,Stopped smoking
+Smoking status - Ex-smoker,99838,137K000,Recently stopped smoking
+Smoking status - Ex-smoker,60,137L.00,Current non-smoker
+Smoking status - Ex-smoker,26470,137N.00,Ex pipe smoker
+Smoking status - Ex-smoker,19488,137O.00,Ex cigar smoker
+Smoking status - Ex-smoker,90,137S.00,Ex smoker
+Smoking status - Ex-smoker,12878,137T.00,Date ceased smoking
+Smoking status - Ex-smoker,97210,137j.00,Ex-cigarette smoker
+Smoking status - Ex-smoker,100495,137l.00,Ex roll-up cigarette smoker
+Smoking status - Ex-smoker,105711,137n.00,Total time smoked
+Smoking status - Ex-smoker,10898,13p4.00,Smoking free weeks
+Smoking status - Ex-smoker,7130,9OO..12,Stop smoking monitoring admin.
+Smoking status - Ex-smoker,98447,9km..00,Ex-smoker annual review - enhanced services administration
+Smoking status - Ex-smoker,100963,9km..11,Ex-smoker annual review
+Smoking status - Ex-smoker,72706,E251300,Tobacco dependence in remission
+Smoking status - Ex-smoker,72700,ZV11600,[V]Personal history of tobacco abuse
+Smoking status - Current smoker,203207,,Smoking restarted
+Smoking status - Current smoker,203208,,Current smoker
+Smoking status - Current smoker,248526,,Pipe smoker
+Smoking status - Current smoker,257725,,Keeps trying to stop smoking
+Smoking status - Current smoker,257726,,Smoker
+Smoking status - Current smoker,266944,,Rolls own cigarettes
+Smoking status - Current smoker,276050,,Cigar smoker
+Smoking status - Current smoker,276051,,Smoking started
+Smoking status - Current smoker,285187,,Cigarette smoker
+Smoking status - Current smoker,294327,,Trying to give up smoking
+Smoking status - Current smoker,309558,,Smoking reduced
+Smoking status - Current smoker,54,137..00,Tobacco consumption
+Smoking status - Current smoker,12942,137..11,Smoker - amount smoked
+Smoking status - Current smoker,12958,1372.00,Trivial smoker - < 1 cig/day
+Smoking status - Current smoker,12941,1372.11,Occasional smoker
+Smoking status - Current smoker,12944,1373.00,Light smoker - 1-9 cigs/day
+Smoking status - Current smoker,1878,1374.00,Moderate smoker - 10-19 cigs/d
+Smoking status - Current smoker,3568,1375.00,Heavy smoker - 20-39 cigs/day
+Smoking status - Current smoker,1822,1376.00,Very heavy smoker - 40+cigs/d
+Smoking status - Current smoker,12964,137C.00,Keeps trying to stop smoking
+Smoking status - Current smoker,12240,137G.00,Trying to give up smoking
+Smoking status - Current smoker,12947,137H.00,Pipe smoker
+Smoking status - Current smoker,12943,137J.00,Cigar smoker
+Smoking status - Current smoker,12945,137M.00,Rolls own cigarettes
+Smoking status - Current smoker,93,137P.00,Cigarette smoker
+Smoking status - Current smoker,1823,137P.11,Smoker
+Smoking status - Current smoker,12952,137Q.00,Smoking started
+Smoking status - Current smoker,12951,137Q.11,Smoking restarted
+Smoking status - Current smoker,10558,137R.00,Current smoker
+Smoking status - Current smoker,12966,137V.00,Smoking reduced
+Smoking status - Current smoker,12965,137X.00,Cigarette consumption
+Smoking status - Current smoker,12963,137Y.00,Cigar consumption
+Smoking status - Current smoker,12960,137Z.00,Tobacco consumption NOS
+Smoking status - Current smoker,12967,137a.00,Pipe tobacco consumption
+Smoking status - Current smoker,31114,137b.00,Ready to stop smoking
+Smoking status - Current smoker,30423,137c.00,Thinking about stopping smoking
+Smoking status - Current smoker,30762,137d.00,Not interested in stopping smoking
+Smoking status - Current smoker,41979,137e.00,Smoking restarted
+Smoking status - Current smoker,46321,137f.00,Reason for restarting smoking
+Smoking status - Current smoker,46300,137g.00,Cigarette pack-years
+Smoking status - Current smoker,62686,137h.00,Minutes from waking to first tobacco consumption
+Smoking status - Current smoker,101338,137m.00,Failed attempt to stop smoking
+Smoking status - Current smoker,105501,137o.00,Waterpipe tobacco consumption
+Smoking status - Current smoker,26096,13cA.00,Smokes drugs
+Smoking status - Current smoker,34126,13p0.00,Negotiated date for cessation of smoking
+Smoking status - Current smoker,38112,13p5.00,Smoking cessation programme start date
+Smoking status - Current smoker,11713,388B.00,Pack years
+Smoking status - Current smoker,2111,6791.00,Health ed. - smoking
+Smoking status - Current smoker,10184,67A3.00,Pregnancy smoking advice
+Smoking status - Current smoker,18926,67H1.00,Lifestyle advice regarding smoking
+Smoking status - Current smoker,98137,67H6.00,Brief intervention for smoking cessation
+Smoking status - Current smoker,74907,745H.00,Smoking cessation therapy
+Smoking status - Current smoker,94958,745H400,Smoking cessation drug therapy
+Smoking status - Current smoker,91708,745Hy00,Other specified smoking cessation therapy
+Smoking status - Current smoker,90522,745Hz00,Smoking cessation therapy NOS
+Smoking status - Current smoker,110692,8B31G00,Varenicline smoking cessation therapy offered
+Smoking status - Current smoker,7622,8CAL.00,Smoking cessation advice
+Smoking status - Current smoker,41042,8CAg.00,Smoking cessation advice provided by community pharmacist
+Smoking status - Current smoker,103507,8CdB.00,Stop smoking service opportunity signposted
+Smoking status - Current smoker,18573,8H7i.00,Referral to smoking cessation advisor
+Smoking status - Current smoker,10742,8HTK.00,Referral to stop-smoking clinic
+Smoking status - Current smoker,98154,8HkQ.00,Referral to NHS stop smoking service
+Smoking status - Current smoker,100099,8IAj.00,Smoking cessation advice declined
+Smoking status - Current smoker,106391,8IEo.00,Referral to smoking cessation service declined
+Smoking status - Current smoker,106359,8T08.00,Referral to smoking cessation service
+Smoking status - Current smoker,11356,9N2k.00,Seen by smoking cessation advisor
+Smoking status - Current smoker,102361,9NS0200,Referral for smoking cessation service offered
+Smoking status - Current smoker,40418,9OO2.00,Refuses stop smoking monitor
+Smoking status - Current smoker,53101,9OO7.00,Stop smoking monitor verb.inv.
+Smoking status - Current smoker,103400,9kf1.11,Referred for COPD structured smoking assessment
+Smoking status - Current smoker,98347,9ko..00,Current smoker annual review - enhanced services admin
+Smoking status - Current smoker,104310,9ko..11,Current smoker annual review
+Smoking status - Current smoker,32687,E251.00,Tobacco dependence
+Smoking status - Current smoker,95610,E251000,"Tobacco dependence, unspecified"
+Smoking status - Current smoker,70746,E251100,"Tobacco dependence, continuous"
+Smoking status - Current smoker,108835,E251200,"Tobacco dependence, episodic"
+Smoking status - Current smoker,68658,E251z00,Tobacco dependence NOS
+Smoking status - Current smoker,61905,Eu17.00,[X]Mental and behavioural disorder due to use of tobacco
+Smoking status - Current smoker,56144,Eu17100,[X]Mental and behav dis due to use of tobacco: harmful use
+Smoking status - Current smoker,107792,Eu17200,[X]Mental and behav dis due to use tobacco: dependence syndr
+Smoking status - Current smoker,101519,Eu17300,[X]Mental and behav dis due to use tobacco: withdrawal state
+Smoking status - Current smoker,16717,H310100,Smokers' cough
+Smoking status - Current smoker,9045,ZG23300,Advice on smoking
+Smoking status - Current smoker,42288,ZRb3.00,Pack years
+Smoking status - Current smoker,12954,ZV4K000,[V]Tobacco use
+Smoking status - Current smoker,35055,ZV6D800,[V]Tobacco abuse counselling

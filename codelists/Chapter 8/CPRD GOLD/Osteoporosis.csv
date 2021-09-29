@@ -1,0 +1,90 @@
+Category,Medcode,Read V2 Code,Read Term
+Osteoporosis,99817,0,History of osteoporosis
+Osteoporosis,10362,0,At risk of osteoporosis
+Osteoporosis,17909,0,At risk of osteoporotic fracture
+Osteoporosis,101386,0,Osteoporosis resolved
+Osteoporosis,95963,0,WHO FRAX 10 year osteoporotic fracture probability score
+Osteoporosis,106706,0,WHO FRAX 10 yr osteoporotic fracture probablty scor with BMD
+Osteoporosis,106977,0,WHO FRAX 10 yr osteoporotic fracture probablty scor with BMI
+Osteoporosis,51891,0,Quantitative ultrasound scan of heel - result osteoporotic
+Osteoporosis,13987,0,Forearm DXA scan result osteoporotic
+Osteoporosis,46510,0,Heel DXA scan result osteoporotic
+Osteoporosis,42354,0,Hip DXA scan result osteoporotic
+Osteoporosis,39217,0,Lumbar DXA scan result osteoporotic
+Osteoporosis,96342,0,Femoral neck DEXA scan result osteoporotic
+Osteoporosis,11603,0,Osteoporosis monitoring
+Osteoporosis,10293,0,Initial osteoporosis assessment
+Osteoporosis,10359,0,Follow-up osteoporosis assessment
+Osteoporosis,37646,0,Osteoporosis treatment started
+Osteoporosis,36644,0,Osteoporosis treatment stopped
+Osteoporosis,34129,0,Osteoporosis treatment changed
+Osteoporosis,48962,0,Osteoporosis - no treatment
+Osteoporosis,26876,0,Osteoporosis - dietary advice
+Osteoporosis,38903,0,Osteoporosis - dietary assessment
+Osteoporosis,41376,0,Osteoporosis - exercise advice
+Osteoporosis,26292,0,Osteoporosis - falls prevention
+Osteoporosis,70233,0,Osteoporosis - treatment response
+Osteoporosis,98189,0,Osteoporosis - no treatment response
+Osteoporosis,39596,0,Refer to osteoporosis specialist
+Osteoporosis,13055,0,Health education - osteoporosis
+Osteoporosis,110401,0,Osteoporosis medication compliance review
+Osteoporosis,101068,0,Osteoporosis medication prophylaxis
+Osteoporosis,28882,0,Referral to osteoporosis clinic
+Osteoporosis,89922,0,Osteoporosis treatment not indicated
+Osteoporosis,18265,0,Seen in osteoporosis clinic
+Osteoporosis,36796,0,Osteoporosis monitoring administration
+Osteoporosis,65163,0,Attends osteoporosis monitoring
+Osteoporosis,45274,0,Refuses osteoporosis monitoring
+Osteoporosis,92887,0,Osteoporosis monitoring default
+Osteoporosis,68122,0,Osteoporosis monitoring first letter
+Osteoporosis,93455,0,Osteoporosis monitoring second letter
+Osteoporosis,102017,0,Osteoporosis monitoring third letter
+Osteoporosis,105290,0,Osteoporosis monitoring verbal invitation
+Osteoporosis,61121,0,Osteoporosis monitoring telephone invitation
+Osteoporosis,96779,0,Osteoporosis monitoring deleted
+Osteoporosis,25534,0,Osteoporosis monitoring check done
+Osteoporosis,24959,0,Osteoporosis risk assessment done
+Osteoporosis,60618,0,Osteoporosis risk assessment refused
+Osteoporosis,60949,0,Osteoporosis risk assessment defaulted
+Osteoporosis,102169,0,Exception reporting: osteoporosis quality indicators
+Osteoporosis,101443,0,Excepted osteoporosis quality indicators: patient unsuitable
+Osteoporosis,104186,0,Excepted osteoporosis quality indicators: informed dissent
+Osteoporosis,98433,0,Osteoporosis - enhanced services administration
+Osteoporosis,98760,0,Bone sparing drug treatment offered for osteoporosis - ESA
+Osteoporosis,277,0,Osteoporosis
+Osteoporosis,14967,0,"Osteoporosis, unspecified"
+Osteoporosis,16307,0,Senile osteoporosis
+Osteoporosis,9700,0,Postmenopausal osteoporosis
+Osteoporosis,40428,0,Idiopathic osteoporosis
+Osteoporosis,62702,0,Dissuse osteoporosis
+Osteoporosis,24093,0,Drug-induced osteoporosis
+Osteoporosis,70349,0,Postoophorectomy osteoporosis
+Osteoporosis,93655,0,Postsurgical malabsorption osteoporosis
+Osteoporosis,54232,0,Localized osteoporosis - Lequesne
+Osteoporosis,60433,0,Osteoporosis in multiple myelomatosis
+Osteoporosis,31580,0,Osteoporosis in endocrine disorders
+Osteoporosis,3346,0,Vertebral osteoporosis
+Osteoporosis,16857,0,Osteoporosis localized to spine
+Osteoporosis,25650,0,Osteoporosis due to corticosteroids
+Osteoporosis,34798,0,Osteoporosis NOS
+Osteoporosis,44386,0,Osteoporotic vertebral collapse
+Osteoporosis,39334,0,Postoophorectomy osteoporosis with pathological fracture
+Osteoporosis,33526,0,Osteoporosis of disuse with pathological fracture
+Osteoporosis,68019,0,Postsurgical malabsorption osteoporosis with path fracture
+Osteoporosis,46894,0,Drug-induced osteoporosis with pathological fracture
+Osteoporosis,27597,0,Idiopathic osteoporosis with pathological fracture
+Osteoporosis,17377,0,Osteoporosis + pathological fracture lumbar vertebrae
+Osteoporosis,12673,0,Osteoporosis + pathological fracture thoracic vertebrae
+Osteoporosis,48772,0,Osteoporosis + pathological fracture cervical vertebrae
+Osteoporosis,38395,0,Postmenopausal osteoporosis with pathological fracture
+Osteoporosis,45736,0,Collapse of cervical vertebra due to osteoporosis
+Osteoporosis,5841,0,Collapse of lumbar vertebra due to osteoporosis
+Osteoporosis,19048,0,Collapse of thoracic vertebra due to osteoporosis
+Osteoporosis,4013,0,Collapse of vertebra due to osteoporosis NOS
+Osteoporosis,11503,0,Fragility fracture due to unspecified osteoporosis
+Osteoporosis,93705,0,Minimal trauma fracture due to unspecified osteoporosis
+Osteoporosis,36432,0,Osteoporotic kyphosis
+Osteoporosis,57301,0,[X]Other osteoporosis with pathological fracture
+Osteoporosis,41755,0,[X]Other osteoporosis
+Osteoporosis,102730,0,[X]Osteoporosis in other disorders classified elsewhere
+Osteoporosis,18825,0,[X]Unspecified osteoporosis with pathological fracture

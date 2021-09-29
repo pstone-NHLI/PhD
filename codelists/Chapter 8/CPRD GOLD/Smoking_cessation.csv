@@ -1,0 +1,30 @@
+Category,Medcode,Read V2 Code,Read Term
+Declined smoking cessation,100099,8IAj.00,Smoking cessation advice declined
+Declined smoking cessation,104230,8IEK.00,Smoking cessation programme declined
+Declined smoking cessation,106391,8IEo.00,Referral to smoking cessation service declined
+Declined smoking cessation,101851,9Ndg.00,Declined consent for follow-up by smoking cessation team
+Smoking cessation activity,34126,13p0.00,Negotiated date for cessation of smoking
+Smoking cessation activity,38112,13p5.00,Smoking cessation programme start date
+Smoking cessation activity,101764,13p5000,Practice based smoking cessation programme start date
+Smoking cessation activity,98137,67H6.00,Brief intervention for smoking cessation
+Smoking cessation activity,7622,8CAL.00,Smoking cessation advice
+Smoking cessation activity,18573,8H7i.00,Referral to smoking cessation advisor
+Smoking cessation activity,10742,8HTK.00,Referral to stop-smoking clinic
+Smoking cessation activity,98154,8HkQ.00,Referral to NHS stop smoking service
+Smoking cessation activity,106359,8T08.00,Referral to smoking cessation service
+Smoking cessation activity,11356,9N2k.00,Seen by smoking cessation advisor
+Smoking cessation activity,102361,9NS0200,Referral for smoking cessation service offered
+Smoking cessation activity,101385,9Ndf.00,Consent given for follow-up by smoking cessation team
+Smoking cessation medication – non-prescription codes,74907,745H.00,Smoking cessation therapy
+Smoking cessation medication – non-prescription codes,81440,745H000,Nicotine replacement therapy using nicotine patches
+Smoking cessation medication – non-prescription codes,85975,745H100,Nicotine replacement therapy using nicotine gum
+Smoking cessation medication – non-prescription codes,85247,745H200,Nicotine replacement therapy using nicotine inhalator
+Smoking cessation medication – non-prescription codes,89464,745H300,Nicotine replacement therapy using nicotine lozenges
+Smoking cessation medication – non-prescription codes,94958,745H400,Smoking cessation drug therapy
+Smoking cessation medication – non-prescription codes,91708,745Hy00,Other specified smoking cessation therapy
+Smoking cessation medication – non-prescription codes,90522,745Hz00,Smoking cessation therapy NOS
+Smoking cessation medication – non-prescription codes,9833,8B2B.00,Nicotine replacement therapy
+Smoking cessation medication – non-prescription codes,109716,8B2B000,Issue of nicotine replacement therapy voucher
+Smoking cessation medication – non-prescription codes,32572,8B3Y.00,Over the counter nicotine replacement therapy
+Smoking cessation medication – non-prescription codes,25106,8B3f.00,Nicotine replacement therapy provided free
+Smoking cessation medication – non-prescription codes,104185,8IEM.00,Smoking cessation drug therapy declined

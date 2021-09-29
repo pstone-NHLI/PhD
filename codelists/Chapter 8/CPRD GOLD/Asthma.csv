@@ -1,0 +1,122 @@
+Category,Medcode,Read V2 Code,Read Term
+Asthma,78,,asthma
+Asthma,81,,asthma monitoring
+Asthma,185,,acute exacerbation of asthma
+Asthma,232,,asthma attack
+Asthma,233,,severe asthma attack
+Asthma,1555,,bronchial asthma
+Asthma,2290,,allergic asthma
+Asthma,3018,,mild asthma
+Asthma,3366,,severe asthma
+Asthma,3458,,occasional asthma
+Asthma,3665,,late onset asthma
+Asthma,4442,,asthma unspecified
+Asthma,4606,,exercise induced asthma
+Asthma,4892,,status asthmaticus nos
+Asthma,5267,,intrinsic asthma
+Asthma,5627,,hay fever with asthma
+Asthma,5798,,chronic asthmatic bronchitis
+Asthma,5867,,exercise induced asthma
+Asthma,6707,,extrinsic asthma with asthma attack
+Asthma,7058,,"emergency admission, asthma"
+Asthma,7146,,extrinsic (atopic) asthma
+Asthma,7191,,asthma limiting activities
+Asthma,7378,,asthma management plan given
+Asthma,7416,,asthma disturbing sleep
+Asthma,7731,,pollen asthma
+Asthma,8335,,asthma attack nos
+Asthma,8355,,asthma monitored
+Asthma,9018,,number of asthma exacerbations in past year
+Asthma,9552,,change in asthma management plan
+Asthma,9663,,step up change in asthma management plan
+Asthma,10043,,asthma annual review
+Asthma,10274,,asthma medication review
+Asthma,10487,,asthma - currently active
+Asthma,11370,,asthma confirmed
+Asthma,12987,,late-onset asthma
+Asthma,13064,,asthma severity
+Asthma,13065,,moderate asthma
+Asthma,13175,,asthma disturbs sleep frequently
+Asthma,13176,,asthma follow-up
+Asthma,14777,,extrinsic asthma without status asthmaticus
+Asthma,15248,,hay fever with asthma
+Asthma,16070,,asthma nos
+Asthma,16667,,asthma control step 2
+Asthma,16785,,asthma control step 1
+Asthma,18223,,step down change in asthma management plan
+Asthma,18224,,asthma control step 3
+Asthma,18323,,intrinsic asthma with asthma attack
+Asthma,19167,,asthma monitoring by nurse
+Asthma,19519,,asthma treatment compliance unsatisfactory
+Asthma,19520,,asthma treatment compliance satisfactory
+Asthma,19539,,asthma monitoring check done
+Asthma,20860,,asthma control step 5
+Asthma,20886,,asthma control step 4
+Asthma,21232,,allergic asthma nec
+Asthma,22752,,occupational asthma
+Asthma,24479,,emergency asthma admission since last appointment
+Asthma,24506,,further asthma - drug prevent.
+Asthma,24884,,asthma causes daytime symptoms 1 to 2 times per week
+Asthma,25181,,asthma restricts exercise
+Asthma,25791,,asthma clinical management plan
+Asthma,26501,,asthma never causes daytime symptoms
+Asthma,26503,,asthma causes daytime symptoms most days
+Asthma,26504,,asthma never restricts exercise
+Asthma,26506,,asthma severely restricts exercise
+Asthma,26861,,asthma sometimes restricts exercise
+Asthma,27926,,extrinsic asthma with status asthmaticus
+Asthma,29325,,intrinsic asthma without status asthmaticus
+Asthma,30458,,asthma monitoring by doctor
+Asthma,30815,,asthma causing night waking
+Asthma,31167,,asthma night-time symptoms
+Asthma,31225,,asthma causes daytime symptoms 1 to 2 times per month
+Asthma,38143,,asthma never disturbs sleep
+Asthma,38144,,asthma limits walking up hills or stairs
+Asthma,38145,,asthma limits walking on the flat
+Asthma,38146,,asthma disturbs sleep weekly
+Asthma,39478,,wood asthma
+Asthma,39570,,asthma causes night symptoms 1 to 2 times per month
+Asthma,40823,,brittle asthma
+Asthma,41017,,aspirin induced asthma
+Asthma,41020,,absent from work or school due to asthma
+Asthma,42824,,asthma daytime symptoms
+Asthma,45073,,intrinsic asthma nos
+Asthma,45782,,extrinsic asthma nos
+Asthma,46529,,attends asthma monitoring
+Asthma,47337,,asthma accident and emergency attendance since last visit
+Asthma,47684,,detergent asthma
+Asthma,58196,,intrinsic asthma with status asthmaticus
+Asthma,73522,,work aggravated asthma
+Asthma,93353,,sequoiosis (red-cedar asthma)
+Asthma,93736,,royal college of physicians asthma assessment
+Asthma,98185,,asthma control test
+Asthma,99793,,patient has a written asthma personal action plan
+Asthma,100107,,health education - asthma self management
+Asthma,100397,,asthma control questionnaire
+Asthma,100509,,under care of asthma specialist nurse
+Asthma,100740,,health education - structured asthma discussion
+Asthma,102170,,asthma review using roy colleg of physicians three questions
+Asthma,102209,,mini asthma quality of life questionnaire
+Asthma,102301,,asthma trigger - seasonal
+Asthma,102341,,asthma trigger - pollen
+Asthma,102395,,asthma causes symptoms most nights
+Asthma,102400,,asthma causes night time symptoms 1 to 2 times per week
+Asthma,102449,,asthma trigger - respiratory infection
+Asthma,102713,,asthma limits activities 1 to 2 times per month
+Asthma,102871,,asthma trigger - exercise
+Asthma,102888,,asthma limits activities 1 to 2 times per week
+Asthma,102952,,asthma trigger - warm air
+Asthma,103318,,health education - structured patient focused asthma discuss
+Asthma,103321,,asthma trigger - animals
+Asthma,103612,,asthma never causes night symptoms
+Asthma,103631,,royal college physician asthma assessment 3 question score
+Asthma,103813,,asthma trigger - cold air
+Asthma,103944,,asthma trigger - airborne dust
+Asthma,103945,,asthma trigger - damp
+Asthma,103952,,asthma trigger - emotion
+Asthma,103955,,asthma trigger - tobacco smoke
+Asthma,103998,,asthma limits activities most days
+Asthma,105420,,asthma self-management plan review
+Asthma,105674,,asthma self-management plan agreed
+Asthma,106805,,chronic asthma with fixed airflow obstruction
+Asthma,107167,,number days absent from school due to asthma in past 6 month
