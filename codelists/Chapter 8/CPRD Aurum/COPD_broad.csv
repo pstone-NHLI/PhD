@@ -1,0 +1,194 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+COPD (specific),11932331000006115,11932331000006104,11932331000006115,COPD GOLD group A
+COPD (specific),11932341000006113,11932341000006109,11932341000006113,COPD GOLD group B
+COPD (specific),11932351000006110,11932351000006106,11932351000006110,COPD GOLD group C
+COPD (specific),11932361000006112,11932361000006108,11932361000006112,COPD GOLD group D
+COPD (specific),216596014,135836000,216596014,End stage chronic obstructive airways disease
+COPD (specific),4510801000006114,135836000,3034045017,End stage chronic obstructive pulmonary disease
+COPD (specific),2716231000006114,13645005,23287019,Chronic obstructive lung disease
+COPD (specific),555471000006114,13645005,475423015,Chronic obstructive airways disease
+COPD (specific),2716321000006116,13645005,475427019,COPD - Chronic obstructive pulmonary disease
+COPD (specific),301545019,13645005,475428012,Chronic obstructive airways disease NOS
+COPD (specific),301539010,13645005,475428012,Other specified chronic obstructive airways disease
+COPD (specific),2716351000006113,13645005,475430014,COLD - Chronic obstructive lung disease
+COPD (specific),301836011,13645005,475431013,[X]Other specified chronic obstructive pulmonary disease
+COPD (specific),1222334016,13645005,475431013,Other specified chronic obstructive pulmonary disease
+COPD (specific),1222335015,13645005,475431013,Chronic obstructive pulmonary disease NOS
+COPD (specific),475431013,13645005,475431013,Chronic obstructive pulmonary disease
+COPD (specific),990641000006110,13645005,990641000006110,Chronic obst. pulm. dis. NOS
+COPD (specific),27096010,16003001,27096010,Giant bullous emphysema
+COPD (specific),1771201000006116,1771201000006100,1771201000006116,Chronic obstructive pulmonary disease multidisciplinary review
+COPD (specific),1823851000006119,1823851000006103,1823851000006119,Chronic obstructive pulmonary disease confirmed
+COPD (specific),1824071000006115,1824071000006104,1824071000006115,COPD clinical pathway protocol followed
+COPD (specific),1839331000006117,1839331000006101,1839331000006117,Seen in chronic obstructive pulmonary disease clinic
+COPD (specific),285100019,185086009,285100019,Emphysematous bronchitis
+COPD (specific),4732991000006119,185086009,285101015,Chronic bronchitis with emphysema
+COPD (specific),1856491000006119,1856491000006103,1856491000006119,Chronic obstructive pulmonary disease monitoring in primary care
+COPD (specific),1856501000006110,1856501000006106,1856501000006110,Chronic obstructive pulmonary disease monitoring secondary care
+COPD (specific),1856571000006116,1856571000006100,1856571000006116,Chronic obstructive pulmonary disease severity
+COPD (specific),1856581000006118,1856581000006102,1856581000006118,Chronic obstructive pulmonary disease monitoring default
+COPD (specific),1856591000006115,1856591000006104,1856591000006115,Chronic obstructive pulmonary disease follow-up assessment
+COPD (specific),1882421000006113,1882421000006109,1882421000006113,1 COPD exacerbation in past year
+COPD (specific),1882431000006111,1882431000006107,1882431000006111,3+ COPD exacerbations in past year
+COPD (specific),1882441000006118,1882441000006102,1882441000006118,2 COPD exacerbations in past year
+COPD (specific),1882451000006116,1882451000006100,1882451000006116,No COPD exacerbations in past year
+COPD (specific),4781421000006111,195951007,3012683010,Acute exacerbation of COPD
+COPD (specific),4781431000006114,195951007,3012710012,Acute exacerbation of chronic obstructive pulmonary disease
+COPD (specific),553211000006119,195951007,301453013,"Chron obstruct pulmonary dis wth acute exacerbation, unspec"
+COPD (specific),301453013,195951007,301453013,Acute exacerbation of chronic obstructive airways disease
+COPD (specific),301460019,195957006,301460019,Chronic bullous emphysema
+COPD (specific),301468014,195957006,301460019,Chronic bullous emphysema NOS
+COPD (specific),4781471000006112,195957006,301462010,Bullous emphysema
+COPD (specific),301463017,195958001,301463017,Segmental bullous emphysema
+COPD (specific),301464011,195959009,301464011,Zonal bullous emphysema
+COPD (specific),301470017,195963002,301470017,Acute vesicular emphysema
+COPD (specific),8058301000006110,198401000000104,1677391000000113,COPD (chronic obstructive pulmonary disease) disturbs sleep
+COPD (specific),299001000000116,198401000000104,299001000000116,Chronic obstructive pulmonary disease disturbs sleep
+COPD (specific),8058321000006117,198411000000102,1677401000000111,COPD (chronic obstructive pulmonary disease) does not disturb sleep
+COPD (specific),299031000000110,198411000000102,299031000000110,Chronic obstructive pulmonary disease does not disturb sleep
+COPD (specific),998281000006115,198901000000105,300201000000114,Multiple COPD emergency hospital admissions
+COPD (specific),2009451000006113,2009451000006109,2009451000006113,Chronic obstructive pulmonary disease post discharge review
+COPD (specific),2009501000006110,2009501000006106,2009501000006110,Suitable for step down change in COPD management plan
+COPD (specific),2009511000006113,2009511000006109,2009511000006113,Not suitable for step down change in COPD management plan
+COPD (specific),424365019,285381006,424365019,Acute infective exacerbation of chronic obstructive airways disease
+COPD (specific),516801000000112,293991000000106,516801000000112,Very severe chronic obstructive pulmonary disease
+COPD (specific),457168017,313296004,457168017,Mild chronic obstructive pulmonary disease
+COPD (specific),457169013,313297008,457169013,Moderate chronic obstructive pulmonary disease
+COPD (specific),457171013,313299006,457171013,Severe chronic obstructive pulmonary disease
+COPD (specific),1484924013,390891009,1484924013,Chronic obstructive pulmonary disease monitoring
+COPD (specific),1488423019,394702007,1488423019,Chronic obstructive pulmonary disease follow-up
+COPD (specific),845451000006118,394702007,1488423019,COPD follow-up
+COPD (specific),1494601017,394702007,1494601017,COAD follow-up
+COPD (specific),1488424013,394703002,1488424013,Chronic obstructive pulmonary disease annual review
+COPD (specific),12489801000006116,408501008,2160051010,Admit COPD emergency
+COPD (specific),2160051010,408501008,3082901016,Admit COPD emergency
+COPD (specific),6763251000006114,408501008,3082978011,Emergency hospital admission for COPD (chronic obstructive pulmonary disease)
+COPD (specific),6763231000006119,408501008,6763231000006119,Emergency hospital admission for chronic obstructive pulmonary disease
+COPD (specific),977891000006112,413845009,2533538014,COPD accident and emergency attendance since last visit
+COPD (specific),977901000006111,414087000,2533539018,Emergency COPD admission since last appointment
+COPD (specific),12759361000006112,611541000000106,1352151000000110,Chronic obstructive pulmonary disease NOS
+COPD (specific),12728161000006116,611541000000106,1352161000000113,Chronic obstructive airways disease NOS
+COPD (specific),885311000006116,611541000000106,885311000006116,Chronic obst. pulm. dis. NOS
+COPD (specific),1573111000000115,718241000000107,1573111000000115,Issue of chronic obstructive pulmonary disease rescue pack
+COPD (specific),8219501000006114,718241000000107,1573141000000119,Issue of COPD (chronic obstructive pulmonary disease) rescue pack
+COPD (specific),1683181000000112,760601000000107,1683181000000112,Chronic obstructive pulmonary disease 3 monthly review
+COPD (specific),8235101000006114,760601000000107,1709911000000112,COPD (chronic obstructive pulmonary disease) 3 monthly review
+COPD (specific),1683221000000119,760621000000103,1683221000000119,Chronic obstructive pulmonary disease 6 monthly review
+COPD (specific),8235131000006118,760621000000103,1710191000000113,COPD (chronic obstructive pulmonary disease) 6 monthly review
+COPD (specific),1813871000006117,826111000000109,2149041000000110,On chronic obstructive pulmonary disease supprtv cre pathway
+COPD (specific),1813881000006119,826111000000109,2155811000000119,On COPD (chr obstruc pulmonary disease) supportv cre pathway
+COPD (specific),2152091000000112,827571000000106,2152091000000112,Has chronic obstructive pulmonary disease care plan
+COPD (specific),2010061000006113,847091000000104,2196421000000114,Acute non-infective exacerbation of chronic obstructive pulmonary disease
+COPD (specific),8287171000006115,847091000000104,2196431000000111,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease)
+COPD (specific),2199261000000110,848431000000106,2199261000000110,Chronic obstructive pulmonary disease care pathway
+COPD (specific),8288261000006119,848431000000106,2199291000000116,COPD (chronic obstructive pulmonary disease) care pathway
+COPD (specific),2219551000000113,857661000000104,2219551000000113,Seen in chronic obstructive pulmonary disease clinic
+COPD (specific),8294561000006110,857661000000104,2219581000000119,Seen in COPD (chronic obstructive pulmonary disease) clinic
+COPD (specific),301477019,87433001,144964015,Emphysema NOS
+COPD (specific),396110016,87433001,144964015,Other emphysema NOS
+COPD (specific),640491000006111,87433001,144964015,Emphysema
+COPD (specific),301835010,87433001,144964015,[X]Other emphysema
+COPD (specific),301469018,87433001,144964015,Other emphysema
+COPD (specific),3921361000006112,87433001,144967010,Emphysema of lung
+COPD (specific),909711000006111,909711000006107,909711000006111,[RFC] Chronic obstructive pulmonary disease (COPD)
+COPD (specific),909721000006115,909721000006104,909721000006115,[RFC] Emphysema
+COPD (broad),12626281000006113,1110861000000102,2779701000000115,QOF (Quality and Outcomes Framework) chronic obstructive pulmonary disease quality indicator-related care invitation
+COPD (broad),11932321000006118,11932321000006102,11932321000006118,The Global Initiative for Chronic Obstructive Lung Disease (GOLD) classification
+COPD (broad),2716241000006116,13645005,475419011,Chronic airway obstruction
+COPD (broad),2716251000006119,13645005,475420017,Chronic irreversible airway obstruction
+COPD (broad),2716261000006117,13645005,475421018,Chronic airflow obstruction
+COPD (broad),2716271000006112,13645005,475422013,CAFL - Chronic airflow limitation
+COPD (broad),2716291000006113,13645005,475424014,CAO - Chronic airflow obstruction
+COPD (broad),2716301000006114,13645005,475425010,Chronic airflow limitation
+COPD (broad),2716311000006112,13645005,475426011,CAL - Chronic airflow limitation
+COPD (broad),2716341000006111,13645005,475429016,Chronic airway disease
+COPD (broad),990651000006112,13645005,990651000006112,Chr. airway obstruction NOS
+COPD (broad),1656601000006119,1656601000006103,1656601000006119,COPD patient unsuitable for pulmonary rehabilitation
+COPD (broad),2767261000006118,16838000,28510013,Mediastinal emphysema
+COPD (broad),264537018,170628003,1489743015,Airways obstructn irreversible
+COPD (broad),12482551000006112,170628003,264537018,Airways obstructn irreversible
+COPD (broad),4635301000006114,170628003,4635301000006114,Airways obstruction irreversible
+COPD (broad),1724351000006112,1724351000006108,1724351000006112,Clinical COPD Questionnaire
+COPD (broad),1763751000006117,1763751000006101,1763751000006117,GP out of hours notified of COPD care plan
+COPD (broad),1771441000006118,1771441000006102,1771441000006118,COPD patient experience discussed
+COPD (broad),1788021000006116,1788021000006100,1788021000006116,Chronic obstructive pulmonary disease rescue pack not indicated
+COPD (broad),1822171000006111,1822171000006107,1822171000006111,COPD pathway protocol not followed
+COPD (broad),4733031000006114,185086009,2668815014,Chronic obstructive bronchitis
+COPD (broad),301455018,185086009,285100019,Obstructive chronic bronchitis NOS
+COPD (broad),285104011,185086009,285100019,Obstructive chronic bronchitis
+COPD (broad),4733001000006118,185086009,285102010,Bronchitis with airway obstruction
+COPD (broad),4733011000006115,185086009,285103017,COB - Chronic obstructive bronchitis
+COPD (broad),4733021000006111,185086009,285104011,Obstructive chronic bronchitis
+COPD (broad),1882371000006118,1882371000006102,1882371000006118,Shared care chronic obstructive pulmonary disease monitoring
+COPD (broad),183191000006115,195949008,301450011,Recurrent wheezy bronchitis
+COPD (broad),301451010,195949008,301451010,Chronic wheezy bronchitis
+COPD (broad),301456017,195953005,301456017,Mixed simple and mucopurulent chronic bronchitis
+COPD (broad),4781461000006117,195957006,301461015,Emphysematous bulla
+COPD (broad),1970531000006111,1970531000006107,1970531000006111,COPD assessment test score - cough
+COPD (broad),1970541000006118,1970541000006102,1970541000006118,COPD assessment test score - phlegm (mucus)
+COPD (broad),1970551000006116,1970551000006100,1970551000006116,COPD assessment test score - chest tightness
+COPD (broad),1970561000006119,1970561000006103,1970561000006119,COPD assessment test score - breathless walking up hill/stairs
+COPD (broad),1970571000006114,1970571000006105,1970571000006114,COPD assessment test score - activity limitation at home
+COPD (broad),1970581000006112,1970581000006108,1970581000006112,COPD assessment test score - confidence leaving home
+COPD (broad),1970591000006110,1970591000006106,1970591000006110,COPD assessment test score - sleeping soundly
+COPD (broad),1970601000006119,1970601000006103,1970601000006119,COPD assessment test score - energy
+COPD (broad),396108018,266355005,396108018,Bullous emphysema with collapse
+COPD (broad),1704541000006113,371611000000107,1152601000000114,COPD patient unsuitable for pulmonary rehabilitation
+COPD (broad),1704531000006115,371611000000107,1152601000000114,COPD patient unsuitable for pulmonary rehab - enh serv admin
+COPD (broad),8120981000006112,371611000000107,730041000000110,COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation
+COPD (broad),1704521000006118,374591000000101,1152521000000118,COPD - enhanced services administration
+COPD (broad),1704561000006112,375851000000108,739301000000115,Refer COPD structured smoking assessment - enhanc serv admin
+COPD (broad),1704551000006110,375851000000108,739301000000115,Referred for COPD structured smoking assessment
+COPD (broad),1704581000006119,375911000000102,739421000000116,COPD structured smoking assessment declined
+COPD (broad),1704571000006117,375911000000102,739421000000116,COPD structured smoking assessment declined - enh serv admin
+COPD (broad),1699821000006113,383611000000102,756761000000112,At risk of chronic obstructive pulmonary diseas exacerbation
+COPD (broad),8125721000006119,383611000000102,756791000000118,At risk of COPD (chronic obstructive pulmonary disease) exacerbation
+COPD (broad),839001000006111,390891009,1484924013,COPD self-management plan given
+COPD (broad),1484971019,390941006,1484971019,Chronic obstructive pulmonary disease monitoring due
+COPD (broad),1780380013,401184000,1780380013,Chronic obstructive pulmonary disease monitoring by nurse
+COPD (broad),1780381012,401185004,1780381012,Chronic obstructive pulmonary disease monitoring by doctor
+COPD (broad),7304221000006115,445192002,1641851000000118,CCQ (clinical chronic obstructive pulmonary disease questionnaire) total score
+COPD (broad),7304231000006117,445192002,1650051000000118,Clinical COPD (chronic obstructive pulmonary disease) questionnaire total score
+COPD (broad),1161361000000118,445192002,2872607015,Clinical chronic obstructive pulmonary disease questionnaire
+COPD (broad),7304211000006111,445192002,7304211000006111,Clinical chronic obstructive pulmonary disease questionnaire total score
+COPD (broad),7327771000006110,446660005,1712341000000119,CAT - COPD (chronic obstructive pulmonary disease) assessment test score
+COPD (broad),1176861000000111,446660005,2883862010,Chronic obstructive pulmonary disease assessment test
+COPD (broad),7327761000006115,446660005,7327761000006115,Chronic obstructive pulmonary disease assessment test score
+COPD (broad),7484331000006119,473202005,2956201010,Optimization of medication for chronic obstructive pulmonary disease
+COPD (broad),7484341000006112,473202005,2956280014,Optimization of medication for chronic obstructive lung disease
+COPD (broad),1783891000006115,473202005,3297697018,Chronic obstructiv pulmonary disease medication optimisation
+COPD (broad),7484351000006114,473202005,3297724010,Optimisation of medication for chronic obstructive lung disease
+COPD (broad),2578881000006118,4981000,9336013,Panacinar emphysema
+COPD (broad),9337016,4981000,9337016,Panlobular emphysema
+COPD (broad),885301000006119,611541000000106,885301000006119,Chr. airway obstruction NOS
+COPD (broad),508561017,61937009,102938011,Simple chronic bronchitis
+COPD (broad),301444018,61937009,102938011,Simple chronic bronchitis NOS
+COPD (broad),301457014,63480004,105519017,Other chronic bronchitis
+COPD (broad),301459012,63480004,105519017,Chronic bronchitis NOS
+COPD (broad),301458016,63480004,105519017,Other chronic bronchitis NOS
+COPD (broad),105519017,63480004,105519017,Chronic bronchitis
+COPD (broad),3611791000006110,68328006,113496019,Centriacinar emphysema
+COPD (broad),113497011,68328006,113497011,Centrilobular emphysema
+COPD (broad),3011135010,704123000,3011135010,Step down change in chronic obstructive pulmonary disease management plan
+COPD (broad),977911000006114,723245007,3335171010,Number of COPD exacerbations in past year
+COPD (broad),966841000006111,736283006,3517019016,Chronic obstructive pulmonary disease clini management plan
+COPD (broad),405121000000111,741056003,3543021016,Health education - chronic obstructive pulmonary disease
+COPD (broad),301448015,74417001,123588010,Mucopurulent chronic bronchitis NOS
+COPD (broad),123588010,74417001,123588010,Mucopurulent chronic bronchitis
+COPD (broad),885281000006118,74417001,885281000006118,Mucopurulent chr. bronchitis
+COPD (broad),1784071000006113,789661000000102,1765431000000114,Preferred place of care for next exacerbation of COPD
+COPD (broad),1784371000006111,790301000000101,1766811000000114,Referral to COPD community nursing team
+COPD (broad),8249051000006111,790301000000101,1766841000000110,Referral to COPD (chronic obstructive pulmonary disease) community nursing team
+COPD (broad),1811741000006117,810951000000101,2115731000000110,COPD self-management plan review
+COPD (broad),8260631000006112,810951000000101,2115741000000118,COPD (chronic obstructive pulmonary disease) self-management plan review
+COPD (broad),1811661000006110,811961000000106,2117851000000118,COPD self-management plan agreed
+COPD (broad),1813021000006111,820341000000109,2136671000000116,Chronic obstructve pulmonry disease rescue pack not indicatd
+COPD (broad),8268191000006115,820341000000109,2136701000000117,COPD (chronic obstructive pulmonary disease) rescue pack not indicated
+COPD (broad),506053014,84409004,506053014,Purulent chronic bronchitis
+COPD (broad),2219861000000114,857791000000103,2219861000000114,Chronic obstructive pulmonary disease rescue pack declined
+COPD (broad),8294651000006114,857791000000103,2219871000000119,COPD (chronic obstructive pulmonary disease) rescue pack declined
+COPD (broad),1885981000006112,857811000000102,2219921000000111,Chronic obstructive pulmon dis wr self managem plan declined
+COPD (broad),8294671000006116,857811000000102,2219931000000113,COPD (chronic obstructive pulmonary disease) written self management plan declined
+COPD (broad),2308511000000113,897311000000101,2308511000000113,Shared care chronic obstructive pulmonary disease monitoring
+COPD (broad),8316481000006116,897311000000101,2312551000000112,Shared care COPD (chronic obstructive pulmonary disease) monitoring
+COPD (broad),939991000006112,939991000006108,939991000006112,COPD medication review

@@ -1,0 +1,122 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Asthma,655601000006113,,,Exercise induced asthma
+Asthma,95786019,,,Occupational asthma
+Asthma,983771000006118,,,Work aggravated asthma
+Asthma,929091000006111,,,Aspirin induced asthma
+Asthma,1739151000000116,,,Asthma trigger - pollen
+Asthma,1739161000000118,,,Asthma trigger - tobacco smoke
+Asthma,1739171000000113,,,Asthma trigger - warm air
+Asthma,636271000000117,,,Asthma trigger - emotion
+Asthma,636251000000114,,,Asthma trigger - damp
+Asthma,305611000000115,,,Asthma trigger - animals
+Asthma,636311000000117,,,Asthma trigger - seasonal
+Asthma,636231000000119,,,Asthma trigger - cold air
+Asthma,636291000000118,,,Asthma trigger - respiratory infection
+Asthma,1739131000000111,,,Asthma trigger - airborne dust
+Asthma,1739141000000119,,,Asthma trigger - exercise
+Asthma,1780388018,,,Asthma confirmed
+Asthma,536221000000110,,,Royal College of Physicians asthma assessment
+Asthma,1766051000006114,,,Royal College Physician asthma assessment 3 question score
+Asthma,1118291000000110,,,Asthma control test
+Asthma,1139011000000112,,,Asthma control questionnaire
+Asthma,1139051000000111,,,Mini asthma quality of life questionnaire
+Asthma,2117771000000117,,,Asthma self-management plan agreed
+Asthma,2115631000000117,,,Asthma self-management plan review
+Asthma,411877015,,,Asthma monitoring
+Asthma,264540018,,,Asthma disturbing sleep
+Asthma,264541019,,,Asthma causing night waking
+Asthma,264542014,,,Asthma disturbs sleep weekly
+Asthma,264543016,,,Asthma disturbs sleep frequently
+Asthma,264545011,,,Asthma never disturbs sleep
+Asthma,264546012,,,Asthma limiting activities
+Asthma,1722581000000112,,,Asthma limits activities 1 to 2 times per month
+Asthma,1722651000000119,,,Asthma limits activities 1 to 2 times per week
+Asthma,1722731000000116,,,Asthma limits activities most days
+Asthma,264550017,,,Asthma management plan given
+Asthma,264551018,,,Asthma severity
+Asthma,1208971012,,,Occasional asthma
+Asthma,1208969012,,,Mild asthma
+Asthma,1208970013,,,Moderate asthma
+Asthma,1208972017,,,Severe asthma
+Asthma,264565016,,,Emergency asthma admission since last appointment
+Asthma,264566015,,,Asthma restricts exercise
+Asthma,264567012,,,Asthma sometimes restricts exercise
+Asthma,264568019,,,Asthma severely restricts exercise
+Asthma,264569010,,,Asthma never restricts exercise
+Asthma,456163018,,,Asthma - currently active
+Asthma,216186011,,,Asthma accident and emergency attendance since last visit
+Asthma,1208977011,,,Asthma treatment compliance satisfactory
+Asthma,1208976019,,,Asthma treatment compliance unsatisfactory
+Asthma,1212342016,,,Asthma daytime symptoms
+Asthma,1208957016,,,Asthma causes night symptoms 1 to 2 times per month
+Asthma,1208960011,,,Asthma never causes daytime symptoms
+Asthma,1208954011,,,Asthma causes daytime symptoms 1 to 2 times per month
+Asthma,1208955012,,,Asthma causes daytime symptoms 1 to 2 times per week
+Asthma,1208956013,,,Asthma causes daytime symptoms most days
+Asthma,1208959018,,,Asthma limits walking up hills or stairs
+Asthma,1208958014,,,Asthma limits walking on the flat
+Asthma,1208962015,,,Number of asthma exacerbations in past year
+Asthma,1484905010,,,Change in asthma management plan
+Asthma,1484910014,,,Step up change in asthma management plan
+Asthma,1484911013,,,Step down change in asthma management plan
+Asthma,1484953014,,,Absent from work or school due to asthma
+Asthma,1488421017,,,Asthma annual review
+Asthma,1488422012,,,Asthma follow-up
+Asthma,1488722011,,,Asthma night-time symptoms
+Asthma,1780378019,,,Asthma monitoring by nurse
+Asthma,1780379010,,,Asthma monitoring by doctor
+Asthma,1753401000006117,,,Asthma review using Roy Colleg of Physicians three questions
+Asthma,1722421000000110,,,Asthma causes night time symptoms 1 to 2 times per week
+Asthma,1722501000000119,,,Asthma causes symptoms most nights
+Asthma,1768981000000110,,,Asthma never causes night symptoms
+Asthma,1811901000006116,,,Number days absent from school due to asthma in past 6 month
+Asthma,1176501000000114,,,Health education - asthma self management
+Asthma,1176541000000112,,,Health education - structured asthma discussion
+Asthma,1739871000006114,,,Health education - structured patient focused asthma discuss
+Asthma,797211000006117,,,Further asthma - drug prevent.
+Asthma,282489019,,,Asthma control step 1
+Asthma,282490011,,,Asthma control step 2
+Asthma,282491010,,,Asthma control step 3
+Asthma,282492015,,,Asthma control step 4
+Asthma,282493013,,,Asthma control step 5
+Asthma,1488436019,,,Asthma medication review
+Asthma,1176461000000114,,,Patient has a written asthma personal action plan
+Asthma,2474332015,,,Asthma clinical management plan
+Asthma,283550015,,,"Emergency admission, asthma"
+Asthma,1139131000000117,,,Under care of asthma specialist nurse
+Asthma,285727014,,,Attends asthma monitoring
+Asthma,405055018,,,Asthma monitoring check done
+Asthma,405054019,,,Asthma monitored
+Asthma,301450011,,,Chronic asthmatic bronchitis
+Asthma,301485011,,,Asthma
+Asthma,301480018,,,Bronchial asthma
+Asthma,660351000006118,,,Extrinsic (atopic) asthma
+Asthma,1483199016,,,Allergic asthma
+Asthma,817361000006114,,,Hay fever with asthma
+Asthma,350154010,,,Pollen asthma
+Asthma,104872017,,,Extrinsic asthma without status asthmaticus
+Asthma,350153016,,,Hay fever with asthma
+Asthma,151338014,,,Extrinsic asthma with status asthmaticus
+Asthma,350151019,,,Extrinsic asthma with asthma attack
+Asthma,301499010,,,Extrinsic asthma NOS
+Asthma,396114013,,,Intrinsic asthma
+Asthma,350148014,,,Late onset asthma
+Asthma,21390015,,,Intrinsic asthma without status asthmaticus
+Asthma,98546013,,,Intrinsic asthma with status asthmaticus
+Asthma,350156012,,,Intrinsic asthma with asthma attack
+Asthma,301508013,,,Intrinsic asthma NOS
+Asthma,419211018,,,Acute exacerbation of asthma
+Asthma,338238011,,,Brittle asthma
+Asthma,2240591000000119,,,Chronic asthma with fixed airflow obstruction
+Asthma,301511014,,,Asthma unspecified
+Asthma,396118011,,,Status asthmaticus NOS
+Asthma,145961000006117,,,Severe asthma attack
+Asthma,396119015,,,Asthma attack
+Asthma,409865018,,,Asthma attack NOS
+Asthma,350149018,,,Late-onset asthma
+Asthma,396120014,,,Asthma NOS
+Asthma,655611000006111,,,Exercise induced asthma
+Asthma,350152014,,,Allergic asthma NEC
+Asthma,149741000006116,,,Sequoiosis (red-cedar asthma)
+Asthma,94731013,,,Wood asthma
+Asthma,69311016,,,Detergent asthma

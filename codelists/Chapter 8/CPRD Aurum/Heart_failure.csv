@@ -1,0 +1,57 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Heart failure,18472010,10633002,18472010,acute congestive heart failure
+Heart failure,206703015,128404006,206703015,right heart failure
+Heart failure,216184014,134378009,216184014,congestive heart failure monitoring
+Heart failure,216246012,134440006,216246012,referral to heart failure clinic
+Heart failure,1747691000006119,1747691000006103,1747691000006119,emergency heart failure admission since last appointment
+Heart failure,1856361000006116,1856361000006100,1856361000006116,heart failure monitoring in primary care
+Heart failure,1856371000006111,1856371000006107,1856371000006111,heart failure monitoring in secondary care
+Heart failure,1856381000006114,1856381000006105,1856381000006114,heart failure monitoring default
+Heart failure,741701000006114,194779001,299672017,hypertensive heart&renal dis wth (congestive) heart failure
+Heart failure,300179017,195111005,300179017,decompensated cardiac failure
+Heart failure,300180019,195112003,300180019,compensated cardiac failure
+Heart failure,300217019,195130005,300214014,post cardiac operation heart failure nos
+Heart failure,303361000000111,200171000000102,303361000000111,referred by heart failure nurse specialist
+Heart failure,308261000000111,202231000000106,308261000000111,heart failure review completed
+Heart failure,350484012,233924009,350484012,heart failure as a complication of care
+Heart failure,404741000000119,247361000000100,404741000000119,heart failure 6 month review
+Heart failure,451426015,308118002,451426015,cardiac failure therapy
+Heart failure,6978012,3545003,6978012,diastolic dysfunction
+Heart failure,1484917012,390884006,1484917012,heart failure follow-up
+Heart failure,1484918019,390885007,1484918019,heart failure annual review
+Heart failure,1488804017,395105005,1488804017,heart failure confirmed
+Heart failure,1489358014,395704004,1489358014,left ventricular diastolic dysfunction
+Heart failure,2159198010,407597004,2159198010,echocardiogram shows left ventricular diastolic dysfunction
+Heart failure,2549128016,416610007,2549128016,right ventricular diastolic dysfunction
+Heart failure,12490061000006118,416683003,2549208013,admit heart failure emergency
+Heart failure,2549208013,416683003,3082850014,admit heart failure emergency
+Heart failure,6895651000006113,416683003,6895651000006113,emergency hospital admission for heart failure
+Heart failure,2549243014,416717003,2549243014,seen in heart failure clinic
+Heart failure,2549697018,417146007,2549697018,referral to heart failure nurse
+Heart failure,3182541000006117,42343007,493287011,congestive cardiac failure
+Heart failure,3182551000006115,42343007,493288018,ccf - congestive cardiac failure
+Heart failure,3182561000006118,42343007,493289014,chf - congestive heart failure
+Heart failure,493287011,42343007,70653017,congestive cardiac failure
+Heart failure,70653017,42343007,70653017,congestive heart failure
+Heart failure,2675255018,426611007,2675255018,congestive heart failure due to valvular disease
+Heart failure,2694523019,429589006,2694523019,left ventricular cardiac dysfunction
+Heart failure,1661371000000112,446221000,1713091000000115,hfnef - heart failure with normal ejection fraction
+Heart failure,2227501000000110,446221000,2227501000000110,heart failure with preserved ejection fraction
+Heart failure,1647701000000118,446221000,2883808011,heart failure with normal ejection fraction
+Heart failure,7321121000006119,446221000,3496968011,heart failure with preserved ejection fraction
+Heart failure,94251011,56675007,94251011,acute heart failure
+Heart failure,11998611000006112,763008007,3637539017,"congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischaemic attack score"
+Heart failure,11998621000006116,763008007,3637540015,"congestive heart failure, hypertension, age 75 years or older, diabetes mellitus and previous stroke or transient ischemic attack score"
+Heart failure,1746171000000119,781051000000108,1746171000000119,has heart failure management plan
+Heart failure,3852501000006115,83105008,137848017,malignant hypertensive heart disease with congestive heart failure
+Heart failure,3868341000006118,84114007,1234906013,hf - heart failure
+Heart failure,139475013,84114007,139475013,heart failure
+Heart failure,395772015,84114007,139475013,heart failure nos
+Heart failure,139482012,84114007,139482012,cardiac failure
+Heart failure,223981000000118,84114007,139482012,cardiac failure nos
+Heart failure,3886041000006118,85232009,141303019,left heart failure
+Heart failure,3886061000006119,85232009,201199018,left-sided heart failure
+Heart failure,147247018,88805009,147247018,chronic congestive heart failure
+Heart failure,905391000006119,905391000006103,905391000006119,[rfc] cardiac failure
+Heart failure,2352391000000117,915571000000102,2352391000000117,on optimal heart failure therapy
+Heart failure,939571000006115,939571000006104,939571000006115,diastolic dysfunction

@@ -1,0 +1,70 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Stroke,249723017,160271002,249723017,no fh: cva/stroke/tia
+Stroke,238651000006115,175071008,271150014,percut transluminal coronary thrombolysis with streptokinase
+Stroke,1773371000006117,1773371000006101,1773371000006117,cerebrovascular accident care plan
+Stroke,1823911000006110,1823911000006106,1823911000006110,cerebrovascular disorder confirmed
+Stroke,1855551000006119,1855551000006103,1855551000006119,cerebrovascular disease monitoring in primary care
+Stroke,1855561000006117,1855561000006101,1855561000006117,cerebrovascular disease monitoring in secondary care
+Stroke,1855571000006112,1855571000006108,1855571000006112,cerebrovascular disease monitoring default
+Stroke,1857051000006118,1857051000006102,1857051000006118,cerebrovascular disease management
+Stroke,300366019,195213000,300366019,cerebellar stroke syndrome
+Stroke,300370010,195216008,300370010,left sided cva
+Stroke,300371014,195217004,300371014,right sided cva
+Stroke,426321000006116,195239002,300403014,"[x]sequelae of stroke,not specfd as h'morrhage or infarction"
+Stroke,426481000006114,195239002,300403014,[x]sequelae/other + unspecified cerebrovascular diseases
+Stroke,4778311000006112,195239002,300404015,sequelae of cerebrovascular disease
+Stroke,1992451000006114,1992451000006105,1992451000006114,vte risk assessment - acute stroke
+Stroke,1994761000006112,1994761000006108,1994761000006112,referral to stroke rehabilitation service
+Stroke,2008521000006110,2008521000006106,2008521000006110,referral to community stroke service
+Stroke,306621000000116,201501000000108,306621000000116,seen in stroke clinic
+Stroke,605491000006113,230690007,345635016,cva - cerebrovascular accident unspecified
+Stroke,5010981000006119,230690007,345636015,stroke
+Stroke,122401000006115,230690007,345637012,stroke unspecified
+Stroke,405339016,230690007,345637012,stroke and cerebrovascular accident unspecified
+Stroke,605501000006117,230690007,345637012,cva unspecified
+Stroke,5011021000006113,230691006,2914970017,cerebrovascular accident due to cerebral artery occlusion
+Stroke,122361000006113,230691006,345638019,stroke due to cerebral arterial occlusion
+Stroke,605461000006117,230691006,345638019,cva - cerebral artery occlusion
+Stroke,11878511000006113,230691006,3636108019,cerebrovascular accident due to occlusion of cerebral artery
+Stroke,5011161000006115,230698000,345652017,lacunar stroke
+Stroke,11903571000006110,274100004,11903571000006110,stroke due to intracerebral haemorrhage
+Stroke,605471000006112,274100004,409859018,cva - cerebrovascular accid due to intracerebral haemorrhage
+Stroke,122371000006118,274100004,409860011,stroke due to intracerebral haemorrhage
+Stroke,406159015,275104002,1550131000000119,fh: cva/stroke
+Stroke,2476084015,275104002,2476084015,fh: cva
+Stroke,605481000006110,275434003,411416011,cva - cerebrovascular accident in the puerperium
+Stroke,809421000006116,275526006,2986886017,h/o: cva/stroke
+Stroke,411518010,275526006,411518010,h/o: cva
+Stroke,300380014,29322000,49074018,acute cerebrovascular insufficiency nos
+Stroke,300379011,302909007,444905019,generalised ischaemic cerebrovascular disease nos
+Stroke,800691000006113,302909007,444905019,generalised ischaemic cerebrovascular disease nos
+Stroke,5960821000006117,306802002,449934011,referral to stroke service
+Stroke,449935012,306803007,449935012,admission to stroke unit
+Stroke,1212072018,373606000,1212072018,occlusive stroke
+Stroke,2474330011,412773009,2474330011,referral to stroke clinic
+Stroke,6837051000006119,413102000,2966612019,basal ganglion stroke
+Stroke,2469365010,413124000,2469365010,stroke / transient ischaemic attack referral
+Stroke,6837371000006110,413124000,2469839018,stroke / transient ischemic attack referral
+Stroke,6837381000006113,413124000,2694676019,stroke/transient ischemic attack referral
+Stroke,6907881000006118,417506008,2548553019,hemorrhagic stroke monitoring
+Stroke,1130181000000113,443929000,2842187014,small vessel cerebrovascular disease
+Stroke,8195421000006116,519751000000106,1160481000000113,cerebrovascular accident (cva) 6 month review
+Stroke,104563015,62914000,104563015,cerebrovascular disease
+Stroke,300374018,62914000,104563015,other cerebrovascular disease
+Stroke,300401011,62914000,104563015,other cerebrovascular disease os
+Stroke,300402016,62914000,104563015,other cerebrovascular disease nos
+Stroke,300418010,62914000,104563015,other specified cerebrovascular disease
+Stroke,300419019,62914000,104563015,cerebrovascular disease nos
+Stroke,370711000006115,62914000,104563015,[x]cerebrovascular diseases
+Stroke,407291000006117,62914000,104563015,[x]other cerebrovascular disorders in diseases ce
+Stroke,3522701000006112,62914000,499414018,cvd - cerebrovascular disease
+Stroke,12727691000006117,685631000000102,1501361000000113,stroke and cerebrovascular accident unspecified
+Stroke,884521000006115,685631000000102,884521000006115,stroke/cva - undefined
+Stroke,884531000006117,685631000000102,884531000006117,stroke
+Stroke,2126181000000114,699270006,2983500010,stroke annual review
+Stroke,1780304018,699270006,2983515011,stroke/cva annual review
+Stroke,907581000006119,907581000006103,907581000006119,[rfc] stroke/cva
+Stroke,907591000006116,907591000006100,907591000006116,[rfc] stroke
+Stroke,908801000006114,908801000006105,908801000006114,[rfc] stroke
+Stroke,909171000006115,909171000006104,909171000006115,[rfc] cva
+Stroke,4057041000006110,95457000,2966556014,brain stem stroke

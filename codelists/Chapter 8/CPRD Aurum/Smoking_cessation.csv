@@ -1,0 +1,55 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Smoking cessation,2717211000000112,1084381000000100,2717211000000112,Signposting to smoking cessation service
+Smoking cessation,1175011000000112,1087441000000106,2724181000000114,Smoking cessation programme declined
+Smoking cessation,1591651000006110,1591651000006106,1591651000006110,Smoking cessation referral declined
+Smoking cessation,250373019,160617001,250373019,Stopped smoking
+Smoking cessation,1626121000006116,1626121000006100,1626121000006116,Smoking cessation drug therapy - varenicline
+Smoking cessation,1777011000006118,1777011000006102,1777011000006118,Reason for referral: Smoking Cessation
+Smoking cessation,1873511000006118,1873511000006102,1873511000006118,Care contact service: Smoking/substance cessation/interven prog.
+Smoking cessation,1979491000006115,1979491000006104,1979491000006115,Smoking cessation follow-up
+Smoking cessation,1771191000006119,201941000000100,307621000000118,Attends smoking cessation clinic not at practice
+Smoking cessation,338608011,225323000,338608011,Smoking cessation advice
+Smoking cessation,459722017,315232003,459722017,Referral to stop-smoking clinic
+Smoking cessation,37311000006117,37311000006101,37311000006117,Other anti-smoking drug given
+Smoking cessation,736241000000116,374361000000100,1152641000000112,Smoking cessation - enhanced services administration
+Smoking cessation,1704551000006110,375851000000108,739301000000115,Referred for COPD structured smoking assessment
+Smoking cessation,1704561000006112,375851000000108,739301000000115,Refer COPD structured smoking assessment - enhanc serv admin
+Smoking cessation,1704571000006117,375911000000102,739421000000116,COPD structured smoking assessment declined - enh serv admin
+Smoking cessation,1704581000006119,375911000000102,739421000000116,COPD structured smoking assessment declined
+Smoking cessation,1489355012,395700008,1489355012,Referral to smoking cessation advisor
+Smoking cessation,1780273014,401068004,1780273014,Seen by smoking cessation advisor
+Smoking cessation,1773560017,401160008,1773560017,Smoking cessation programme start date
+Smoking cessation,6649431000006116,401160008,1774846018,Smoking cessation program start date
+Smoking cessation,1715591000006117,505281000000106,1122921000000113,Referral to NHS stop smoking service
+Smoking cessation,8190531000006112,505281000000106,1133211000000119,Referral to NHS (National Health Service) stop smoking service
+Smoking cessation,1123541000000118,505581000000108,1123541000000118,Stop smoking face to face follow-up
+Smoking cessation,1125741000000111,506491000000102,1125741000000111,Brief intervention for smoking cessation
+Smoking cessation,1176421000000118,527151000000107,1176421000000118,Smoking cessation advice declined
+Smoking cessation,2982426011,699033005,2982426011,Provision of smoking cessation leaflet
+Smoking cessation,482871000000111,710081004,3043296015,Other specified smoking cessation therapy
+Smoking cessation,489931000000114,710081004,3043296015,Smoking cessation therapy NOS
+Smoking cessation,492511000000117,710081004,3043296015,Smoking cessation therapy
+Smoking cessation,1563081000000115,712971000000108,1563081000000115,Practice based smoking cessation programme start date
+Smoking cessation,482771000000118,713700008,3297364011,Smoking cessation drug therapy
+Smoking cessation,1755201000006117,750821000000109,1651651000000115,Consent given for follow-up evaluation after smoking cessation intervention
+Smoking cessation,1755231000006113,751101000000101,1652471000000119,Declined consent for follow-up evaluation after smoking cessation intervention
+Smoking cessation,1662911000000114,755721000000107,1662911000000114,Consent given for follow-up by smoking cessation team
+Smoking cessation,1662951000000113,755741000000100,1662951000000113,Declined consent for follow-up by smoking cessation team
+Smoking cessation,12024761000006112,765001003,3656019011,Monitoring of smoking cessation therapy declined
+Smoking cessation,1709641000000115,767641000000109,1709641000000115,Referral for smoking cessation service offered
+Smoking cessation,1750931000000118,783011000000105,1750931000000118,Stop smoking service opportunity signposted
+Smoking cessation,2141561000000115,822591000000108,2141561000000115,Smoking cessation drug therapy declined
+Smoking cessation,2636041000006110,8517006,15048013,Cessation of smoking
+Smoking cessation,852121000006114,852121000006105,852121000006114,Smoking cessation-maintain abstinence
+Smoking cessation,852131000006112,852131000006108,852131000006112,Smoking cessation-practice nurse support
+Smoking cessation,856371000006111,856371000006107,856371000006111,Smoking clinic
+Smoking cessation,2251871000000112,871641000000105,2251871000000112,Referral to smoking cessation service declined
+Smoking cessation,2251911000000114,871661000000106,2251911000000114,Referral to smoking cessation service
+Smoking cessation,904011000006114,904011000006105,904011000006114,Smoking cessation declaration signed by patient
+Smoking cessation,904181000006118,904181000006102,904181000006118,Smoking cessation counselling
+Smoking cessation,904221000006110,904221000006106,904221000006110,Smoking cessation bupropion therapy
+Smoking cessation,904231000006113,904231000006109,904231000006113,Smoking cessation counselling by telephone
+Smoking cessation,904241000006115,904241000006104,904241000006115,Smoking cessation counselling in person
+Smoking cessation,909391000006117,909391000006101,909391000006117,[RFC] Smoking cessation
+Smoking cessation,2462391000000119,966971000000103,2462391000000119,Varenicline smoking cessation therapy declined
+Smoking cessation,2462431000000110,966991000000104,2462431000000110,Varenicline smoking cessation therapy offered

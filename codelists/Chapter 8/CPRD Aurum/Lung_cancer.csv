@@ -1,0 +1,51 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Lung cancer,292105018,1090881000000100,2732641000000116,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+Lung cancer,723301000006110,109371002,1219469018,Malignant neoplasm of overlapping lesion of bronchus & lung
+Lung cancer,4163281000006117,109371002,173925017,Overlapping malignant neoplasm of bronchus and lung
+Lung cancer,1863331000006111,1863331000006107,1863331000006111,Referral by lung cancer nurse specialist
+Lung cancer,288813012,187857006,288813012,Malignant neoplasm of carina of bronchus
+Lung cancer,288819011,187861000,288819011,Malignant neoplasm of upper lobe bronchus
+Lung cancer,288820017,187862007,288820017,Malignant neoplasm of upper lobe of lung
+Lung cancer,288822013,187864008,288822013,"Malignant neoplasm of middle lobe, bronchus or lung"
+Lung cancer,288825010,187864008,288822013,"Malignant neoplasm of middle lobe, bronchus or lung NOS"
+Lung cancer,288823015,187865009,288823015,Malignant neoplasm of middle lobe bronchus
+Lung cancer,288824014,187866005,288824014,Malignant neoplasm of middle lobe of lung
+Lung cancer,4748061000006112,187866005,3443979013,Malignant neoplasm of right middle lobe of lung
+Lung cancer,288826011,187868006,288826011,"Malignant neoplasm of lower lobe, bronchus or lung"
+Lung cancer,288829016,187868006,288826011,"Malignant neoplasm of lower lobe, bronchus or lung NOS"
+Lung cancer,288827019,187869003,288827019,Malignant neoplasm of lower lobe bronchus
+Lung cancer,288828012,187870002,288828012,Malignant neoplasm of lower lobe of lung
+Lung cancer,5347171000006112,254632001,379180018,SCLC - Small cell lung cancer
+Lung cancer,1773121000006115,254632001,379181019,Small cell lung cancer
+Lung cancer,1773131000006117,254637007,379195016,Non-small cell lung cancer
+Lung cancer,5347301000006115,254637007,379196015,NSCLC - Non-small cell lung cancer
+Lung cancer,288821018,269464000,403688010,"Malignant neoplasm of upper lobe, bronchus or lung NOS"
+Lung cancer,403688010,269464000,403688010,"Malignant neoplasm of upper lobe, bronchus or lung"
+Lung cancer,5723731000006119,287310004,426833010,Lung tumour excision
+Lung cancer,861611000006111,287310004,861611000006111,Lung tumour excision
+Lung cancer,6243261000006112,363358000,1228498010,CA - Lung cancer
+Lung cancer,11918131000006110,363358000,396221000006112,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+Lung cancer,288832018,363358000,482516016,Malignant neoplasm of other sites of bronchus or lung
+Lung cancer,403689019,363358000,482516016,Malignant neoplasm of bronchus or lung NOS
+Lung cancer,155361017,372065009,1210643012,Malignant neoplasm of main bronchus
+Lung cancer,288815017,372065009,1210643012,Malignant neoplasm of main bronchus NOS
+Lung cancer,11911921000006119,412341000000106,876411000000119,[V]Personal history of malignant neoplasm of lung
+Lung cancer,11911831000006114,412341000000106,876421000000113,[V]Personal history of malignant neoplasm of bronchus
+Lung cancer,11911791000006119,412341000000106,951651000000119,"[V]Personal history of malignant neoplasm of trachea, bronchus or lung"
+Lung cancer,1227559018,415077006,2534963014,[V]Personal history of malignant neoplasm of bronchus
+Lung cancer,6869511000006111,415077006,2534963014,History of malignant neoplasm of bronchus
+Lung cancer,6869521000006115,415077006,2537678010,H/O: malignant neoplasm of bronchus
+Lung cancer,6869531000006117,415077006,2537679019,Personal history of primary malignant neoplasm of bronchus
+Lung cancer,1227560011,415082004,2534968017,[V]Personal history of malignant neoplasm of lung
+Lung cancer,6869671000006115,415082004,2537686010,H/O: malignant neoplasm of lung
+Lung cancer,6869681000006117,415082004,2537687018,Personal history of primary malignant neoplasm of lung
+Lung cancer,7083441000006114,428100006,2912766017,Intrathoracic malignant neoplasm
+Lung cancer,7095021000006110,428878000,2694696010,History of intrathoracic malignant neoplasm
+Lung cancer,288808013,430621000,2765453013,"Malignant neoplasm of trachea, bronchus and lung"
+Lung cancer,907111000006118,907111000006102,907111000006118,[RFC] Lung cancer
+Lung cancer,155287019,93827000,155287019,Malignant neoplasm of hilus of lung
+Lung cancer,4026111000006112,93827000,510696018,Primary malignant neoplasm of hilus of lung
+Lung cancer,733371000006119,93880001,3288586014,Lung cancer
+Lung cancer,1773111000006111,93880001,510792012,Primary malignant neoplasm of lung
+Lung cancer,156319016,94391008,156319016,Secondary malignant neoplasm of lung
+Lung cancer,4035171000006112,94391008,156322019,Metastatic malignant neoplasm to lung

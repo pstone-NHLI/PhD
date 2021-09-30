@@ -1,0 +1,136 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Exacerbations,1173471000000110,,,Antibiotic therapy for acute pulmonary exacerbation
+Exacerbations,2196421000000114,,,Acute non-infective exacerbation of chronic obstructive pulmonary disease
+Exacerbations,2533538014,,,Chronic obstructive pulmonary disease accident and emergency attendance since last visit
+Exacerbations,2533539018,,,Emergency chronic obstructive pulmonary disease admission since last appointment
+Exacerbations,300201000000114,,,Multiple chronic obstructive pulmonary disease emergency hospital admissions
+Exacerbations,301453013,,,Acute exacerbation of chronic obstructive airways disease
+Exacerbations,424365019,,,Acute infective exacerbation of chronic obstructive pulmonary disease
+Exacerbations - LRTI,353561000000111,1029731000000105,2595621000000111,parainfluenza type 1 nucleic acid detection
+Exacerbations - LRTI,353591000000117,1029741000000101,2597051000000118,parainfluenza type 2 nucleic acid detection
+Exacerbations - LRTI,353621000000119,1029751000000103,2597061000000115,parainfluenza type 3 nucleic acid detection
+Exacerbations - LRTI,2115571000000116,1029901000000102,2597071000000110,parainfluenza type 4 nucleic acid detection
+Exacerbations - LRTI,2175841000000116,1029911000000100,2595561000000119,influenza b nucleic acid detection
+Exacerbations - LRTI,312571000000119,1031631000000102,2595321000000118,avian influenza virus nucleic acid detection
+Exacerbations - LRTI,2608911000000114,1033051000000101,2608911000000114,influenza due to zoonotic influenza virus
+Exacerbations - LRTI,2608951000000113,1033071000000105,2608951000000113,influenza due to pandemic influenza virus
+Exacerbations - LRTI,1988651000006113,1033091000000109,2608991000000117,influenza with othr resp manifestation due to seasonal virus
+Exacerbations - LRTI,1988661000006110,1033091000000109,2608991000000117,influenza with other manifestations due to seasonl inf virus
+Exacerbations - LRTI,2608991000000117,1033091000000109,2608991000000117,influenza due to seasonal influenza virus
+Exacerbations - LRTI,18268014,10509002,18268014,acute bronchitis
+Exacerbations - LRTI,301122016,10509002,18268014,acute bronchitis nos
+Exacerbations - LRTI,301132011,10509002,18268014,acute bronchitis or bronchiolitis nos
+Exacerbations - LRTI,885041000006119,10509002,885041000006119,acute bronchitis/bronchiolitis
+Exacerbations - LRTI,25801011,15199004,25801011,acute bronchiolitis with bronchospasm
+Exacerbations - LRTI,1707241000006115,1707241000006104,1707241000006115,swine influenza
+Exacerbations - LRTI,301145010,195647007,2817368013,acute respiratory infection nos
+Exacerbations - LRTI,300997012,195647007,300997012,acute respiratory infections
+Exacerbations - LRTI,301144014,195647007,300997012,other specified acute respiratory infections
+Exacerbations - LRTI,4780011000006115,195647007,300998019,ari - acute respiratory infections
+Exacerbations - LRTI,12717061000006114,195712009,2820607014,acute bronchitis and/or bronchiolitis
+Exacerbations - LRTI,301095014,195712009,2820607014,acute bronchitis and bronchiolitis
+Exacerbations - LRTI,2475602011,195714005,2475602011,acute croupous bronchitis
+Exacerbations - LRTI,301103013,195717003,301103013,acute purulent bronchitis
+Exacerbations - LRTI,301105018,195719000,301105018,acute pneumococcal bronchitis
+Exacerbations - LRTI,301106017,195720006,301106017,acute streptococcal bronchitis
+Exacerbations - LRTI,301108016,195721005,301108016,acute haemophilus influenzae bronchitis
+Exacerbations - LRTI,4780421000006115,195722003,2470034017,acute moraxella catarrhalis bronchitis
+Exacerbations - LRTI,301109012,195722003,301109012,acute neisseria catarrhalis bronchitis
+Exacerbations - LRTI,455991000006112,195725001,301112010,acute bronchitis due to coxsackievirus
+Exacerbations - LRTI,4780451000006112,195725001,301112010,acute coxsackievirus bronchitis
+Exacerbations - LRTI,4780461000006114,195725001,301113017,acute coxsackieviral bronchitis
+Exacerbations - LRTI,4780471000006119,195725001,3300309019,acute bronchitis caused by coxsackievirus
+Exacerbations - LRTI,456021000006115,195726000,301114011,acute bronchitis due to parainfluenza virus
+Exacerbations - LRTI,4780481000006116,195726000,301114011,acute parainfluenza virus bronchitis
+Exacerbations - LRTI,456031000006117,195727009,301115012,acute bronchitis due to respiratory syncytial virus
+Exacerbations - LRTI,4780491000006118,195727009,301115012,acute respiratory syncytial virus bronchitis
+Exacerbations - LRTI,301116013,195728004,301116013,acute bronchitis due to rhinovirus
+Exacerbations - LRTI,4780511000006112,195728004,3290504011,acute bronchitis caused by rhinovirus
+Exacerbations - LRTI,456001000006113,195729007,301117016,acute bronchitis due to echovirus
+Exacerbations - LRTI,4780521000006116,195729007,301117016,acute echovirus bronchitis
+Exacerbations - LRTI,4780531000006118,195729007,301118014,acute echoviral bronchitis
+Exacerbations - LRTI,4780541000006111,195729007,3035673014,acute bronchitis due to echovirus
+Exacerbations - LRTI,301126018,195737004,301126018,acute exudative bronchiolitis
+Exacerbations - LRTI,301128017,195739001,301128017,acute bronchiolitis due to respiratory syncytial virus
+Exacerbations - LRTI,4780571000006115,195739001,3290582012,acute bronchiolitis caused by respiratory syncytial virus
+Exacerbations - LRTI,301819015,195742007,301131016,[x]other acute lower respiratory infections
+Exacerbations - LRTI,457801000006117,195742007,301131016,acute lower respiratory tract infection
+Exacerbations - LRTI,546411000006111,195742007,301131016,chest infection
+Exacerbations - LRTI,579878017,195742007,301131016,acute lower respiratory tract infection
+Exacerbations - LRTI,301414016,195878008,301357010,influenza with pneumonia nos
+Exacerbations - LRTI,301430012,195878008,301357010,other specified pneumonia or influenza
+Exacerbations - LRTI,301431011,195878008,301357010,pneumonia or influenza nos
+Exacerbations - LRTI,778871000006116,195878008,301357010,influenza with pneumonia
+Exacerbations - LRTI,885251000006114,195878008,885251000006114,influenza + pneumonia
+Exacerbations - LRTI,546511000006112,195902009,301388014,chest infection with infectious disease ec
+Exacerbations - LRTI,301416019,195923003,301416019,influenza with laryngitis
+Exacerbations - LRTI,301417011,195924009,301417011,influenza with pharyngitis
+Exacerbations - LRTI,301121011,233598009,350042013,acute bacterial bronchitis unspecified
+Exacerbations - LRTI,5053331000006119,233599001,350043015,acute mycoplasmal bronchitis
+Exacerbations - LRTI,350044014,233599001,350044014,acute bronchitis due to mycoplasma pneumoniae
+Exacerbations - LRTI,301120012,233601004,350046011,acute viral bronchitis unspecified
+Exacerbations - LRTI,301129013,233602006,350047019,acute bronchiolitis due to other specified organisms
+Exacerbations - LRTI,5053371000006116,233602006,350047019,acute viral bronchiolitis
+Exacerbations - LRTI,2397631000033114,2397631000033105,2397631000033114,influenza myl
+Exacerbations - LRTI,175471000006116,275498002,411488017,respiratory infection nos
+Exacerbations - LRTI,411488017,275498002,411488017,respiratory tract infection
+Exacerbations - LRTI,5573831000006110,275498002,411489013,rti - respiratory tract infection
+Exacerbations - LRTI,411490016,275499005,411490016,acute wheezy bronchitis
+Exacerbations - LRTI,5992751000006117,309789002,453273018,encephalitis due to influenza
+Exacerbations - LRTI,1222333010,312342009,456043010,chest infection - pneumonia organism os
+Exacerbations - LRTI,301820014,312371005,456072011,[x]acute bronchitis due to other specified organisms
+Exacerbations - LRTI,460161011,315642008,460161011,influenza-like symptoms
+Exacerbations - LRTI,350041018,32398004,54101019,chest infection - unspecified bronchitis
+Exacerbations - LRTI,58909014,35301006,58909014,acute tracheobronchitis
+Exacerbations - LRTI,677021000000113,359351000000100,676741000000119,"influenza a virus, other or untyped strain detected"
+Exacerbations - LRTI,301119018,36426008,60783018,subacute bronchitis unspecified
+Exacerbations - LRTI,2564641000006110,4120002,8354017,bronchiolitis
+Exacerbations - LRTI,676841000000114,440927002,3034688012,influenza h2 virus detected
+Exacerbations - LRTI,676781000000110,441043003,2882417014,influenza h1 virus detected
+Exacerbations - LRTI,676901000000115,441049004,2882421019,influenza h3 virus detected
+Exacerbations - LRTI,676961000000116,441343005,2882423016,influenza h5 virus detected
+Exacerbations - LRTI,689941000000115,441344004,2790535011,human parainfluenza virus detected
+Exacerbations - LRTI,677081000000114,441345003,2794563017,influenza b virus detected
+Exacerbations - LRTI,1128141000000118,442696006,1128141000000118,influenza a (h1n1) swine flu
+Exacerbations - LRTI,7267051000006117,442696006,2820794017,influenza a (h1n1)
+Exacerbations - LRTI,2820795016,442696006,2820795016,influenza due to influenza a virus subtype h1n1
+Exacerbations - LRTI,7267061000006115,442696006,3291265019,influenza caused by influenza a virus subtype h1n1
+Exacerbations - LRTI,7302821000006112,445102008,2872685013,bronchiolitis due to human metapneumovirus
+Exacerbations - LRTI,1816261000006119,445102008,2988948018,acute bronchiolitis due to human metapneumovirus
+Exacerbations - LRTI,7302851000006115,445102008,3291618016,acute bronchiolitis caused by human metapneumovirus
+Exacerbations - LRTI,7302861000006118,445102008,3291849011,bronchiolitis caused by human metapneumovirus
+Exacerbations - LRTI,3316401000006114,50417007,1230862016,lrti - lower respiratory tract infection
+Exacerbations - LRTI,396090018,50417007,83992015,chest infection nos
+Exacerbations - LRTI,733471000006110,50417007,83992015,lower resp tract infection
+Exacerbations - LRTI,3316381000006114,50417007,83996017,lower respiratory infection
+Exacerbations - LRTI,12721231000006111,540151000000108,1204911000000119,pneumonia or influenza nos
+Exacerbations - LRTI,10187013,5505005,10187013,acute bronchiolitis
+Exacerbations - LRTI,301130015,5505005,10187013,acute bronchiolitis nos
+Exacerbations - LRTI,301821013,5505005,10187013,[x]acute bronchiolitis due to other specified organisms
+Exacerbations - LRTI,92429016,55604004,92429016,avian influenza
+Exacerbations - LRTI,3405411000006114,55735004,1231522017,rsv - respiratory syncytial virus infection
+Exacerbations - LRTI,92677014,55735004,92677014,respiratory syncytial virus infection
+Exacerbations - LRTI,11203012,6142004,11203012,influenza
+Exacerbations - LRTI,301415015,6142004,11203012,influenza with other respiratory manifestation
+Exacerbations - LRTI,301418018,6142004,11203012,influenza with respiratory manifestations nos
+Exacerbations - LRTI,301421016,6142004,11203012,influenza with other manifestations
+Exacerbations - LRTI,301424012,6142004,11203012,influenza with other manifestations nos
+Exacerbations - LRTI,387051000006110,6142004,11203012,"[x]flu+oth respiratory manifestations,'flu virus identified"
+Exacerbations - LRTI,389891000006119,6142004,11203012,"[x]influenza+other manifestations, virus not identified"
+Exacerbations - LRTI,389901000006115,6142004,11203012,"[x]influenza+other manifestations,influenza virus identified"
+Exacerbations - LRTI,396106019,6142004,11203012,influenza nos
+Exacerbations - LRTI,12726371000006114,637921000000108,1405301000000117,acute respiratory infection nos
+Exacerbations - LRTI,885051000006117,637921000000108,885051000006117,acute resp. infection nos
+Exacerbations - LRTI,3555891000006119,64917006,1232627018,pneumonia due to parainfluenza virus
+Exacerbations - LRTI,1232627018,64917006,499984015,pneumonia due to parainfluenza virus
+Exacerbations - LRTI,7649701000006115,709410003,2496051000000114,hib (haemophilus influenzae type b) infection
+Exacerbations - LRTI,7649691000006115,709410003,3039757019,haemophilus influenzae type b infection
+Exacerbations - LRTI,1126371000000114,711330007,3078435012,influenza a virus h1n1 subtype detected
+Exacerbations - LRTI,885261000006111,74644004,885261000006111,influenza + encephalopathy
+Exacerbations - LRTI,843921000033117,843921000033101,843921000033117,*influenza & common cold
+Exacerbations - LRTI,906821000033118,906821000033102,906821000033118,haemophilus influenzae (lyophilized bacterial lysates)
+Exacerbations - LRTI,907511000006114,907511000006105,907511000006114,[rfc] chest infection
+Exacerbations - LRTI,151462017,91428005,151462017,haemophilus influenzae infection
+Exacerbations - LRTI,288067017,91428005,151462017,"[x]haemophilus influenzae infection, unspecified"
+Exacerbations - LRTI,778711000006116,95891005,158839016,influenza like illness
+Exacerbations - LRTI,4063911000006112,95891005,2920741013,influenza like illness

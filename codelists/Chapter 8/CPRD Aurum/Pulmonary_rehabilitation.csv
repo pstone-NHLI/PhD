@@ -1,0 +1,16 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Pulmonary rehabilitation,12626791000006118,1111361000000101,2780761000000116,QOF (Quality and Outcomes Framework) pulmonary rehabilitation service not available
+Pulmonary rehabilitation,25607012,15081005,25607012,Pulmonary rehabilitation
+Pulmonary rehabilitation,1656601000006119,1656601000006103,1656601000006119,COPD patient unsuitable for pulmonary rehabilitation
+Pulmonary rehabilitation,61911000000113,24461000000105,61911000000113,Referral to pulmonary rehabilitation
+Pulmonary rehabilitation,542941000000111,305371000000101,542941000000111,Pulmonary rehabilitation declined
+Pulmonary rehabilitation,1704531000006115,371611000000107,1152601000000114,COPD patient unsuitable for pulmonary rehab - enh serv admin
+Pulmonary rehabilitation,1704541000006113,371611000000107,1152601000000114,COPD patient unsuitable for pulmonary rehabilitation
+Pulmonary rehabilitation,8120981000006112,371611000000107,730041000000110,COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation
+Pulmonary rehabilitation,1485151019,391127007,1485151019,Assessment for pulmonary rehabilitation completed
+Pulmonary rehabilitation,1476256018,391128002,1476256018,Pulmonary rehabilitation programme commenced
+Pulmonary rehabilitation,6519391000006112,391128002,1477217018,Pulmonary rehabilitation program commenced
+Pulmonary rehabilitation,1476257010,391130000,1476257010,Pulmonary rehabilitation programme completed
+Pulmonary rehabilitation,6519421000006116,391130000,1477218011,Pulmonary rehabilitation program completed
+Pulmonary rehabilitation,2348521000000113,913981000000106,2348521000000113,Pulmonary rehabilitation offered
+Pulmonary rehabilitation,2405811000000110,939851000000104,2405811000000110,Pulmonary rehabilitation programme not available

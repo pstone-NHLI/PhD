@@ -1,0 +1,69 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Gastro-oesophageal reflux disease,2758911000006117,16331000,477741011,burning reflux
+Gastro-oesophageal reflux disease,28383015,16761005,28383015,oesophagitis
+Gastro-oesophageal reflux disease,302378011,16761005,28383015,other specified oesophagitis
+Gastro-oesophageal reflux disease,302381018,16761005,28383015,oesophagitis nos
+Gastro-oesophageal reflux disease,269069015,173704005,269069015,revision of antireflux operations
+Gastro-oesophageal reflux disease,269073017,173704005,2791486011,other specified revision of antireflux operation
+Gastro-oesophageal reflux disease,269074011,173704005,2791486011,revision of antireflux operation nos
+Gastro-oesophageal reflux disease,302369017,196601009,302369017,gangrenous oesophagitis
+Gastro-oesophageal reflux disease,302370016,196602002,302370016,phlegmonous oesophagitis
+Gastro-oesophageal reflux disease,303321000000115,200151000000106,303321000000115,reflux cough
+Gastro-oesophageal reflux disease,339001014,225587003,339001014,gastric reflux
+Gastro-oesophageal reflux disease,5082541000006115,235595009,2535970019,gerd - gastro-esophageal reflux disease
+Gastro-oesophageal reflux disease,5082441000006116,235595009,2642391013,gastrooesophageal reflux disease
+Gastro-oesophageal reflux disease,5082451000006119,235595009,353135014,gastroesophageal reflux disease
+Gastro-oesophageal reflux disease,5082461000006117,235595009,353136010,gastro-esophageal reflux
+Gastro-oesophageal reflux disease,5082471000006112,235595009,353137018,gord - gastro-esophageal reflux disease
+Gastro-oesophageal reflux disease,5082481000006110,235595009,353138011,gastro-esophageal reflux disease
+Gastro-oesophageal reflux disease,5082491000006113,235595009,353139015,gor - gastro-esophageal reflux
+Gastro-oesophageal reflux disease,5082501000006117,235595009,353141019,gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,353143016,235595009,353143016,gastro-oesophageal reflux
+Gastro-oesophageal reflux disease,5082521000006110,235595009,353144010,gord - gastro-oesophageal reflux disease
+Gastro-oesophageal reflux disease,5082531000006113,235595009,353145011,gor - gastro-oesophageal reflux
+Gastro-oesophageal reflux disease,5082561000006116,235596005,353148013,gastro-oesophageal reflux disease with stricture
+Gastro-oesophageal reflux disease,5082571000006111,235596005,353149017,gastro-esophageal reflux disease with stricture
+Gastro-oesophageal reflux disease,5272511000006116,249496004,1216178019,oesophageal reflux observation
+Gastro-oesophageal reflux disease,5272521000006112,249496004,1217681016,esophageal reflux observation
+Gastro-oesophageal reflux disease,5272481000006112,249496004,372244010,esophageal reflux
+Gastro-oesophageal reflux disease,5272491000006110,249496004,372245011,esophageal reflux finding
+Gastro-oesophageal reflux disease,372246012,249496004,372246012,oesophageal reflux
+Gastro-oesophageal reflux disease,5272471000006114,249496004,372247015,oesophageal reflux finding
+Gastro-oesophageal reflux disease,11904971000006117,265357009,267111000006116,oesophageal reflux operations
+Gastro-oesophageal reflux disease,5485511000006116,265357009,3333553013,anti-reflux surgery
+Gastro-oesophageal reflux disease,5485521000006112,265357009,3333554019,antireflux surgery
+Gastro-oesophageal reflux disease,1221523017,265357009,394124015,antireflux procedure using thoracic approach nec
+Gastro-oesophageal reflux disease,269047010,265357009,394124015,antireflux operation using thoracic approach nec
+Gastro-oesophageal reflux disease,487951000006119,265357009,394124015,antireflux procedure and gastroplasty hfq
+Gastro-oesophageal reflux disease,5485491000006110,265357009,394124015,esophageal reflux operation
+Gastro-oesophageal reflux disease,269067018,265357009,394125019,other specified antireflux operation
+Gastro-oesophageal reflux disease,269068011,265357009,394125019,antireflux operation nos
+Gastro-oesophageal reflux disease,487941000006116,265357009,394125019,antireflux operations
+Gastro-oesophageal reflux disease,267111000006116,265357009,394126018,oesophageal reflux operations
+Gastro-oesophageal reflux disease,5485501000006119,265357009,5485501000006119,oesophageal reflux operation
+Gastro-oesophageal reflux disease,394127010,265358004,394127010,antireflux fundoplication using thoracic approach
+Gastro-oesophageal reflux disease,394128017,265359007,394128017,antireflux fundoplication using abdominal approach
+Gastro-oesophageal reflux disease,394129013,265360002,394129013,antireflux gastropexy
+Gastro-oesophageal reflux disease,5492811000006113,266433003,2765354015,gastroesophageal reflux disease with esophagitis
+Gastro-oesophageal reflux disease,5492821000006117,266433003,3013237018,gastroesophageal reflux disease with oesophagitis
+Gastro-oesophageal reflux disease,497946018,266433003,3517222014,peptic oesophagitis
+Gastro-oesophageal reflux disease,5492761000006118,266433003,396335017,reflux esophagitis
+Gastro-oesophageal reflux disease,5492771000006113,266433003,396336016,esophageal reflux with esophagitis
+Gastro-oesophageal reflux disease,5492781000006111,266433003,396337013,gastro-esophageal reflux disease with esophagitis
+Gastro-oesophageal reflux disease,198466017,266433003,396338015,regurgitant oesophagitis
+Gastro-oesophageal reflux disease,396339011,266433003,396339011,oesophageal reflux with oesophagitis
+Gastro-oesophageal reflux disease,799341000006115,266433003,396339011,gastro-oesophageal reflux with oesophagitis
+Gastro-oesophageal reflux disease,396340013,266433003,396340013,reflux oesophagitis
+Gastro-oesophageal reflux disease,5492871000006116,266435005,2772634018,gastro-esophageal reflux disease without oesophagitis
+Gastro-oesophageal reflux disease,5492881000006118,266435005,2773407016,gastroesophageal reflux disease without esophagitis
+Gastro-oesophageal reflux disease,5492861000006111,266435005,396343010,gastro-esophageal reflux disease without esophagitis
+Gastro-oesophageal reflux disease,266601000006112,266435005,396344016,oesopheal reflux without mention of oesophagitis
+Gastro-oesophageal reflux disease,194802019,3482005,194802019,postoperative oesophagitis
+Gastro-oesophageal reflux disease,3082581000006116,36151004,486378011,corrosive oesophagitis
+Gastro-oesophageal reflux disease,2532987010,414581006,2532987010,laryngopharyngeal reflux
+Gastro-oesophageal reflux disease,498970016,439955006,2792529018,ulcerative oesophagitis
+Gastro-oesophageal reflux disease,353140018,698065002,2970070010,acid reflux
+Gastro-oesophageal reflux disease,452891000006114,698065002,2970070010,acid reflux
+Gastro-oesophageal reflux disease,3686781000006118,72950008,502297019,bile reflux gastritis
+Gastro-oesophageal reflux disease,487911000006115,9429009,16524019,antireflux gastroplasty
+Gastro-oesophageal reflux disease,960261000006113,960261000006109,960261000006113,reflux

@@ -1,0 +1,10 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Inhaler technique,264516014,170614009,264516014,Inhaler technique observed
+Inhaler technique,264534013,170625000,264534013,Inhaler technique - good
+Inhaler technique,264535014,170626004,264535014,Inhaler technique - poor
+Inhaler technique,1484902013,390869002,1484902013,Inhaler technique - moderate
+Inhaler technique,2264951000000115,702606006,3005368012,Review of inhaler technique using inhaler checking device
+Inhaler technique,1746211000000116,736150009,3516635017,Declined to perform inhaler technique
+Inhaler technique,264515013,736601004,3518252016,Inhaler technique shown
+Inhaler technique,1658981000000111,754161000000104,1658981000000111,Provision of written information on inhaler technique
+Inhaler technique,855741000006114,855741000006105,855741000006114,Inhaler technique

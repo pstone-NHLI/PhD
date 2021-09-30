@@ -1,0 +1,76 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Osteoporosis,24883018,14651005,24883018,Drug-induced osteoporosis
+Osteoporosis,1573631000006112,1573631000006108,1573631000006112,H/O: osteoporosis
+Osteoporosis,2749641000006119,15743005,2749641000006119,Posttraumatic osteoporosis
+Osteoporosis,1676361000006112,1676361000006108,1676361000006112,Patient in osteoporosis study
+Osteoporosis,2786191000006118,18040001,3035869014,Age related osteoporosis
+Osteoporosis,30475015,18040001,30475015,Senile osteoporosis
+Osteoporosis,1823981000006115,1823981000006104,1823981000006115,Osteoporosis confirmed
+Osteoporosis,1853181000006117,1853181000006101,1853181000006117,Osteoporosis treatment restart date
+Osteoporosis,1912891000006119,1912891000006103,1912891000006119,Osteoporosis risk assessment due
+Osteoporosis,1932111000006112,1932111000006108,1932111000006112,3D study - problems with osteoporosis management
+Osteoporosis,2017951000006111,2017951000006107,2017951000006111,Keele INCLUDE study - osteoporosis
+Osteoporosis,4820801000006119,203429007,312125014,Idiopathic generalized osteoporosis
+Osteoporosis,786501000006117,203429007,312126010,Idiopathic osteoporosis
+Osteoporosis,312136019,203435007,312135015,Localized osteoporosis - Lequesne
+Osteoporosis,4820851000006115,203435007,312136019,Localized osteoporosis - Lequesne
+Osteoporosis,312138018,203437004,312138018,Osteoporosis in endocrine disorders
+Osteoporosis,312139014,203438009,312139014,Vertebral osteoporosis
+Osteoporosis,312159013,203447001,312159013,Drug-induced osteoporosis with pathological fracture
+Osteoporosis,312160015,203448006,312160015,Idiopathic osteoporosis with pathological fracture
+Osteoporosis,40881000006116,203450003,312162011,Osteoporosis + pathological fracture lumbar vertebrae
+Osteoporosis,40891000006118,203451004,312163018,Osteoporosis + pathological fracture thoracic vertebrae
+Osteoporosis,40871000006119,203452006,312164012,Osteoporosis + pathological fracture cervical vertebrae
+Osteoporosis,455536018,240198002,2920899019,Collapse of vertebra due to osteoporosis NOS
+Osteoporosis,453226012,309745002,453225011,Osteoporosis localized to spine
+Osteoporosis,5992471000006115,309745002,453226012,Osteoporosis localized to spine
+Osteoporosis,455433012,311806008,455433012,Collapse of cervical vertebra due to osteoporosis
+Osteoporosis,455534015,311890007,455534015,Collapse of lumbar vertebra due to osteoporosis
+Osteoporosis,455535019,311891006,455535019,Collapse of thoracic vertebra due to osteoporosis
+Osteoporosis,1484866013,390833005,1484866013,Osteoporosis due to corticosteroids
+Osteoporosis,6515161000006117,390833005,3300677010,Osteoporosis caused by corticosteroid
+Osteoporosis,6515141000006116,390833005,3300678017,Osteoporosis due to corticosteroid
+Osteoporosis,1485032011,391003008,1485032011,Osteoporosis monitoring administration
+Osteoporosis,1485033018,391004002,1485033018,Attends osteoporosis monitoring
+Osteoporosis,1485035013,391006000,1485035013,Osteoporosis monitoring default
+Osteoporosis,1485036014,391007009,1485036014,Osteoporosis monitoring first letter
+Osteoporosis,1485037017,391008004,1485037017,Osteoporosis monitoring second letter
+Osteoporosis,1485038010,391009007,1485038010,Osteoporosis monitoring third letter
+Osteoporosis,1485039019,391010002,1485039019,Osteoporosis monitoring verbal invitation
+Osteoporosis,1485040017,391011003,1485040017,Osteoporosis monitoring telephone invitation
+Osteoporosis,1485041018,391012005,1485041018,Osteoporosis monitoring deleted
+Osteoporosis,1485042013,391013000,1485042013,Osteoporosis monitoring check done
+Osteoporosis,1485046011,391017004,1485046011,Osteoporosis monitoring
+Osteoporosis,1485048012,391019001,1485048012,Follow-up osteoporosis assessment
+Osteoporosis,1485049016,391020007,1485049016,Osteoporosis treatment started
+Osteoporosis,1485050016,391021006,1485050016,Osteoporosis treatment stopped
+Osteoporosis,1485051017,391022004,1485051017,Osteoporosis treatment changed
+Osteoporosis,1485052012,391023009,1485052012,Osteoporosis - no treatment
+Osteoporosis,1485053019,391024003,1485053019,Osteoporosis - dietary advice
+Osteoporosis,6517621000006110,391024003,2576221014,Osteoporosis dietary education
+Osteoporosis,1485054013,391025002,1485054013,Osteoporosis - dietary assessment
+Osteoporosis,1485055014,391026001,1485055014,Osteoporosis - exercise advice
+Osteoporosis,6517651000006118,391026001,2576222019,Osteoporosis exercise education
+Osteoporosis,1485056010,391027005,1485056010,Osteoporosis - falls prevention
+Osteoporosis,1485057018,391028000,1485057018,Osteoporosis - treatment response
+Osteoporosis,1485059015,391030003,1485059015,Osteoporosis - no treatment response
+Osteoporosis,1485061012,391033001,1485061012,Refer to osteoporosis specialist
+Osteoporosis,1485065015,391037000,1485065015,Seen in osteoporosis clinic
+Osteoporosis,6549131000006116,394936006,2576202018,Osteoporosis health education
+Osteoporosis,216206018,443165006,2837900019,Fragility fracture due to unspecified osteoporosis
+Osteoporosis,312681016,443165006,2837900019,[X]Other osteoporosis with pathological fracture
+Osteoporosis,312689019,443165006,2837900019,[X]Unspecified osteoporosis with pathological fracture
+Osteoporosis,556881000000111,443165006,2837900019,Minimal trauma fracture due to unspecified osteoporosis
+Osteoporosis,1137811000000114,473120007,2955852014,History of osteoporosis
+Osteoporosis,1715131000006113,505171000000102,1152201000000112,Bone sparing drug treatment offered for osteoporosis - ESA
+Osteoporosis,107806013,64859006,107806013,Osteoporosis
+Osteoporosis,312124013,64859006,107806013,"Osteoporosis, unspecified"
+Osteoporosis,312142015,64859006,107806013,Osteoporosis NOS
+Osteoporosis,312682011,64859006,107806013,[X]Other osteoporosis
+Osteoporosis,312683018,64859006,107806013,[X]Osteoporosis in other disorders classified elsewhere
+Osteoporosis,3555091000006111,64859006,499977011,OP - Osteoporosis
+Osteoporosis,1554431000000115,711141000000109,1554431000000115,Osteoporosis medication prophylaxis
+Osteoporosis,1754951000006110,753711000000102,1658011000000115,Exception reporting: osteoporosis quality indicators
+Osteoporosis,12002681000006110,763322002,3638549016,Osteoporosis monitoring declined
+Osteoporosis,12002671000006112,763322002,3638551017,Osteoporosis monitoring refused
+Osteoporosis,2460011000000114,965871000000101,2460011000000114,Osteoporosis medication compliance review

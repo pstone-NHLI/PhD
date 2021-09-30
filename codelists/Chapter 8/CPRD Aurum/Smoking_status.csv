@@ -1,0 +1,141 @@
+Category,Medcode ID,SNOMED CT Concept ID,SNOMED CT Description ID,Term
+Smoking status - Ex-smoker,250373019,160617001,250373019,stopped smoking
+Smoking status - Ex-smoker,250374013,160618006,250374013,current non-smoker
+Smoking status - Ex-smoker,649831000006117,160620009,250376010,ex pipe smoker
+Smoking status - Ex-smoker,649821000006115,160621008,250377018,ex cigar smoker
+Smoking status - Ex-smoker,4765751000006111,191889006,2951706017,"tobacco dependence, in remission"
+Smoking status - Ex-smoker,295259018,191889006,295259018,tobacco dependence in remission
+Smoking status - Ex-smoker,1809131000006111,228487000,1809131000006111,total time smoked
+Smoking status - Ex-smoker,342574011,228487000,342574011,total time smoked
+Smoking status - Ex-smoker,5495901000006112,266918002,1225107019,amount and type of tobacco smoked
+Smoking status - Ex-smoker,250363016,266921000,397736014,ex-trivial smoker (<1/day)
+Smoking status - Ex-smoker,250364010,266922007,397737017,ex-light smoker (1-9/day)
+Smoking status - Ex-smoker,250365011,266923002,397738010,ex-moderate smoker (10-19/day)
+Smoking status - Ex-smoker,250366012,266924008,397739019,ex-heavy smoker (20-39/day)
+Smoking status - Ex-smoker,250367015,266925009,397740017,ex-very heavy smoker (40+/day)
+Smoking status - Ex-smoker,5496031000006112,266928006,397744014,ex-cigarette smoker amount unknown
+Smoking status - Ex-smoker,903041000006110,266928006,903041000006110,ex-smoker nos
+Smoking status - Ex-smoker,418914010,281018007,418914010,ex-cigarette smoker
+Smoking status - Ex-smoker,1780396011,401201003,1780396011,cigarette pack-years
+Smoking status - Ex-smoker,1059701000000119,492191000000103,1059701000000119,ex roll-up cigarette smoker
+Smoking status - Ex-smoker,1123951000000110,505761000000105,1154471000000114,ex-smoker annual review - enhanced services administration
+Smoking status - Ex-smoker,1154471000000114,505761000000105,1154471000000114,ex-smoker annual review
+Smoking status - Ex-smoker,1151791000000117,517211000000106,1151791000000117,recently stopped smoking
+Smoking status - Ex-smoker,649851000006112,649851000006108,649851000006112,ex- rolled tobacco smoker
+Smoking status - Ex-smoker,649861000006114,649861000006105,649861000006114,ex-cigarette smoker
+Smoking status - Ex-smoker,482871000000111,710081004,3043296015,other specified smoking cessation therapy
+Smoking status - Ex-smoker,489931000000114,710081004,3043296015,smoking cessation therapy nos
+Smoking status - Ex-smoker,492511000000117,710081004,3043296015,smoking cessation therapy
+Smoking status - Ex-smoker,482771000000118,713700008,3297364011,smoking cessation drug therapy
+Smoking status - Ex-smoker,250371017,8517006,15047015,ex-smoker - amount unknown
+Smoking status - Ex-smoker,649841000006110,8517006,15047015,ex smoker
+Smoking status - Ex-smoker,2636041000006110,8517006,15048013,cessation of smoking
+Smoking status - Ex-smoker,852121000006114,852121000006105,852121000006114,smoking cessation-maintain abstinence
+Smoking status - Ex-smoker,852991000006114,852991000006105,852991000006114,ex-cigar smoker
+Smoking status - Ex-smoker,853001000006110,853001000006106,853001000006110,ex-smoker nos
+Smoking status - Ex-smoker,854051000006112,854051000006108,854051000006112,ex-pipe smoker
+Smoking status - Ex-smoker,854111000006110,854111000006106,854111000006110,past smoker
+Smoking status - Ex-smoker,854151000006111,854151000006107,854151000006111,date stopped smoking
+Smoking status - Current smoker,1175011000000112,1087441000000106,2724181000000114,smoking cessation programme declined
+Smoking status - Current smoker,460828018,110483000,175325014,[v]tobacco use
+Smoking status - Current smoker,4180331000006118,110483000,2923440014,tobacco use
+Smoking status - Current smoker,4180321000006116,110483000,4180321000006116,tobacco user
+Smoking status - Current smoker,216212011,134406006,216212011,smoking reduced
+Smoking status - Current smoker,137711000006111,137711000006107,137711000006111,smoker (read codes)
+Smoking status - Current smoker,1538681000006118,1538681000006102,1538681000006118,smoke
+Smoking status - Current smoker,1591651000006110,1591651000006106,1591651000006110,smoking cessation referral declined
+Smoking status - Current smoker,743331000006116,160603005,250358015,light smoker - 1-9 cigs/day
+Smoking status - Current smoker,700121000006118,160604004,250359011,moderate smoker - 10-19 cigs/d
+Smoking status - Current smoker,819331000006110,160605003,250360018,heavy smoker - 20-39 cigs/day
+Smoking status - Current smoker,67621000006112,160606002,250362014,very heavy smoker - 40+cigs/d
+Smoking status - Current smoker,250368013,160612007,250368013,keeps trying to stop smoking
+Smoking status - Current smoker,250372012,160616005,250372012,trying to give up smoking
+Smoking status - Current smoker,250375014,160619003,250375014,rolls own cigarettes
+Smoking status - Current smoker,1809121000006113,1809121000006109,1809121000006113,waterpipe tobacco consumption
+Smoking status - Current smoker,1819411000006114,1819411000006105,1819411000006114,smoking increased
+Smoking status - Current smoker,4765711000006110,191887008,2951660019,"tobacco use, continuous"
+Smoking status - Current smoker,4765721000006119,191887008,2951818015,continuous tobacco use
+Smoking status - Current smoker,295257016,191887008,295257016,"tobacco dependence, continuous"
+Smoking status - Current smoker,295258014,191888003,295258014,"tobacco dependence, episodic"
+Smoking status - Current smoker,4939251000006118,225323000,2695629019,advice on smoking
+Smoking status - Current smoker,338608011,225323000,338608011,smoking cessation advice
+Smoking status - Current smoker,342444018,228378005,342444018,smokes drugs in cigarette form
+Smoking status - Current smoker,342445017,228379002,342445017,smokes drugs through a pipe
+Smoking status - Current smoker,344793011,230056004,344793011,cigarette consumption
+Smoking status - Current smoker,344794017,230057008,344794017,cigar consumption
+Smoking status - Current smoker,344795016,230058003,344795016,pipe tobacco consumption
+Smoking status - Current smoker,102921000006112,266918002,397730015,tobacco consumption
+Smoking status - Current smoker,137721000006115,266918002,397730015,smoker - amount smoked
+Smoking status - Current smoker,250387019,266918002,397730015,tobacco consumption nos
+Smoking status - Current smoker,5495941000006114,266920004,397733018,occasional smoker
+Smoking status - Current smoker,5495951000006111,266920004,397734012,occasional cigarette smoker (less than one cigarette/day)
+Smoking status - Current smoker,88471000006112,266920004,397735013,trivial smoker - < 1 cig/day
+Smoking status - Current smoker,2669652019,266929003,2669652019,smoking started
+Smoking status - Current smoker,295951010,30310000,50736017,[x]mental and behavioural disorder due to use of tobacco
+Smoking status - Current smoker,137791000006118,308438006,2670126018,smoking restarted
+Smoking status - Current smoker,2670126018,308438006,2670126018,smoking restarted
+Smoking status - Current smoker,459722017,315232003,459722017,referral to stop-smoking clinic
+Smoking status - Current smoker,1704491000006115,374391000000106,1152711000000117,smoking cessatn monitor template complet - enhanc serv admin
+Smoking status - Current smoker,1704551000006110,375851000000108,739301000000115,referred for copd structured smoking assessment
+Smoking status - Current smoker,1704561000006112,375851000000108,739301000000115,refer copd structured smoking assessment - enhanc serv admin
+Smoking status - Current smoker,1488576014,394871007,1488576014,thinking about stopping smoking
+Smoking status - Current smoker,1488577017,394872000,1488577017,ready to stop smoking
+Smoking status - Current smoker,1488578010,394873005,1488578010,not interested in stopping smoking
+Smoking status - Current smoker,1488873010,395177003,1488873010,smoking free weeks
+Smoking status - Current smoker,1489355012,395700008,1489355012,referral to smoking cessation advisor
+Smoking status - Current smoker,1780360012,401159003,1780360012,reason for restarting smoking
+Smoking status - Current smoker,2474719011,413173009,2474719011,minutes from waking to first tobacco consumption
+Smoking status - Current smoker,397733018,428041000124106,2717161000000119,occasional smoker
+Smoking status - Current smoker,8153371000006117,428041000124106,3308893017,occasional tobacco smoker
+Smoking status - Current smoker,8153381000006119,428041000124106,8153381000006119,occasional smoker
+Smoking status - Current smoker,1592611000000110,446172000,2882460017,failed attempt to stop smoking
+Smoking status - Current smoker,3256651000006113,46802002,494650019,cigarette cough
+Smoking status - Current smoker,78013015,46802002,78013015,smokers' cough
+Smoking status - Current smoker,1715591000006117,505281000000106,1122921000000113,referral to nhs stop smoking service
+Smoking status - Current smoker,8190531000006112,505281000000106,1133211000000119,referral to nhs (national health service) stop smoking service
+Smoking status - Current smoker,1123541000000118,505581000000108,1123541000000118,stop smoking face to face follow-up
+Smoking status - Current smoker,1152111000000118,505651000000103,1152111000000118,current smoker annual review
+Smoking status - Current smoker,1714541000006110,505651000000103,1152111000000118,current smoker annual review - enhanced services admin
+Smoking status - Current smoker,1125741000000111,506491000000102,1125741000000111,brief intervention for smoking cessation
+Smoking status - Current smoker,1176421000000118,527151000000107,1176421000000118,smoking cessation advice declined
+Smoking status - Current smoker,99639019,59978006,99639019,cigar smoker
+Smoking status - Current smoker,604961000006114,604961000006105,604961000006114,current smoker nos
+Smoking status - Current smoker,108938018,65568007,108938018,cigarette smoker
+Smoking status - Current smoker,2982426011,699033005,2982426011,provision of smoking cessation leaflet
+Smoking status - Current smoker,461114016,711028002,3047058010,[v]tobacco abuse counselling
+Smoking status - Current smoker,397911000006114,724697004,3445165019,[x]mental and behav dis due to use of tobacco: harmful use
+Smoking status - Current smoker,285792013,765001003,3656021018,refuses stop smoking monitor
+Smoking status - Current smoker,1709641000000115,767641000000109,1709641000000115,referral for smoking cessation service offered
+Smoking status - Current smoker,128130017,77176002,128130017,smoker
+Smoking status - Current smoker,503483019,77176002,503483019,current smoker
+Smoking status - Current smoker,1750931000000118,783011000000105,1750931000000118,stop smoking service opportunity signposted
+Smoking status - Current smoker,136515019,82302008,136515019,pipe smoker
+Smoking status - Current smoker,2170961000000116,836001000000109,2170961000000116,waterpipe tobacco consumption
+Smoking status - Current smoker,852111000006118,852111000006102,852111000006118,gradual smoking reduction
+Smoking status - Current smoker,852981000006111,852981000006107,852981000006111,rolls own cigarettes
+Smoking status - Current smoker,854021000006115,854021000006104,854021000006115,cigarette smoker
+Smoking status - Current smoker,854071000006119,854071000006103,854071000006119,current smoker
+Smoking status - Current smoker,854961000006110,854961000006106,854961000006110,grade b light smoker (1-10/day)
+Smoking status - Current smoker,854981000006117,854981000006101,854981000006117,grade c moderate smoker (11-20/day)
+Smoking status - Current smoker,855001000006114,855001000006105,855001000006114,grade d heavy smoker (>20 day)
+Smoking status - Current smoker,2251871000000112,871641000000105,2251871000000112,referral to smoking cessation service declined
+Smoking status - Current smoker,2251911000000114,871661000000106,2251911000000114,referral to smoking cessation service
+Smoking status - Current smoker,295256013,89765005,148820017,"tobacco dependence, unspecified"
+Smoking status - Current smoker,3959111000006111,89765005,148820017,tobacco dependence syndrome
+Smoking status - Current smoker,3959121000006115,89765005,148821018,compulsive tobacco user syndrome
+Smoking status - Current smoker,3959141000006110,89765005,148823015,tobacco abuse
+Smoking status - Current smoker,102951000006115,89765005,2951656017,tobacco dependence
+Smoking status - Current smoker,295260011,89765005,2951656017,tobacco dependence nos
+Smoking status - Current smoker,903981000006117,903981000006101,903981000006117,not interested in stopping smoking
+Smoking status - Current smoker,904001000006111,904001000006107,904001000006111,ready to stop smoking
+Smoking status - Current smoker,904021000006118,904021000006102,904021000006118,previous smoking quit attempts
+Smoking status - Current smoker,904031000006115,904031000006104,904031000006115,thinking about stopping smoking
+Smoking status - Current smoker,904041000006113,904041000006109,904041000006113,waking time to first cigarette
+Smoking status - Current smoker,904051000006110,904051000006106,904051000006110,carbon monoxide validation of smoking status
+Smoking status - Current smoker,904121000006117,904121000006101,904121000006117,carbon monoxide validation confirms smoker
+Smoking status - Current smoker,904221000006110,904221000006106,904221000006110,smoking cessation bupropion therapy
+Smoking status - Current smoker,909391000006117,909391000006101,909391000006117,[rfc] smoking cessation
+Smoking status - Current smoker,961581000006114,961581000006105,961581000006114,smokes/uses tobacco products
+Smoking status - Current smoker,2462391000000119,966971000000103,2462391000000119,varenicline smoking cessation therapy declined
+Smoking status - Current smoker,2462431000000110,966991000000104,2462431000000110,varenicline smoking cessation therapy offered
+Smoking status - Current smoker,981841000006115,981841000006104,981841000006115,exposure to cigarette/cigar smoke
