@@ -1,0 +1,110 @@
+Comorbidity,Read V2 5B code,Read term
+Asthma,H33,Asthma
+Asthma,H333,Acute exacerbation of asthma
+Asthma,H33z1,Asthma attack
+Asthma,663V1,Mild asthma
+Asthma,663V3,Severe asthma
+Asthma,663V0,Occasional asthma
+Asthma,H33z,Asthma unspecified
+Asthma,173A,Exercise induced asthma
+Asthma,H33z0,Status asthmaticus NOS
+Asthma,H331,Intrinsic asthma
+Asthma,H3120,Chronic asthmatic bronchitis
+Asthma,8H2P,"Emergency admission, asthma"
+Asthma,H330,Extrinsic (atopic) asthma
+Asthma,663P,Asthma limiting activities
+Asthma,663U,Asthma management plan given
+Asthma,663N,Asthma disturbing sleep
+Asthma,663y,Number of asthma exacerbations in past year
+Asthma,66Y5,Change in asthma management plan
+Asthma,66Y9,Step up change in asthma management plan
+Asthma,66YJ,Asthma annual review
+Asthma,8B3j,Asthma medication review
+Asthma,663j,Asthma - currently active
+Asthma,1O2,Asthma confirmed
+Asthma,H33z2,Late-onset asthma
+Asthma,663V,Asthma severity
+Asthma,663V2,Moderate asthma
+Asthma,663N2,Asthma disturbs sleep frequently
+Asthma,66YK,Asthma follow-up
+Asthma,H3300,Extrinsic asthma without status asthmaticus
+Asthma,H33zz,Asthma NOS
+Asthma,8795,Asthma control step 2
+Asthma,8794,Asthma control step 1
+Asthma,66YA,Step down change in asthma management plan
+Asthma,8796,Asthma control step 3
+Asthma,66YQ,Asthma monitoring by nurse
+Asthma,663p,Asthma treatment compliance unsatisfactory
+Asthma,663n,Asthma treatment compliance satisfactory
+Asthma,9OJA,Asthma monitoring check done
+Asthma,8798,Asthma control step 5
+Asthma,8797,Asthma control step 4
+Asthma,173c,Occupational asthma
+Asthma,663d,Emergency asthma admission since last appointment
+Asthma,8791,Further asthma - drug prevent.
+Asthma,663u,Asthma causes daytime symptoms 1 to 2 times per week
+Asthma,663e,Asthma restricts exercise
+Asthma,8CR0,Asthma clinical management plan
+Asthma,663s,Asthma never causes daytime symptoms
+Asthma,663v,Asthma causes daytime symptoms most days
+Asthma,663f,Asthma never restricts exercise
+Asthma,663e1,Asthma severely restricts exercise
+Asthma,663e0,Asthma sometimes restricts exercise
+Asthma,H3301,Extrinsic asthma with status asthmaticus
+Asthma,H3310,Intrinsic asthma without status asthmaticus
+Asthma,66YR,Asthma monitoring by doctor
+Asthma,663N0,Asthma causing night waking
+Asthma,66YP,Asthma night-time symptoms
+Asthma,663t,Asthma causes daytime symptoms 1 to 2 times per month
+Asthma,663O0,Asthma never disturbs sleep
+Asthma,663w,Asthma limits walking up hills or stairs
+Asthma,663x,Asthma limits walking on the flat
+Asthma,663N1,Asthma disturbs sleep weekly
+Asthma,H35y7,Wood asthma
+Asthma,663r,Asthma causes night symptoms 1 to 2 times per month
+Asthma,H334,Brittle asthma
+Asthma,1780,Aspirin induced asthma
+Asthma,66YC,Absent from work or school due to asthma
+Asthma,663q,Asthma daytime symptoms
+Asthma,H331z,Intrinsic asthma NOS
+Asthma,H330z,Extrinsic asthma NOS
+Asthma,9OJ1,Attends asthma monitoring
+Asthma,663m,Asthma accident and emergency attendance since last visit
+Asthma,H47y0,Detergent asthma
+Asthma,H3311,Intrinsic asthma with status asthmaticus
+Asthma,173d,Work aggravated asthma
+Asthma,H35y6,Sequoiosis (red-cedar asthma)
+Asthma,388t,Royal College of Physicians asthma assessment
+Asthma,38DL,Asthma control test
+Asthma,8CMA0,Patient has a written asthma personal action plan
+Asthma,679J0,Health education - asthma self management
+Asthma,38DT,Asthma control questionnaire
+Asthma,9NNX,Under care of asthma specialist nurse
+Asthma,679J1,Health education - structured asthma discussion
+Asthma,66Yp,Asthma review using Roy Colleg of Physicians three questions
+Asthma,38DV,Mini asthma quality of life questionnaire
+Asthma,1787,Asthma trigger - seasonal
+Asthma,1781,Asthma trigger - pollen
+Asthma,66Yr,Asthma causes symptoms most nights
+Asthma,66Yq,Asthma causes night time symptoms 1 to 2 times per week
+Asthma,1789,Asthma trigger - respiratory infection
+Asthma,663P0,Asthma limits activities 1 to 2 times per month
+Asthma,178B,Asthma trigger - exercise
+Asthma,663P1,Asthma limits activities 1 to 2 times per week
+Asthma,1783,Asthma trigger - warm air
+Asthma,679J2,Health education - structured patient focused asthma discuss
+Asthma,1786,Asthma trigger - animals
+Asthma,66Ys,Asthma never causes night symptoms
+Asthma,388t0,Royal College Physician asthma assessment 3 question score
+Asthma,1788,Asthma trigger - cold air
+Asthma,178A,Asthma trigger - airborne dust
+Asthma,1785,Asthma trigger - damp
+Asthma,1784,Asthma trigger - emotion
+Asthma,1782,Asthma trigger - tobacco smoke
+Asthma,663P2,Asthma limits activities most days
+Asthma,661N1,Asthma self-management plan review
+Asthma,661M1,Asthma self-management plan agreed
+Asthma,H335,Chronic asthma with fixed airflow obstruction
+Asthma,66Yu,Number days absent from school due to asthma in past 6 month
+Asthma resolved,21262,Asthma Resolved
+Asthma resolved,212G,Asthma resolved

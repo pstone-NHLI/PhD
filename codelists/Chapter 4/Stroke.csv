@@ -1,0 +1,76 @@
+Comorbidity,Read V2 5B code,Read term
+Stroke,662o,haemorrhagic stroke monitoring
+Stroke,G60,subarachnoid haemorrhage
+Stroke,G600,ruptured berry aneurysm
+Stroke,G601,subarachnoid haemorrhage from carotid siphon and bifurcation
+Stroke,G602,subarachnoid haemorrhage from middle cerebral artery
+Stroke,G603,subarachnoid haemorrhage from anterior communicating artery
+Stroke,G604,subarachnoid haemorrhage from posterior communicating artery
+Stroke,G605,subarachnoid haemorrhage from basilar artery
+Stroke,G606,subarachnoid haemorrhage from vertebral artery
+Stroke,G60X,"subarachnoid haemorrh from intracranial artery, unspecif"
+Stroke,G60z,subarachnoid haemorrhage nos
+Stroke,G61,intracerebral haemorrhage
+Stroke,G610,cortical haemorrhage
+Stroke,G611,internal capsule haemorrhage
+Stroke,G612,basal nucleus haemorrhage
+Stroke,G613,cerebellar haemorrhage
+Stroke,G614,pontine haemorrhage
+Stroke,G615,bulbar haemorrhage
+Stroke,G616,external capsule haemorrhage
+Stroke,G617,"intracerebral haemorrhage, intraventricular"
+Stroke,G618,"intracerebral haemorrhage, multiple localized"
+Stroke,G619,lobar cerebral haemorrhage
+Stroke,G61X,"intracerebral haemorrhage in hemisphere, unspecified"
+Stroke,G61X0,"left sided intracerebral haemorrhage, unspecified"
+Stroke,G61X1,"right sided intracerebral haemorrhage, unspecified"
+Stroke,G61z,intracerebral haemorrhage nos
+Stroke,G62,other and unspecified intracranial haemorrhage
+Stroke,G621,subdural haemorrhage - nontraumatic
+Stroke,G622,subdural haematoma - nontraumatic
+Stroke,G623,subdural haemorrhage nos
+Stroke,G62z,intracranial haemorrhage nos
+Stroke,G63y0,cerebral infarct due to thrombosis of precerebral arteries
+Stroke,G63y1,cerebral infarction due to embolism of precerebral arteries
+Stroke,G64,infarction - cerebral
+Stroke,G640,cerebral thrombosis
+Stroke,G6400,cerebral infarction due to thrombosis of cerebral arteries
+Stroke,G641,cerebral embolism
+Stroke,G6410,cerebral infarction due to embolism of cerebral arteries
+Stroke,G64z,cerebral infarction nos
+Stroke,G64z0,brainstem infarction
+Stroke,G64z1,Lateral medullary syndrome
+Stroke,G64z2,left sided cerebral infarction
+Stroke,G64z3,right sided cerebral infarction
+Stroke,G64z4,infarction of basal ganglia
+Stroke,G65,transient cerebral ischaemia
+Stroke,G650,insufficiency - basilar artery
+Stroke,G656,vertebrobasilar insufficiency
+Stroke,G657,carotid territory transient ischaemic attack
+Stroke,G65z,transient cerebral ischaemia nos
+Stroke,G65z1,intermittent cerebral ischaemia
+Stroke,G66,cva unspecified
+Stroke,G660,middle cerebral artery syndrome
+Stroke,G661,anterior cerebral artery syndrome
+Stroke,G662,posterior cerebral artery syndrome
+Stroke,G663,brain stem stroke syndrome
+Stroke,G664,cerebellar stroke syndrome
+Stroke,G665,pure motor lacunar syndrome
+Stroke,G666,pure sensory lacunar syndrome
+Stroke,G667,left sided cva
+Stroke,G668,right sided cva
+Stroke,G671,Generalised ischaemic cerebrovascular disease NOS
+Stroke,G6710,Acute cerebrovascular insufficiency NOS
+Stroke,G6W,cereb infarct due unsp occlus/stenos precerebr arteries
+Stroke,G6X,cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Stroke,Gyu60,[x]subarachnoid haemorrhage from other intracranial arteries
+Stroke,Gyu62,[x]other intracerebral haemorrhage
+Stroke,Gyu63,[x]cerebrl infarctn due/unspcf occlusn or sten/cerebrl artrs
+Stroke,Gyu64,[x]other cerebral infarction
+Stroke,Gyu65,[x]occlusion and stenosis of other precerebral arteries
+Stroke,Gyu66,[x]occlusion and stenosis of other cerebral arteries
+Stroke,Gyu6E,"[x]subarachnoid haemorrh from intracranial artery, unspecif"
+Stroke,Gyu6F,"[x]intracerebral haemorrhage in hemisphere, unspecified"
+Stroke,Gyu6G,[x]cereb infarct due unsp occlus/stenos precerebr arteries
+Stroke,S62,subarachnoid haemorrhage following injury
+Stroke,ZV12D,[v]personal history of transient ischaemic attack

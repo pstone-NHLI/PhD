@@ -1,0 +1,303 @@
+Comorbidity,Read V2 5B code,Read term
+Severe mental illness,E0,Organic psychotic conditions
+Severe mental illness,E00,Senile and presenile organic psychotic conditions
+Severe mental illness,E000,Uncomplicated senile dementia
+Severe mental illness,E001,Presenile dementia
+Severe mental illness,E0010,Uncomplicated presenile dementia
+Severe mental illness,E0011,Presenile dementia with delirium
+Severe mental illness,E0012,Presenile dementia with paranoia
+Severe mental illness,E0013,Presenile dementia with depression
+Severe mental illness,E001z,Presenile dementia NOS
+Severe mental illness,E002,Senile dementia with depressive or paranoid features
+Severe mental illness,E0020,Senile dementia with paranoia
+Severe mental illness,E0021,Senile dementia with depression
+Severe mental illness,E002z,Senile dementia with depressive or paranoid features NOS
+Severe mental illness,E003,Senile dementia with delirium
+Severe mental illness,E004,Arteriosclerotic dementia
+Severe mental illness,E0040,Uncomplicated arteriosclerotic dementia
+Severe mental illness,E0041,Arteriosclerotic dementia with delirium
+Severe mental illness,E0042,Arteriosclerotic dementia with paranoia
+Severe mental illness,E0043,Arteriosclerotic dementia with depression
+Severe mental illness,E004z,Arteriosclerotic dementia NOS
+Severe mental illness,E00y,Other senile and presenile organic psychoses
+Severe mental illness,E00z,Senile or presenile psychoses NOS
+Severe mental illness,E01,Alcoholic psychoses
+Severe mental illness,E010,Alcohol withdrawal delirium
+Severe mental illness,E011,Alcohol amnestic syndrome
+Severe mental illness,E0110,Korsakov's alcoholic psychosis
+Severe mental illness,E0111,Korsakov's alcoholic psychosis with peripheral neuritis
+Severe mental illness,E0112,Wernicke-Korsakov syndrome
+Severe mental illness,E011z,Alcohol amnestic syndrome NOS
+Severe mental illness,E012,Other alcoholic dementia
+Severe mental illness,E0120,Chronic alcoholic brain syndrome
+Severe mental illness,E013,Alcohol withdrawal hallucinosis
+Severe mental illness,E014,Pathological alcohol intoxication
+Severe mental illness,E015,Alcoholic paranoia
+Severe mental illness,E01y,Other alcoholic psychosis
+Severe mental illness,E01y0,Alcohol withdrawal syndrome
+Severe mental illness,E01yz,Other alcoholic psychosis NOS
+Severe mental illness,E01z,Alcoholic psychosis NOS
+Severe mental illness,E02,Drug psychoses
+Severe mental illness,E020,Drug withdrawal syndrome
+Severe mental illness,E021,Drug-induced paranoia or hallucinatory states
+Severe mental illness,E0210,Drug-induced paranoid state
+Severe mental illness,E0211,Drug-induced hallucinosis
+Severe mental illness,E021z,Drug-induced paranoia or hallucinatory state NOS
+Severe mental illness,E022,Pathological drug intoxication
+Severe mental illness,E023,Nicotine withdrawal
+Severe mental illness,E02y,Other drug psychoses
+Severe mental illness,E02y0,Drug-induced delirium
+Severe mental illness,E02y1,Drug-induced dementia
+Severe mental illness,E02y2,Drug-induced amnestic syndrome
+Severe mental illness,E02y3,Drug-induced depressive state
+Severe mental illness,E02y4,Drug-induced personality disorder
+Severe mental illness,E02yz,Other drug psychoses NOS
+Severe mental illness,E02z,Drug psychosis NOS
+Severe mental illness,E03,Transient organic psychoses
+Severe mental illness,E030,Acute confusional state
+Severe mental illness,E0300,"Acute confusional state, post traumatic"
+Severe mental illness,E0301,"Acute confusional state, of infective origin"
+Severe mental illness,E0302,"Acute confusional state, of endocrine origin"
+Severe mental illness,E0303,"Acute confusional state, of metabolic origin"
+Severe mental illness,E0304,"Acute confusional state, of cerebrovascular origin"
+Severe mental illness,E030z,Acute confusional state NOS
+Severe mental illness,E031,Subacute confusional state
+Severe mental illness,E0310,"Subacute confusional state, post traumatic"
+Severe mental illness,E0311,"Subacute confusional state, of infective origin"
+Severe mental illness,E0312,"Subacute confusional state, of endocrine origin"
+Severe mental illness,E0313,"Subacute confusional state, of metabolic origin"
+Severe mental illness,E0314,"Subacute confusional state, of cerebrovascular origin"
+Severe mental illness,E031z,Subacute confusional state NOS
+Severe mental illness,E03y,Other transient organic psychoses
+Severe mental illness,E03y0,Organic delusional syndrome
+Severe mental illness,E03y1,Organic hallucinosis syndrome
+Severe mental illness,E03y2,Organic affective syndrome
+Severe mental illness,E03y3,Unspecified puerperal psychosis
+Severe mental illness,E03yz,Other transient organic psychoses NOS
+Severe mental illness,E03z,Transient organic psychoses NOS
+Severe mental illness,E04,Other chronic organic psychoses
+Severe mental illness,E040,Non-alcoholic amnestic syndrome
+Severe mental illness,E041,Dementia in conditions EC
+Severe mental illness,E042,Chronic confusional state
+Severe mental illness,E04y,Other specified chronic organic psychoses
+Severe mental illness,E04z,Chronic organic psychosis NOS
+Severe mental illness,E0y,Other specified organic psychoses
+Severe mental illness,E0z,Organic psychoses NOS
+Severe mental illness,E1,Non-organic psychoses
+Severe mental illness,E10,Schizophrenic disorders
+Severe mental illness,E100,Simple schizophrenia
+Severe mental illness,E1000,Unspecified schizophrenia
+Severe mental illness,E1001,Subchronic schizophrenia
+Severe mental illness,E1002,Chronic schizophrenic
+Severe mental illness,E1003,Acute exacerbation of subchronic schizophrenia
+Severe mental illness,E1004,Acute exacerbation of chronic schizophrenia
+Severe mental illness,E1005,Schizophrenia in remission
+Severe mental illness,E100z,Simple schizophrenia NOS
+Severe mental illness,E101,Hebephrenic schizophrenia
+Severe mental illness,E1010,Unspecified hebephrenic schizophrenia
+Severe mental illness,E1011,Subchronic hebephrenic schizophrenia
+Severe mental illness,E1012,Chronic hebephrenic schizophrenia
+Severe mental illness,E1013,Acute exacerbation of subchronic hebephrenic schizophrenia
+Severe mental illness,E1014,Acute exacerbation of chronic hebephrenic schizophrenia
+Severe mental illness,E1015,Hebephrenic schizophrenia in remission
+Severe mental illness,E101z,Hebephrenic schizophrenia NOS
+Severe mental illness,E102,Catatonic schizophrenia
+Severe mental illness,E1020,Unspecified catatonic schizophrenia
+Severe mental illness,E1021,Subchronic catatonic schizophrenia
+Severe mental illness,E1022,Chronic catatonic schizophrenia
+Severe mental illness,E1023,Acute exacerbation of subchronic catatonic schizophrenia
+Severe mental illness,E1024,Acute exacerbation of chronic catatonic schizophrenia
+Severe mental illness,E1025,Catatonic schizophrenia in remission
+Severe mental illness,E102z,Catatonic schizophrenia NOS
+Severe mental illness,E103,Paranoid schizophrenia
+Severe mental illness,E1030,Unspecified paranoid schizophrenia
+Severe mental illness,E1031,Subchronic paranoid schizophrenia
+Severe mental illness,E1032,Chronic paranoid schizophrenia
+Severe mental illness,E1033,Acute exacerbation of subchronic paranoid schizophrenia
+Severe mental illness,E1034,Acute exacerbation of chronic paranoid schizophrenia
+Severe mental illness,E1035,Paranoid schizophrenia in remission
+Severe mental illness,E103z,Paranoid schizophrenia NOS
+Severe mental illness,E104,Acute schizophrenic episode
+Severe mental illness,E105,Latent schizophrenia
+Severe mental illness,E1050,Unspecified latent schizophrenia
+Severe mental illness,E1051,Subchronic latent schizophrenia
+Severe mental illness,E1052,Chronic latent schizophrenia
+Severe mental illness,E1053,Acute exacerbation of subchronic latent schizophrenia
+Severe mental illness,E1054,Acute exacerbation of chronic latent schizophrenia
+Severe mental illness,E1055,Latent schizophrenia in remission
+Severe mental illness,E105z,Latent schizophrenia NOS
+Severe mental illness,E106,Residual schizophrenia
+Severe mental illness,E107,Schizo-affective schizophrenia
+Severe mental illness,E1070,Unspecified schizo-affective schizophrenia
+Severe mental illness,E1071,Subchronic schizo-affective schizophrenia
+Severe mental illness,E1072,Chronic schizo-affective schizophrenia
+Severe mental illness,E1073,Acute exacerbation subchronic schizo-affective schizophrenia
+Severe mental illness,E1074,Acute exacerbation of chronic schizo-affective schizophrenia
+Severe mental illness,E1075,Schizo-affective schizophrenia in remission
+Severe mental illness,E107z,Schizo-affective schizophrenia NOS
+Severe mental illness,E10y,Other schizophrenia
+Severe mental illness,E10y0,Atypical schizophrenia
+Severe mental illness,E10y1,Coenesthopathic schizophrenia
+Severe mental illness,E10yz,Other schizophrenia NOS
+Severe mental illness,E10z,Schizophrenia NOS
+Severe mental illness,E11,Affective psychoses
+Severe mental illness,E110,"Manic disorder, single episode"
+Severe mental illness,E1100,"Single manic episode, unspecified"
+Severe mental illness,E1101,"Single manic episode, mild"
+Severe mental illness,E1102,"Single manic episode, moderate"
+Severe mental illness,E1103,"Single manic episode, severe without mention of psychosis"
+Severe mental illness,E1104,"Single manic episode, severe, with psychosis"
+Severe mental illness,E1105,Single manic episode in partial or unspecified remission
+Severe mental illness,E1106,Single manic episode in full remission
+Severe mental illness,E110z,"Manic disorder, single episode NOS"
+Severe mental illness,E111,Recurrent manic episodes
+Severe mental illness,E1110,"Recurrent manic episodes, unspecified"
+Severe mental illness,E1111,"Recurrent manic episodes, mild"
+Severe mental illness,E1112,"Recurrent manic episodes, moderate"
+Severe mental illness,E1113,"Recurrent manic episodes, severe without mention psychosis"
+Severe mental illness,E1114,"Recurrent manic episodes, severe, with psychosis"
+Severe mental illness,E1115,"Recurrent manic episodes, partial or unspecified remission"
+Severe mental illness,E1116,"Recurrent manic episodes, in full remission"
+Severe mental illness,E111z,Recurrent manic episode NOS
+Severe mental illness,E112,Single major depressive episode
+Severe mental illness,E1120,"Single major depressive episode, unspecified"
+Severe mental illness,E1121,"Single major depressive episode, mild"
+Severe mental illness,E1122,"Single major depressive episode, moderate"
+Severe mental illness,E1123,"Single major depressive episode, severe, without psychosis"
+Severe mental illness,E1124,"Single major depressive episode, severe, with psychosis"
+Severe mental illness,E1125,"Single major depressive episode, partial or unspec remission"
+Severe mental illness,E1126,"Single major depressive episode, in full remission"
+Severe mental illness,E112z,Single major depressive episode NOS
+Severe mental illness,E113,Recurrent major depressive episode
+Severe mental illness,E1130,"Recurrent major depressive episodes, unspecified"
+Severe mental illness,E1131,"Recurrent major depressive episodes, mild"
+Severe mental illness,E1132,"Recurrent major depressive episodes, moderate"
+Severe mental illness,E1133,"Recurrent major depressive episodes, severe, no psychosis"
+Severe mental illness,E1134,"Recurrent major depressive episodes, severe, with psychosis"
+Severe mental illness,E1135,"Recurrent major depressive episodes,partial/unspec remission"
+Severe mental illness,E1136,"Recurrent major depressive episodes, in full remission"
+Severe mental illness,E1137,Recurrent depression
+Severe mental illness,E113z,Recurrent major depressive episode NOS
+Severe mental illness,E114,"Bipolar affective disorder, currently manic"
+Severe mental illness,E1140,"Bipolar affective disorder, currently manic, unspecified"
+Severe mental illness,E1141,"Bipolar affective disorder, currently manic, mild"
+Severe mental illness,E1142,"Bipolar affective disorder, currently manic, moderate"
+Severe mental illness,E1143,"Bipolar affect disord, currently manic, severe, no psychosis"
+Severe mental illness,E1144,"Bipolar affect disord, currently manic,severe with psychosis"
+Severe mental illness,E1145,"Bipolar affect disord,currently manic, part/unspec remission"
+Severe mental illness,E1146,"Bipolar affective disorder, currently manic, full remission"
+Severe mental illness,E114z,"Bipolar affective disorder, currently manic, NOS"
+Severe mental illness,E115,"Bipolar affective disorder, currently depressed"
+Severe mental illness,E1150,"Bipolar affective disorder, currently depressed, unspecified"
+Severe mental illness,E1151,"Bipolar affective disorder, currently depressed, mild"
+Severe mental illness,E1152,"Bipolar affective disorder, currently depressed, moderate"
+Severe mental illness,E1153,"Bipolar affect disord, now depressed, severe, no psychosis"
+Severe mental illness,E1154,"Bipolar affect disord, now depressed, severe with psychosis"
+Severe mental illness,E1155,"Bipolar affect disord, now depressed, part/unspec remission"
+Severe mental illness,E1156,"Bipolar affective disorder, now depressed, in full remission"
+Severe mental illness,E115z,"Bipolar affective disorder, currently depressed, NOS"
+Severe mental illness,E116,Mixed bipolar affective disorder
+Severe mental illness,E1160,"Mixed bipolar affective disorder, unspecified"
+Severe mental illness,E1161,"Mixed bipolar affective disorder, mild"
+Severe mental illness,E1162,"Mixed bipolar affective disorder, moderate"
+Severe mental illness,E1163,"Mixed bipolar affective disorder, severe, without psychosis"
+Severe mental illness,E1164,"Mixed bipolar affective disorder, severe, with psychosis"
+Severe mental illness,E1165,"Mixed bipolar affective disorder, partial/unspec remission"
+Severe mental illness,E1166,"Mixed bipolar affective disorder, in full remission"
+Severe mental illness,E116z,"Mixed bipolar affective disorder, NOS"
+Severe mental illness,E117,Unspecified bipolar affective disorder
+Severe mental illness,E1170,"Unspecified bipolar affective disorder, unspecified"
+Severe mental illness,E1171,"Unspecified bipolar affective disorder, mild"
+Severe mental illness,E1172,"Unspecified bipolar affective disorder, moderate"
+Severe mental illness,E1173,"Unspecified bipolar affective disorder, severe, no psychosis"
+Severe mental illness,E1174,"Unspecified bipolar affective disorder,severe with psychosis"
+Severe mental illness,E1175,"Unspecified bipolar affect disord, partial/unspec remission"
+Severe mental illness,E1176,"Unspecified bipolar affective disorder, in full remission"
+Severe mental illness,E117z,"Unspecified bipolar affective disorder, NOS"
+Severe mental illness,E118,Seasonal affective disorder
+Severe mental illness,E11y,Other and unspecified manic-depressive psychoses
+Severe mental illness,E11y0,Unspecified manic-depressive psychoses
+Severe mental illness,E11y1,Atypical manic disorder
+Severe mental illness,E11y2,Atypical depressive disorder
+Severe mental illness,E11y3,Other mixed manic-depressive psychoses
+Severe mental illness,E11yz,Other and unspecified manic-depressive psychoses NOS
+Severe mental illness,E11z,Other and unspecified affective psychoses
+Severe mental illness,E11z0,Unspecified affective psychoses NOS
+Severe mental illness,E11z1,Rebound mood swings
+Severe mental illness,E11z2,Masked depression
+Severe mental illness,E11zz,Other affective psychosis NOS
+Severe mental illness,E12,Paranoid states
+Severe mental illness,E120,Simple paranoid state
+Severe mental illness,E121,Chronic paranoid psychosis
+Severe mental illness,E122,Paraphrenia
+Severe mental illness,E123,Shared paranoid disorder
+Severe mental illness,E12y,Other paranoid states
+Severe mental illness,E12y0,Paranoia querulans
+Severe mental illness,E12yz,Other paranoid states NOS
+Severe mental illness,E12z,Paranoid psychosis NOS
+Severe mental illness,E13,Other nonorganic psychoses
+Severe mental illness,E130,Reactive depressive psychosis
+Severe mental illness,E131,Acute hysterical psychosis
+Severe mental illness,E132,Reactive confusion
+Severe mental illness,E133,Acute paranoid reaction
+Severe mental illness,E134,Psychogenic paranoid psychosis
+Severe mental illness,E135,Agitated depression
+Severe mental illness,E13y,Other reactive psychoses
+Severe mental illness,E13y0,Psychogenic stupor
+Severe mental illness,E13y1,Brief reactive psychosis
+Severe mental illness,E13yz,Other reactive psychoses NOS
+Severe mental illness,E13z,Nonorganic psychosis NOS
+Severe mental illness,E14,Psychoses with origin in childhood
+Severe mental illness,E140,Infantile autism
+Severe mental illness,E1400,Active infantile autism
+Severe mental illness,E1401,Residual infantile autism
+Severe mental illness,E140z,Infantile autism NOS
+Severe mental illness,E141,Disintegrative psychosis
+Severe mental illness,E1410,Active disintegrative psychoses
+Severe mental illness,E1411,Residual disintegrative psychoses
+Severe mental illness,E141z,Disintegrative psychosis NOS
+Severe mental illness,E14y,Other childhood psychoses
+Severe mental illness,E14y0,Atypical childhood psychoses
+Severe mental illness,E14y1,Borderline psychosis of childhood
+Severe mental illness,E14yz,Other childhood psychoses NOS
+Severe mental illness,E14z,Child psychosis NOS
+Severe mental illness,E1y,Other specified non-organic psychoses
+Severe mental illness,E1z,Non-organic psychosis NOS
+Severe mental illness,Eu2,"[X]Schizophrenia, schizotypal and delusional disorders"
+Severe mental illness,Eu20,[X]Schizophrenia
+Severe mental illness,Eu200,[X]Paranoid schizophrenia
+Severe mental illness,Eu201,[X]Hebephrenic schizophrenia
+Severe mental illness,Eu202,[X]Catatonic schizophrenia
+Severe mental illness,Eu203,[X]Undifferentiated schizophrenia
+Severe mental illness,Eu204,[X]Post-schizophrenic depression
+Severe mental illness,Eu205,[X]Residual schizophrenia
+Severe mental illness,Eu206,[X]Simple schizophrenia
+Severe mental illness,Eu20y,[X]Other schizophrenia
+Severe mental illness,Eu20z,"[X]Schizophrenia, unspecified"
+Severe mental illness,Eu21,[X]Schizotypal disorder
+Severe mental illness,Eu22,[X]Persistent delusional disorders
+Severe mental illness,Eu220,[X]Delusional disorder
+Severe mental illness,Eu221,[X]Delusional misidentification syndrome
+Severe mental illness,Eu222,[X]Cotard syndrome
+Severe mental illness,Eu223,[X]Paranoid state in remission
+Severe mental illness,Eu22y,[X]Other persistent delusional disorders
+Severe mental illness,Eu22z,"[X]Persistent delusional disorder, unspecified"
+Severe mental illness,Eu23,[X]Acute and transient psychotic disorders
+Severe mental illness,Eu230,[X]Acute polymorphic psychot disord without symp of schizoph
+Severe mental illness,Eu231,[X]Acute polymorphic psychot disord with symp of schizophren
+Severe mental illness,Eu232,[X]Acute schizophrenia-like psychotic disorder
+Severe mental illness,Eu233,[X]Other acute predominantly delusional psychotic disorders
+Severe mental illness,Eu23y,[X]Other acute and transient psychotic disorders
+Severe mental illness,Eu23z,"[X]Acute and transient psychotic disorder, unspecified"
+Severe mental illness,Eu24,[X]Induced delusional disorder
+Severe mental illness,Eu25,[X]Schizoaffective disorders
+Severe mental illness,Eu250,"[X]Schizoaffective disorder, manic type"
+Severe mental illness,Eu251,"[X]Schizoaffective disorder, depressive type"
+Severe mental illness,Eu252,"[X]Schizoaffective disorder, mixed type"
+Severe mental illness,Eu25y,[X]Other schizoaffective disorders
+Severe mental illness,Eu25z,"[X]Schizoaffective disorder, unspecified"
+Severe mental illness,Eu26,[X]Nonorganic psychosis in remission
+Severe mental illness,Eu2y,[X]Other nonorganic psychotic disorders
+Severe mental illness,Eu2z,[X]Unspecified nonorganic psychosis
+Severe mental illness resolved,212X,Psychosis resolved
+Severe mental illness resolved,212T,"Psychosis, schizophrenia + bipolar affective disord resolved"

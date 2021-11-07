@@ -1,0 +1,665 @@
+Comorbidity,Read V2 5B code,Read term
+Painful condition meds,d712 ,AMITRIPTYLINE 25mg tablets
+Painful condition meds,d713 ,AMITRIPTYLINE 50mg tablets
+Painful condition meds,d71h ,AMITRIPTYLINE 25mg/5mL sugar free solution
+Painful condition meds,d71i ,AMITRIPTYLINE 50mg/5mL sugar free solution
+Painful condition meds,dn3 ,CARBAMAZEPINE
+Painful condition meds,dn31 ,CARBAMAZEPINE 100mg tablets
+Painful condition meds,dn32 ,CARBAMAZEPINE 200mg tablets
+Painful condition meds,dn33 ,CARBAMAZEPINE 400mg tablets
+Painful condition meds,dn34 ,TEGRETOL 100mg tablets
+Painful condition meds,dn35 ,TEGRETOL 200mg tablets
+Painful condition meds,dn36 ,TEGRETOL 400mg tablets
+Painful condition meds,dn37 ,TEGRETOL 100mg/5mL sugar free liquid
+Painful condition meds,dn38 ,TEGRETOL RETARD 200mg m/r tabs
+Painful condition meds,dn39 ,TEGRETOL RETARD 400mg m/r tabs
+Painful condition meds,dn3A ,EPIMAZ 100mg tablets
+Painful condition meds,dn3B ,EPIMAZ 200mg tablets
+Painful condition meds,dn3C ,EPIMAZ 400mg tablets
+Painful condition meds,dn3D ,TEGRETOL 125mg suppositories
+Painful condition meds,dn3E ,TEGRETOL 250mg suppositories
+Painful condition meds,dn3F ,TIMONIL RETARD 200mg m/r tablets
+Painful condition meds,dn3G ,TIMONIL RETARD 400mg m/r tablets
+Painful condition meds,dn3H ,TERIL CR 200mg m/r tablets
+Painful condition meds,dn3I ,TERIL CR 400mg m/r tablets
+Painful condition meds,dn3J ,CARBAGEN SR 200mg m/r tablets
+Painful condition meds,dn3K ,CARBAGEN SR 400mg m/r tablets
+Painful condition meds,dn3a ,CARBAMAZEPINE 200mg m/r tabs
+Painful condition meds,dn3b ,CARBAMAZEPINE 400mg m/r tabs
+Painful condition meds,dn3c ,TEGRETOL 100mg chewable tablets
+Painful condition meds,dn3d ,TEGRETOL 200mg chewable tablets
+Painful condition meds,dn3e ,ARBIL MR 200mg m/r tablets
+Painful condition meds,dn3f ,ARBIL MR 400mg m/r tablets
+Painful condition meds,dn3v ,CARBAMAZEPINE 125mg suppositories
+Painful condition meds,dn3w ,CARBAMAZEPINE 250mg suppositories
+Painful condition meds,dn3x ,CARBAMAZEPINE 200mg chewable tablets
+Painful condition meds,dn3y ,CARBAMAZEPINE 100mg chewable tablets
+Painful condition meds,dn3z ,CARBAMAZEPINE 100mg/5mL sugar free liquid
+Painful condition meds,dn8 ,PHENYTOIN
+Painful condition meds,dn81 ,EPANUTIN 30mg/5mL suspension
+Painful condition meds,dn82 ,EPANUTIN 50mg Infatabs
+Painful condition meds,dn83 ,PHENYTOIN 50mg chewable tablets
+Painful condition meds,dn8y ,PHENYTOIN 30mg/5mL suspension
+Painful condition meds,dn8z ,PHENYTOIN 90mg/5mL sugar free suspension
+Painful condition meds,dn9 ,PHENYTOIN SODIUM
+Painful condition meds,dn91 ,PHENYTOIN 50mg tablets
+Painful condition meds,dn92 ,PHENYTOIN 100mg tablets
+Painful condition meds,dn93 ,EPANUTIN 25mg capsules
+Painful condition meds,dn94 ,EPANUTIN 50mg capsules
+Painful condition meds,dn95 ,EPANUTIN 100mg capsules
+Painful condition meds,dn96 ,EPANUTIN 300mg capsules
+Painful condition meds,dn97 ,PENTRAN 50mg tablets
+Painful condition meds,dn98 ,PENTRAN 100mg tablets
+Painful condition meds,dn9w ,PHENYTOIN SODIUM 300mg capsules
+Painful condition meds,dn9x ,PHENYTOIN SODIUM 25mg caps
+Painful condition meds,dn9y ,PHENYTOIN SODIUM 50mg capsules
+Painful condition meds,dn9z ,PHENYTOIN SODIUM 100mg capsules
+Painful condition meds,dnj ,GABAPENTIN
+Painful condition meds,dnj1 ,GABAPENTIN 100mg capsules
+Painful condition meds,dnj2 ,GABAPENTIN 300mg capsules
+Painful condition meds,dnj3 ,GABAPENTIN 400mg capsules
+Painful condition meds,dnj4 ,NEURONTIN 100mg capsules
+Painful condition meds,dnj5 ,NEURONTIN 300mg capsules
+Painful condition meds,dnj6 ,NEURONTIN 400mg capsules
+Painful condition meds,dnj7 ,NEURONTIN 600mg tablets
+Painful condition meds,dnj8 ,NEURONTIN 800mg tablets
+Painful condition meds,dnj9 ,NEURONTIN 300mg capsules/600mg tablets titration pack
+Painful condition meds,dnjA ,GABAPENTIN 50mg/mL oral solution
+Painful condition meds,dnjx ,GABAPENTIN 300mg capsules/600mg tablets titration pack
+Painful condition meds,dnjy ,GABAPENTIN 600mg tablets
+Painful condition meds,dnjz ,GABAPENTIN 800mg tablets
+Painful condition meds,dnk ,TOPIRAMATE
+Painful condition meds,dnk1 ,TOPIRAMATE 50mg tablets
+Painful condition meds,dnk2 ,TOPIRAMATE 100mg tablets
+Painful condition meds,dnk3 ,TOPIRAMATE 200mg tablets
+Painful condition meds,dnk4 ,TOPAMAX 50mg tablets
+Painful condition meds,dnk5 ,TOPAMAX 100mg tablets
+Painful condition meds,dnk6 ,TOPAMAX 200mg tablets
+Painful condition meds,dnk7 ,TOPIRAMATE 25mg tablets
+Painful condition meds,dnk8 ,TOPAMAX 25mg tablets
+Painful condition meds,dnk9 ,TOPIRAMATE 15mg beads in capsules
+Painful condition meds,dnkA ,TOPIRAMATE 25mg beads in capsules
+Painful condition meds,dnkB ,TOPAMAX SPRINKLE 15mg capsules
+Painful condition meds,dnkC ,TOPAMAX SPRINKLE 25mg capsules
+Painful condition meds,dnkD ,TOPIRAMATE 50mg beads in capsules
+Painful condition meds,dnkE ,TOPAMAX SPRINKLE 50mg capsules
+Painful condition meds,dnp ,PREGABALIN
+Painful condition meds,dnp1 ,LYRICA 25mg capsules
+Painful condition meds,dnp2 ,LYRICA 50mg capsules
+Painful condition meds,dnp3 ,LYRICA 75mg capsules
+Painful condition meds,dnp4 ,LYRICA 100mg capsules
+Painful condition meds,dnp5 ,LYRICA 150mg capsules
+Painful condition meds,dnp6 ,LYRICA 200mg capsules
+Painful condition meds,dnp7 ,LYRICA 300mg capsules
+Painful condition meds,dnp8 ,LYRICA 225mg capsules
+Painful condition meds,dnp9 ,LYRICA 20mg/1mL oral solution
+Painful condition meds,dnpA ,LECAENT 25mg capsules
+Painful condition meds,dnpB ,LECAENT 50mg capsules
+Painful condition meds,dnpC ,LECAENT 75mg capsules
+Painful condition meds,dnpD ,LECAENT 100mg capsules
+Painful condition meds,dnpE ,LECAENT 150mg capsules
+Painful condition meds,dnpF ,LECAENT 200mg capsules
+Painful condition meds,dnpG ,LECAENT 225mg capsules
+Painful condition meds,dnpH ,LECAENT 300mg capsules
+Painful condition meds,dnpI ,REWISCA 25mg capsules
+Painful condition meds,dnpJ ,REWISCA 50mg capsules
+Painful condition meds,dnpK ,REWISCA 75mg capsules
+Painful condition meds,dnpL ,REWISCA 100mg capsules
+Painful condition meds,dnpM ,REWISCA 150mg capsules
+Painful condition meds,dnpN ,REWISCA 200mg capsules
+Painful condition meds,dnpO ,REWISCA 225mg capsules
+Painful condition meds,dnpP ,REWISCA 300mg capsules
+Painful condition meds,dnpr ,PREGABALIN 20mg/1mL oral solution
+Painful condition meds,dnps ,PREGABALIN 225mg capsules
+Painful condition meds,dnpt ,PREGABALIN 300mg capsules
+Painful condition meds,dnpu ,PREGABALIN 200mg capsules
+Painful condition meds,dnpv ,PREGABALIN 100mg capsules
+Painful condition meds,dnpw ,PREGABALIN 150mg capsules
+Painful condition meds,dnpx ,PREGABALIN 75mg capsules
+Painful condition meds,dnpy ,PREGABALIN 50mg capsules
+Painful condition meds,dnpz ,PREGABALIN 25mg capsules
+Painful condition meds,j22 ,DICLOFENAC SODIUM
+Painful condition meds,j221 ,VOLTAROL 25mg tablets
+Painful condition meds,j222 ,VOLTAROL 50mg tablets
+Painful condition meds,j223 ,VOLTAROL 75mg/3mL injection
+Painful condition meds,j224 ,VOLTAROL 100mg suppositories
+Painful condition meds,j225 ,VOLTAROL 12.5mg paediatric suppositories
+Painful condition meds,j226 ,VOLTAROL RETARD 100mg m/r tablets
+Painful condition meds,j227 ,RHUMALGAN 25mg e/c tablets
+Painful condition meds,j228 ,RHUMALGAN 50mg e/c tablets
+Painful condition meds,j229 ,DICLOFENAC 75mg/3mL injection
+Painful condition meds,j22A ,FLAMRASE SR 100mg m/r tablets
+Painful condition meds,j22B ,MOTIFENE 75mg e/c+m/r capsules
+Painful condition meds,j22C ,DICLOFENAC SODIUM 75mg m/r capsules
+Painful condition meds,j22D ,VOLTAROL 25mg suppositories
+Painful condition meds,j22E ,VOLTAROL 50mg suppositories
+Painful condition meds,j22F ,DICLOFENAC SODIUM 25mg suppositories
+Painful condition meds,j22G ,DICLOFENAC SODIUM 50mg suppositories
+Painful condition meds,j22H ,DICLOMAX SR 75mg m/r capsules
+Painful condition meds,j22I ,DICLOFLEX 25mg e/c tablets
+Painful condition meds,j22J ,DICLOFLEX 50mg e/c tablets
+Painful condition meds,j22K ,DICLOFLEX RETARD 100mg m/r tablets
+Painful condition meds,j22L ,LOFENSAID-25 tablets
+Painful condition meds,j22M ,LOFENSAID-50 tablets
+Painful condition meds,j22N ,RHUMALGAN CR 100mg m/r tablets
+Painful condition meds,j22O ,RHUMALGAN CR 75mg m/r tablets
+Painful condition meds,j22P ,VOLSAID RETARD 75mg m/r tablets
+Painful condition meds,j22Q ,VOLSAID RETARD 100mg m/r tablets
+Painful condition meds,j22R ,DICLOFENAC 75mg e/c+m/r capsules
+Painful condition meds,j22S ,LOFENSAID RETARD 75 m/r tablets
+Painful condition meds,j22T ,LOFENSAID RETARD 100 m/r tablets
+Painful condition meds,j22U ,SLOFENAC SR 100mg m/r tablets
+Painful condition meds,j22V ,SLOFENAC SR 75mg m/r tablets
+Painful condition meds,j22W ,DIGENAC XL 100 m/r tablets
+Painful condition meds,j22X ,FLEXOTARD 100mg m/r tablets
+Painful condition meds,j22Y ,DICLOTARD 75 m/r tablets
+Painful condition meds,j22Z ,DICLOTARD 100 m/r tablets
+Painful condition meds,j22a ,DICLOFENAC 100mg suppositories
+Painful condition meds,j22b ,DICLOFENAC 12.5mg paediatric suppositories
+Painful condition meds,j22c ,DICLOFENAC 100mg m/r tablets
+Painful condition meds,j22d ,DICLOFENAC 25mg e/c tablets
+Painful condition meds,j22e ,DICLOFENAC 50mg e/c tablets
+Painful condition meds,j22f ,VOLRAMAN 25mg tablets
+Painful condition meds,j22g ,VOLRAMAN 50mg tablets
+Painful condition meds,j22h ,VOLTAROL 50mg dispersible tablets
+Painful condition meds,j22i ,DICLOFENAC 50mg dispersible tablets
+Painful condition meds,j22j ,VALENAC 25mg e/c tablets
+Painful condition meds,j22k ,VALENAC 50mg e/c tablets
+Painful condition meds,j22l ,DICLOZIP 25mg tablets
+Painful condition meds,j22m ,DICLOZIP 50mg tablets
+Painful condition meds,j22n ,VOLTAROL SR 75mg m/r tablets
+Painful condition meds,j22o ,ARTHROTEC 50 tablets
+Painful condition meds,j22p ,DICLOFENAC SODIUM+MISOPROSTOL 50mg/200micrograms tablets
+Painful condition meds,j22q ,DICLOMAX RETARD 100mg m/r capsules
+Painful condition meds,j22r ,DICLOFENAC 100mg m/r capsules
+Painful condition meds,j22s ,ISCLOFEN 50mg e/c tablets
+Painful condition meds,j22t ,DICLOFENAC SODIUM+MISOPROSTOL 75mg/200micrograms tablets
+Painful condition meds,j22u ,DICLOFENAC SODIUM 25mg tablets
+Painful condition meds,j22v ,DICLOFENAC SODIUM 50mg tablets
+Painful condition meds,j22w ,FLAMRASE 25mg tablets
+Painful condition meds,j22x ,FLAMRASE 50mg tablets
+Painful condition meds,j22y ,DICLOFENAC SODIUM 75mg m/r tablets
+Painful condition meds,j22z ,ARTHROTEC 75 tablets
+Painful condition meds,j24 ,ETODOLAC
+Painful condition meds,j241 ,LODINE 200mg capsules
+Painful condition meds,j242 ,RAMODAR 200mg tablets
+Painful condition meds,j243 ,ETODOLAC 200mg capsules
+Painful condition meds,j244 ,LODINE 300mg capsules
+Painful condition meds,j245 ,LODINE 200mg tablets
+Painful condition meds,j246 ,ETODOLAC 200mg tablets
+Painful condition meds,j247 ,ETODOLAC 300mg capsules
+Painful condition meds,j248 ,LODINE SR 600mg m/r tablets
+Painful condition meds,j249 ,ETODOLAC 600mg m/r tablets
+Painful condition meds,j24A ,EBRETIN 200mg capsules
+Painful condition meds,j24B ,EBRETIN 300mg capsules
+Painful condition meds,j24C ,ECCOXOLAC 300mg capsules
+Painful condition meds,j24D ,ETOPAN XL 600mg m/r tablets
+Painful condition meds,j24E ,ETOLYN 600mg m/r tablets
+Painful condition meds,j28 ,IBUPROFEN [MUSCULOSKELETAL USE]
+Painful condition meds,j281 ,IBUPROFEN 200mg tablets
+Painful condition meds,j282 ,IBUPROFEN 400mg tablets
+Painful condition meds,j283 ,IBUPROFEN 600mg tablets
+Painful condition meds,j284 ,APSIFEN 200mg tablets
+Painful condition meds,j285 ,APSIFEN 400mg tablets
+Painful condition meds,j286 ,APSIFEN F 600mg effervescent tablets
+Painful condition meds,j287 ,BRUFEN 200mg tablets
+Painful condition meds,j288 ,BRUFEN 400mg tablets
+Painful condition meds,j289 ,BRUFEN 600mg tablets
+Painful condition meds,j28A ,BRUFEN RETARD 800mg m/r tablets
+Painful condition meds,j28B ,IBUPROFEN 800mg m/r tablets
+Painful condition meds,j28C ,CUPROFEN 200mg tablets
+Painful condition meds,j28D ,ISISFEN 400mg tablets
+Painful condition meds,j28E ,LIDIFEN 200mg tablets
+Painful condition meds,j28F ,LIDIFEN 400mg tablets
+Painful condition meds,j28G ,LIDIFEN 600mg tablets
+Painful condition meds,j28H ,CODAFEN CONTINUS m/r tablets
+Painful condition meds,j28I ,NUROFEN PLUS tablets
+Painful condition meds,j28J ,JUNIFEN 100mg/5mL sugar free suspension
+Painful condition meds,j28K ,IBUMED 400mg tablets
+Painful condition meds,j28M ,RIMAFEN 200mg tablets
+Painful condition meds,j28N ,RIMAFEN 400mg tablets
+Painful condition meds,j28O ,IBUPROFEN+CODEINE PHOSPHATE 200mg/12.5mg tablets
+Painful condition meds,j28P ,IBUPROFEN 600mg/sachet effervescent granules
+Painful condition meds,j28R ,INOVEN 200mg caplets
+Painful condition meds,j28S ,RELCOFEN 200mg tablets
+Painful condition meds,j28T ,RELCOFEN 400mg tablets
+Painful condition meds,j28U ,SOLPAFLEX tablets
+Painful condition meds,j28V ,IBUPROFEN+CODEINE PHOSPHATE 200mg/12.8mg tablets
+Painful condition meds,j28W ,ADVIL 200mg tablets
+Painful condition meds,j28X ,ADVIL EXTRA STRENGTH 400mg tablets
+Painful condition meds,j28Y ,IBUPROFEN 100mg/5mL sugar free syrup
+Painful condition meds,j28Z ,ANADIN IBUPROFEN 200mg tablets
+Painful condition meds,j28a ,BRUFEN 100mg/5mL syrup
+Painful condition meds,j28b ,EBUFAC 200mg tablets
+Painful condition meds,j28c ,EBUFAC 400mg tablets
+Painful condition meds,j28d ,FENBID 300mg Spansules
+Painful condition meds,j28e ,IBULAR 200mg tablets
+Painful condition meds,j28f ,IBULAR 400mg tablets
+Painful condition meds,j28g ,IBUMETIN 200mg tablets
+Painful condition meds,j28h ,IBUMETIN 400mg tablets
+Painful condition meds,j28i ,IBUMETIN 600mg tablets
+Painful condition meds,j28j ,MOTRIN 200mg tablets
+Painful condition meds,j28k ,MOTRIN 400mg tablets
+Painful condition meds,j28l ,MOTRIN 600mg tablets
+Painful condition meds,j28m ,PAXOFEN 200mg tablets
+Painful condition meds,j28n ,PAXOFEN 400mg tablets
+Painful condition meds,j28o ,PAXOFEN 600mg tablets
+Painful condition meds,j28p ,MOTRIN 800mg tablets
+Painful condition meds,j28q ,ARTHROFEN 200mg tablets
+Painful condition meds,j28r ,ARTHROFEN 400mg tablets
+Painful condition meds,j28s ,JUNIFEN 100mg/5mL suspension 150mL
+Painful condition meds,j28t ,ARTHROFEN 600mg tablets
+Painful condition meds,j28u ,IBUPROFEN 800mg tablets
+Painful condition meds,j28v ,BRUFEN 600mg granules
+Painful condition meds,j28w ,IBUPROFEN 100mg/5mL syrup
+Painful condition meds,j28x ,IBUPROFEN 200mg m/r capsules
+Painful condition meds,j28y ,IBUPROFEN 300mg m/r capsules
+Painful condition meds,j28z ,IBUPROFEN+CODEINE PHOSPHATE 300mg/20mg m/r tablets
+Painful condition meds,j29 ,INDOMETACIN
+Painful condition meds,j291 ,INDOMETACIN 25mg capsules
+Painful condition meds,j292 ,INDOMETACIN 50mg capsules
+Painful condition meds,j293 ,INDOMETACIN 100mg suppositories
+Painful condition meds,j294 ,ARTRACIN 25mg capsules
+Painful condition meds,j295 ,ARTRACIN 50mg capsules
+Painful condition meds,j296 ,IMBRILON 25mg capsules
+Painful condition meds,j297 ,IMBRILON 50mg capsules
+Painful condition meds,j298 ,IMBRILON 100mg suppositories
+Painful condition meds,j299 ,INDOCID 25mg capsules
+Painful condition meds,j29A ,INDOMETACIN 75mg m/r tablets
+Painful condition meds,j29B ,FLEXIN CONTINUS 25mg m/r tablets
+Painful condition meds,j29C ,FLEXIN CONTINUS LS 50mg m/r tablets
+Painful condition meds,j29D ,INDOMETACIN 50mg m/r tablets
+Painful condition meds,j29E ,INDOMETACIN 25mg m/r tablets
+Painful condition meds,j29F ,RIMACID 25mg capsules
+Painful condition meds,j29G ,ARTRACIN SR 75mg m/r capsules
+Painful condition meds,j29H ,MAXIMET SR 75mg m/r capsules
+Painful condition meds,j29J ,INDOTARD MR 75mg m/r capsules
+Painful condition meds,j29K ,PARDELPRIN MR 75mg m/r capsules
+Painful condition meds,j29a ,INDOCID 50mg capsules
+Painful condition meds,j29b ,INDOCID 25mg/5mL suspension
+Painful condition meds,j29c ,INDOCID 100mg suppositories
+Painful condition meds,j29d ,INDOCID-R 75mg m/r capsules
+Painful condition meds,j29e ,INDOFLEX 25mg capsules
+Painful condition meds,j29f ,INDOLAR 25mg capsules
+Painful condition meds,j29g ,INDOLAR 50mg capsules
+Painful condition meds,j29h ,INDOLAR 100mg suppositories
+Painful condition meds,j29i ,INDOLAR SR 75mg m/r capsules
+Painful condition meds,j29j ,INDOMOD 25mg m/r capsules
+Painful condition meds,j29k ,INDOMOD 75mg m/r capsules
+Painful condition meds,j29l ,MOBILAN 25mg capsules
+Painful condition meds,j29m ,MOBILAN 50mg capsules
+Painful condition meds,j29n ,RHEUMACIN LA 75mg m/r capsules
+Painful condition meds,j29o ,SLO-INDO 75mg m/r capsules
+Painful condition meds,j29p ,FLEXIN CONTINUS 75mg m/r tablets
+Painful condition meds,j29q ,INDOCID PDA 1mg injection
+Painful condition meds,j29r ,INDOMAX 25mg capsules
+Painful condition meds,j29s ,INDOMAX 75mg m/r capsules
+Painful condition meds,j29t ,RHEUMACIN LA 75mg m/r capsules
+Painful condition meds,j29u ,BERLIND 75 RETARD 75mg m/r capsules
+Painful condition meds,j29v ,INDOMETACIN 1mg injection (pdr for recon)
+Painful condition meds,j29w ,INDOMETHACIN 25mg/5mL suspension
+Painful condition meds,j29y ,INDOMETACIN 75mg m/r capsules
+Painful condition meds,j29z ,INDOMETACIN 25mg m/r capsules
+Painful condition meds,j2c ,NAPROXEN
+Painful condition meds,j2c1 ,NAPROXEN 250mg tablets
+Painful condition meds,j2c2 ,NAPROXEN 500mg tablets
+Painful condition meds,j2c3 ,LARAFLEX 250mg tablets
+Painful condition meds,j2c4 ,LARAFLEX 500mg tablets
+Painful condition meds,j2c5 ,NAPROSYN 250mg tablets
+Painful condition meds,j2c6 ,NAPROSYN 500mg tablets
+Painful condition meds,j2c7 ,NAPROSYN 125mg/5mL suspension
+Painful condition meds,j2c8 ,NAPROSYN 500mg suppositories
+Painful condition meds,j2c9 ,NAPROSYN granules 500mg/sachet
+Painful condition meds,j2cA ,RHEUFLEX 250mg tablets
+Painful condition meds,j2cB ,RHEUFLEX 500mg tablets
+Painful condition meds,j2cC ,PRANOXEN CONTINUS 375mg m/r tablets
+Painful condition meds,j2cD ,PRANOXEN CONTINUS 500mg m/r tablets
+Painful condition meds,j2cE ,NAPROSYN S/R 500mg m/r tablets
+Painful condition meds,j2cF ,TIMPRON 500mg tablets
+Painful condition meds,j2cG ,RIMOXYN 500mg tablets
+Painful condition meds,j2cH ,RIMOXYN 250mg tablets
+Painful condition meds,j2cI ,TIMPRON 250mg tablets
+Painful condition meds,j2cJ ,TIMPRON 250 EC e/c tablets
+Painful condition meds,j2cK ,TIMPRON 500 EC e/c tablets
+Painful condition meds,j2cL ,CONDROTEC tablets
+Painful condition meds,j2cM ,ARTHROSIN 250mg e/c tablets
+Painful condition meds,j2cN ,ARTHROSIN 500mg e/c tablets
+Painful condition meds,j2cO ,FEMINAX ULTRA 250mg tablets
+Painful condition meds,j2cP ,VIMOVO 500mg/20mg m/r tablets
+Painful condition meds,j2cZ ,NAPROXEN+ESOMEPRAZOLE 500mg/20mg m/r tablets
+Painful condition meds,j2ca ,VALROX 250mg tablets
+Painful condition meds,j2cb ,VALROX 500mg tablets
+Painful condition meds,j2cc ,ARTHROSIN 250mg tablets
+Painful condition meds,j2cd ,ARTHROSIN 500mg tablets
+Painful condition meds,j2ce ,ARTHROXEN 250mg tablets
+Painful condition meds,j2cf ,ARTHROXEN 500mg tablets
+Painful condition meds,j2cg ,NAPROSYN 375mg tablets
+Painful condition meds,j2ch ,NAPROXEN 375mg tablets
+Painful condition meds,j2ci ,NYCOPREN 250mg e/c tablets
+Painful condition meds,j2cj ,NYCOPREN 500mg e/c tablets
+Painful condition meds,j2ck ,NAPROXEN 250mg e/c tablets
+Painful condition meds,j2cl ,NAPROXEN 500mg e/c tablets
+Painful condition meds,j2cm ,PROSAID 250mg tablets
+Painful condition meds,j2cn ,PROSAID 500mg tablets
+Painful condition meds,j2co ,NAPROSYN EC 250mg e/c tablets
+Painful condition meds,j2cp ,NAPROSYN EC 375mg e/c tablets
+Painful condition meds,j2cq ,NAPROSYN EC 500mg e/c tablets
+Painful condition meds,j2cr ,NAPRATEC 500mg/200micrograms tablets combination pack 2x56
+Painful condition meds,j2cs ,NAPROXEN 375mg m/r tablets
+Painful condition meds,j2ct ,NAPROXEN 500mg m/r tablets
+Painful condition meds,j2cu ,NAPROXEN tablet+MISOPROSTOL tablet 500mg/200micrograms pack
+Painful condition meds,j2cv ,NAPROXEN granules 500mg/sachet
+Painful condition meds,j2cw ,NAPROXEN 375mg e/c tablets
+Painful condition meds,j2cx ,NAPROXEN+MISOPROSTOL 500mg/200micrograms tablets
+Painful condition meds,j2cy ,NAPROXEN 125mg/5mL suspension
+Painful condition meds,j2cz ,NAPROXEN 500mg suppositories
+Painful condition meds,j2n ,MELOXICAM
+Painful condition meds,j2n1 ,MELOXICAM 15mg suppositories
+Painful condition meds,j2n2 ,MELOXICAM 7.5mg tablets
+Painful condition meds,j2n3 ,MELOXICAM 15mg tablets
+Painful condition meds,j2n4 ,MOBIC 15mg suppositories
+Painful condition meds,j2n5 ,MOBIC 7.5mg tablets
+Painful condition meds,j2n6 ,MOBIC 15mg tablets
+Painful condition meds,j2n7 ,MELOXICAM 7.5mg suppositories
+Painful condition meds,j2n8 ,MOBIC 7.5mg suppositories
+Painful condition meds,j2n9 ,MELOXICAM 7.5mg orodispersible tablets
+Painful condition meds,j2nA ,MELOXICAM 15mg orodispersible tablets
+Painful condition meds,j2o ,DICLOFENAC SODIUM 2
+Painful condition meds,j2o1 ,DICLOFLEX SR 75mg m/r tablets
+Painful condition meds,j2o2 ,FLAMATAK MR 75mg m/r tablets
+Painful condition meds,j2o3 ,DIFENOR XL 100mg m/r tablets
+Painful condition meds,j2o4 ,DICLOVOL 25mg e/c tablets
+Painful condition meds,j2o5 ,DICLOVOL 50mg e/c tablets
+Painful condition meds,j2o6 ,DICLOVOL SR 75mg m/r tablets
+Painful condition meds,j2o7 ,DICLOVOL RETARD 100mg m/r tablets
+Painful condition meds,j2o8 ,DEXOMON SR 75mg m/r tablets
+Painful condition meds,j2o9 ,DEXOMON RETARD 100mg m/r tablets
+Painful condition meds,j2oA ,ACOFLAM SR 75mg m/r tablets
+Painful condition meds,j2oB ,ACOFLAM 50mg e/c tablets
+Painful condition meds,j2oC ,ACOFLAM 25mg e/c tablets
+Painful condition meds,j2oD ,ACOFLAM RETARD 100mg m/r tablets
+Painful condition meds,j2oE ,FLAMATAK MR 100mg m/r tablets
+Painful condition meds,j2oF ,RHEUMATAC RETARD 75mg m/r tablets
+Painful condition meds,j2oG ,FLAMRASE SR 75mg m/r tablets
+Painful condition meds,j2oH ,ECONAC 100mg suppositories
+Painful condition meds,j2oJ ,CLOSTERIL 100 m/r tablets
+Painful condition meds,j2oK ,ECONAC 75mg/3mL injection
+Painful condition meds,j2oL ,RHUMALGAN XL 100mg m/r capsules
+Painful condition meds,j2oM ,RHUMALGAN SR 75mg m/r capsules
+Painful condition meds,j2oN ,DYLOJECT 75mg/2mL solution for injection
+Painful condition meds,j2oO ,DICLOFENAC 75mg/2mL solution for injection
+Painful condition meds,j2oP ,VOLTAROL ACTIVE 4% spray 15mL
+Painful condition meds,j2oQ ,VOLTAROL ACTIVE 4% spray 30mL
+Painful condition meds,j2oR ,ENSTAR XL 100mg m/r tablets
+Painful condition meds,j2oS ,MASIDEMEN 75mg/200micrograms m/r tablets
+Painful condition meds,j2oT ,DICLOFENAC SODIUM+MISOPROSTOL 75mg/200micrograms m/r tablets
+Painful condition meds,j2oU ,MASIDEMEN 50mg/200micrograms m/r tablets
+Painful condition meds,j2oV ,DICLOFENAC SODIUM+MISOPROSTOL 50mg/200micrograms m/r tablets
+Painful condition meds,j2ol ,DEFANAC SR 75mg m/r tablets
+Painful condition meds,j2om ,DEFANAC RETARD 100mg m/r tablets
+Painful condition meds,j2oo ,DEFANAC 25mg e/c tablets
+Painful condition meds,j2op ,DEFANAC 50mg e/c tablets
+Painful condition meds,j2oq ,FENACTOL 25mg e/c tablets
+Painful condition meds,j2or ,FENACTOL 50mg e/c tablets
+Painful condition meds,j2os ,FENACTOL SR 75mg m/r tablets
+Painful condition meds,j2ot ,FENACTOL RETARD 100mg m/r tablets
+Painful condition meds,j2ou ,VALDIC 75 RETARD 75mg m/r tablets
+Painful condition meds,j2ov ,VALDIC 100 RETARD 100mg m/r tablets
+Painful condition meds,j2ow ,ECONAC SR 75mg m/r tablets
+Painful condition meds,j2ox ,ECONAC XL 100mg m/r tablets
+Painful condition meds,j2oy ,MOBIGEL 4% spray 25g
+Painful condition meds,j2oz ,DICLOFENAC SODIUM 4% spray
+Painful condition meds,j2p ,IBUPROFEN [MUSCULOSKELETAL USE 2]
+Painful condition meds,j2p1 ,NUROFEN ADVANCE 200mg tablets
+Painful condition meds,j2p2 ,NUROFEN FOR CHILDREN 100mg/5mL oral suspension
+Painful condition meds,j2p3 ,NUROFEN LONG LASTING 300mg m/r capsules
+Painful condition meds,j2p4 ,GALPROFEN 100mg/5mL oral suspension
+Painful condition meds,j2p5 ,LIBROFEM 200mg tablets
+Painful condition meds,j2p6 ,ORBIFEN FOR CHILDREN 100mg/5mL sugar free oral suspension
+Painful condition meds,j2p7 ,MANDAFEN 600mg tablets
+Painful condition meds,j2p8 ,FEVERFEN 100mg/5mL s/f oral suspension
+Painful condition meds,j2p9 ,NUROFEN FOR CHILDREN SINGLES 100mg/5mL sachts s/f oral suspn
+Painful condition meds,j2pA ,IBUPROFEN 100mg/5mL sachets s/f oral suspension
+Painful condition meds,j2pB ,MANDAFEN 400mg tablets
+Painful condition meds,j2pC ,ORBIFEN 100mg/5mL sugar free oral suspension
+Painful condition meds,j2pD ,NUROFEN MOBILE 200mg tablets
+Painful condition meds,j2pE ,FENPAED 100mg/5mL sugar free oral suspension
+Painful condition meds,j2pF ,MANDAFEN FOR CHILDREN 100mg/5mL sugar free oral suspension
+Painful condition meds,j2pG ,CUPROFEN FOR CHILDREN 100mg/5mL sugar free oral suspension
+Painful condition meds,j2pH ,NUROFEN 200mg tablets
+Painful condition meds,j2pI ,NUROFEN 200mg caplets
+Painful condition meds,j2pJ ,IBUPROFEN 200mg capsules
+Painful condition meds,j2pK ,NUROFEN 200mg liquid capsules
+Painful condition meds,j2pL ,CALPROFEN 100mg/5mL sugar free oral suspension
+Painful condition meds,j2pM ,CUPROFEN PLUS tablets
+Painful condition meds,j2pN ,ORBIFEN 100mg/5mL sachets sugar free oral suspension
+Painful condition meds,j2pO ,CARE IBUPROFEN FOR CHILDREN 100mg/5mL s/f oral suspension
+Painful condition meds,j2pP ,NUROFEN FOR CHILDREN strawberry 100mg/5mL s/f oral susp
+Painful condition meds,j2pQ ,GALPROFEN IBUPROFEN 200mg caplets
+Painful condition meds,j2pR ,LLOYDS PHARMACY IBUPROFEN FOR CHILDREN 100mg/5mL s/f susp
+Painful condition meds,j2pS ,NUROFEN TENSION HEADACHE 200mg tablets
+Painful condition meds,j2pT ,SOLPADEINE MIGRAINE IBUPROFEN & CODEINE tablets
+Painful condition meds,j2pU ,NUROFEN MAXIMUM STRENGTH MIGRAINE PAIN 400mg Caplets
+Painful condition meds,j2pV ,NUROFEN EXTRA STRENGTH 400mg liquid capsules
+Painful condition meds,j2pW ,IBUPROFEN 400mg capsules
+Painful condition meds,j2pX ,ANADIN ULTRA DOUBLE STRENGTH 400mg liquid capsules
+Painful condition meds,j2pY ,GALPHARM MAXIMUM STRENGTH IBUPROFEN 400mg liquid capsules
+Painful condition meds,j2pZ ,IBUCALM 200mg tablets
+Painful condition meds,j2pa ,IBUCALM 400mg tablets
+Painful condition meds,j2pb ,NUROFEN EXPRESS SOLUBLE 400mg/sachet oral powder
+Painful condition meds,j2pc ,IBUPROFEN 400mg/sachet oral powder
+Painful condition meds,j2r ,DICLOFENAC POTASSIUM
+Painful condition meds,j2r1 ,VOLTAROL RAPID 25mg tablets
+Painful condition meds,j2r2 ,VOLTAROL RAPID 50mg tablets
+Painful condition meds,j2r3 ,VOLTAROL PAIN-EZE 12.5mg tablets
+Painful condition meds,j2rx ,DICLOFENAC POTASSIUM 12.5mg tablets
+Painful condition meds,j2ry ,DICLOFENAC POTASSIUM 25mg tablets
+Painful condition meds,j2rz ,DICLOFENAC POTASSIUM 50mg tablets
+Painful condition meds,jA2 ,CELECOXIB
+Painful condition meds,jA21 ,CELEBREX 100mg capsules
+Painful condition meds,jA22 ,CELEBREX 200mg capsules
+Painful condition meds,jA23 ,ONSENAL 400mg capsules
+Painful condition meds,jA2x ,CELECOXIB 400mg capsules
+Painful condition meds,jA2y ,CELECOXIB 200mg capsules
+Painful condition meds,jA2z ,CELECOXIB 100mg capsules
+Painful condition meds,jA5 ,ETORICOXIB
+Painful condition meds,jA51 ,ETORICOXIB 60mg tablets
+Painful condition meds,jA52 ,ETORICOXIB 90mg tablets
+Painful condition meds,jA53 ,ETORICOXIB 120mg tablets
+Painful condition meds,jA54 ,ARCOXIA 60mg tablets
+Painful condition meds,jA55 ,ARCOXIA 90mg tablets
+Painful condition meds,jA56 ,ARCOXIA 120mg tablets
+Painful condition meds,jA57 ,ARCOXIA 30mg tablets
+Painful condition meds,jA58 ,ETORICOXIB 30mg tablets
+Painful condition meds,o42 ,FENTANYL
+Painful condition meds,o421 ,SUBLIMAZE 100micrograms/2mL injection
+Painful condition meds,o422 ,SUBLIMAZE 500micrograms/10mL injection
+Painful condition meds,o423 ,THALAMONAL 100micrograms injection
+Painful condition meds,o424 ,FENTANYL 25micrograms/hr patches
+Painful condition meds,o425 ,FENTANYL 50micrograms/hr patches
+Painful condition meds,o426 ,FENTANYL 75micrograms/hr patches
+Painful condition meds,o427 ,FENTANYL 100micrograms/hr patches
+Painful condition meds,o428 ,DUROGESIC 25micrograms/hr patches
+Painful condition meds,o429 ,DUROGESIC 50micrograms/hr patches
+Painful condition meds,o42A ,DUROGESIC 75micrograms/hr patches
+Painful condition meds,o42B ,DUROGESIC 100micrograms/hr patches
+Painful condition meds,o42C ,ACTIQ 200micrograms lozenges
+Painful condition meds,o42D ,ACTIQ 400micrograms lozenges
+Painful condition meds,o42E ,ACTIQ 600micrograms lozenges
+Painful condition meds,o42F ,ACTIQ 800micrograms lozenges
+Painful condition meds,o42G ,ACTIQ 1200micrograms lozenges
+Painful condition meds,o42H ,ACTIQ 1600micrograms lozenges
+Painful condition meds,o42I ,DUROGESIC DTRANS 25micrograms/hr patches
+Painful condition meds,o42J ,DUROGESIC DTRANS 50micrograms/hr patches
+Painful condition meds,o42K ,DUROGESIC DTRANS 75micrograms/hr patches
+Painful condition meds,o42L ,DUROGESIC DTRANS 100micrograms/hr patches
+Painful condition meds,o42M ,TILOFYL 25micrograms/hour patches
+Painful condition meds,o42N ,TILOFYL 50micrograms/hour patches
+Painful condition meds,o42O ,TILOFYL 75micrograms/hour patches
+Painful condition meds,o42P ,TILOFYL 100micrograms/hour patches
+Painful condition meds,o42Q ,DUROGESIC DTRANS 12micrograms/hr patches
+Painful condition meds,o42R ,FENTANYL 12micrograms/hr patches
+Painful condition meds,o42S ,MATRIFEN 12micrograms/hr patches
+Painful condition meds,o42T ,MATRIFEN 25micrograms/hr patches
+Painful condition meds,o42U ,MATRIFEN 50micrograms/hr patches
+Painful condition meds,o42V ,MATRIFEN 75micrograms/hr patches
+Painful condition meds,o42W ,MATRIFEN 100micrograms/hr patches
+Painful condition meds,o42X ,MEZOLAR MATRIX 12micrograms/hour patches
+Painful condition meds,o42Y ,MEZOLAR MATRIX 25micrograms/hour patches
+Painful condition meds,o42Z ,MEZOLAR MATRIX 50micrograms/hour patches
+Painful condition meds,o42a ,MEZOLAR MATRIX 75micrograms/hour patches
+Painful condition meds,o42b ,MEZOLAR MATRIX 100micrograms/hour patches
+Painful condition meds,o42c ,IONSYS 40micrograms/dose iontophoretic transdermal system
+Painful condition meds,o42d ,OSMACH 25micrograms/hour patches
+Painful condition meds,o42e ,OSMACH 50micrograms/hour patches
+Painful condition meds,o42f ,OSMACH 75micrograms/hour patches
+Painful condition meds,o42g ,OSMACH 100micrograms/hour patches
+Painful condition meds,o42h ,FENTALIS RESERVOIR 100micrograms/hr patches
+Painful condition meds,o42i ,FENTALIS RESERVOIR 25micrograms/hr patches
+Painful condition meds,o42j ,FENTALIS RESERVOIR 50micrograms/hr patches
+Painful condition meds,o42k ,FENTALIS RESERVOIR 75micrograms/hr patches
+Painful condition meds,o42l ,EFFENTORA 100micrograms buccal tablets
+Painful condition meds,o42m ,FENTANYL 100micrograms buccal tablets
+Painful condition meds,o42n ,EFFENTORA 200micrograms buccal tablets
+Painful condition meds,o42o ,FENTANYL 200micrograms buccal tablets
+Painful condition meds,o42p ,FENTANYL 40micrograms/dose iontophoretic transdermal system
+Painful condition meds,o42q ,FENTANYL 1600micrograms lozenges
+Painful condition meds,o42r ,FENTANYL 1200micrograms lozenges
+Painful condition meds,o42s ,FENTANYL 800micrograms lozenges
+Painful condition meds,o42t ,FENTANYL 600micrograms lozenges
+Painful condition meds,o42u ,FENTANYL 400micrograms lozenges
+Painful condition meds,o42v ,FENTANYL 200micrograms lozenges
+Painful condition meds,o42w ,FENTANYL + DROPERIDOL 100micrograms/5mg injection
+Painful condition meds,o42x ,FENTANYL 100microgram/2mL injection
+Painful condition meds,o42y ,FENTANYL 500microgram/10mL injection
+Painful condition meds,o42z ,FENTANYL 100micrograms injection
+Painful condition meds,o4d ,FENTANYL (2)
+Painful condition meds,o4d1 ,EFFENTORA 400micrograms buccal tablets
+Painful condition meds,o4d2 ,FENTANYL 400micrograms buccal tablets
+Painful condition meds,o4d3 ,EFFENTORA 600micrograms buccal tablets
+Painful condition meds,o4d4 ,FENTANYL 600micrograms buccal tablets
+Painful condition meds,o4d5 ,EFFENTORA 800micrograms buccal tablets
+Painful condition meds,o4d6 ,FENTANYL 800micrograms buccal tablets
+Painful condition meds,o4d7 ,ABSTRAL 100micrograms sublingual tablets
+Painful condition meds,o4d8 ,FENTANYL 100micrograms sublingual tablets
+Painful condition meds,o4d9 ,ABSTRAL 200micrograms sublingual tablets
+Painful condition meds,o4dA ,FENTANYL 400micrograms nasal spray
+Painful condition meds,o4dB ,FENCINO 12micrograms/hr patches
+Painful condition meds,o4dC ,FENCINO 25micrograms/hr patches
+Painful condition meds,o4dD ,FENCINO 50micrograms/hr patches
+Painful condition meds,o4dE ,FENCINO 75micrograms/hr patches
+Painful condition meds,o4dF ,FENCINO 100micrograms/hr patches
+Painful condition meds,o4dG ,BREAKYL 200micrograms buccal film
+Painful condition meds,o4dH ,FENTANYL 200micrograms buccal film
+Painful condition meds,o4dI ,BREAKYL 400micrograms buccal film
+Painful condition meds,o4dJ ,FENTANYL 400micrograms buccal film
+Painful condition meds,o4dK ,BREAKYL 800micrograms buccal film
+Painful condition meds,o4dL ,FENTANYL 800micrograms buccal film
+Painful condition meds,o4dM ,RECIVIT 67micrograms sublingual tablets
+Painful condition meds,o4dN ,FENTANYL 67micrograms sublingual tablets
+Painful condition meds,o4dO ,RECIVIT 133micrograms sublingual tablets
+Painful condition meds,o4dP ,FENTANYL 133micrograms sublingual tablets
+Painful condition meds,o4dQ ,RECIVIT 267micrograms sublingual tablets
+Painful condition meds,o4dR ,FENTANYL 267micrograms sublingual tablets
+Painful condition meds,o4dS ,RECIVIT 400micrograms sublingual tablets
+Painful condition meds,o4dT ,RECIVIT 533micrograms sublingual tablets
+Painful condition meds,o4dU ,FENTANYL 533micrograms sublingual tablets
+Painful condition meds,o4dV ,RECIVIT 800micrograms sublingual tablets
+Painful condition meds,o4dW ,OPIODUR 12micrograms/hour transdermal patches
+Painful condition meds,o4dX ,OPIODUR 25micrograms/hour transdermal patches
+Painful condition meds,o4dY ,OPIODUR 50micrograms/hour transdermal patches
+Painful condition meds,o4dZ ,OPIODUR 75micrograms/hour transdermal patches
+Painful condition meds,o4da ,FENTANYL 200micrograms sublingual tablets
+Painful condition meds,o4db ,ABSTRAL 300micrograms sublingual tablets
+Painful condition meds,o4dc ,FENTANYL 300micrograms sublingual tablets
+Painful condition meds,o4dd ,ABSTRAL 400micrograms sublingual tablets
+Painful condition meds,o4de ,FENTANYL 400micrograms sublingual tablets
+Painful condition meds,o4df ,ABSTRAL 600micrograms sublingual tablets
+Painful condition meds,o4dg ,FENTANYL 600micrograms sublingual tablets
+Painful condition meds,o4dh ,ABSTRAL 800micrograms sublingual tablets
+Painful condition meds,o4di ,FENTANYL 800micrograms sublingual tablets
+Painful condition meds,o4dj ,OSMANIL 25micrograms/hr patches
+Painful condition meds,o4dk ,OSMANIL 50micrograms/hr patches
+Painful condition meds,o4dl ,OSMANIL 75micrograms/hr patches
+Painful condition meds,o4dm ,OSMANIL 100micrograms/hr patches
+Painful condition meds,o4dn ,VICTANYL 25micrograms/hour patches
+Painful condition meds,o4do ,VICTANYL 50micrograms/hour patches
+Painful condition meds,o4dp ,VICTANYL 75micrograms/hour patches
+Painful condition meds,o4dq ,VICTANYL 100micrograms/hour patches
+Painful condition meds,o4dr ,OSMANIL 12micrograms/hr patches
+Painful condition meds,o4ds ,INSTANYL 50micrograms nasal spray
+Painful condition meds,o4dt ,FENTANYL 50micrograms nasal spray
+Painful condition meds,o4du ,INSTANYL 100micrograms nasal spray
+Painful condition meds,o4dv ,FENTANYL 100micrograms nasal spray
+Painful condition meds,o4dw ,INSTANYL 200micrograms nasal spray
+Painful condition meds,o4dx ,FENTANYL 200micrograms nasal spray
+Painful condition meds,o4dy ,PECFENT 100micrograms nasal spray
+Painful condition meds,o4dz ,PECFENT 400micrograms nasal spray
+Painful condition meds,o4e ,FENTANYL (3)
+Painful condition meds,o4e1 ,OPIODUR 100micrograms/hour transdermal patches
+Painful condition meds,o4e2 ,MEZOLAR MATRIX 37.5micrograms/hour patches
+Painful condition meds,o4e3 ,FENTANYL 37.5micrograms/hour transdermal patches
+Painful condition meds,o4e4 ,YEMEX 12micrograms/hour transdermal patches
+Painful condition meds,o4e5 ,YEMEX 25micrograms/hour transdermal patches
+Painful condition meds,o4e6 ,YEMEX 50micrograms/hour transdermal patches
+Painful condition meds,o4e7 ,YEMEX 75micrograms/hour transdermal patches
+Painful condition meds,o4e8 ,YEMEX 100micrograms/hour transdermal patches
+Epilepsy,F1321,Progressive myoclonic epilepsy
+Epilepsy,F25,Epilepsy
+Epilepsy,F250,Generalised nonconvulsive epilepsy
+Epilepsy,F2500,Petit mal (minor) epilepsy
+Epilepsy,F2502,Epileptic seizures - atonic
+Epilepsy,F2503,Epileptic seizures - akinetic
+Epilepsy,F2505,Lennox-Gastaut syndrome
+Epilepsy,F250y,Other specified generalised nonconvulsive epilepsy
+Epilepsy,F250z,Generalised nonconvulsive epilepsy NOS
+Epilepsy,F251,Generalised convulsive epilepsy
+Epilepsy,F2510,Grand mal (major) epilepsy
+Epilepsy,F2512,Epileptic seizures - clonic
+Epilepsy,F2513,Epileptic seizures - myoclonic
+Epilepsy,F2514,Epileptic seizures - tonic
+Epilepsy,F2515,Tonic-clonic epilepsy
+Epilepsy,F251y,Other specified generalised convulsive epilepsy
+Epilepsy,F251z,Generalised convulsive epilepsy NOS
+Epilepsy,F252,Petit mal status
+Epilepsy,F253,Grand mal status
+Epilepsy,F254,Partial epilepsy with impairment of consciousness
+Epilepsy,F2540,Temporal lobe epilepsy
+Epilepsy,F2541,Psychomotor epilepsy
+Epilepsy,F2542,Psychosensory epilepsy
+Epilepsy,F2543,Limbic system epilepsy
+Epilepsy,F2544,Epileptic automatism
+Epilepsy,F2545,Complex partial epileptic seizure
+Epilepsy,F254z,Partial epilepsy with impairment of consciousness NOS
+Epilepsy,F255,Partial epilepsy without impairment of consciousness
+Epilepsy,F2550,"Jacksonian, focal or motor epilepsy"
+Epilepsy,F2551,Sensory induced epilepsy
+Epilepsy,F2552,Somatosensory epilepsy
+Epilepsy,F2553,Visceral reflex epilepsy
+Epilepsy,F2554,Visual reflex epilepsy
+Epilepsy,F2555,Unilateral epilepsy
+Epilepsy,F2556,Simple partial epileptic seizure
+Epilepsy,F255y,Partial epilepsy without impairment of consciousness OS
+Epilepsy,F255z,Partial epilepsy without impairment of consciousness NOS
+Epilepsy,F256,Infantile spasms
+Epilepsy,F2560,Hypsarrhythmia
+Epilepsy,F2561,Salaam attacks
+Epilepsy,F256z,Infantile spasms NOS
+Epilepsy,F257,Kojevnikov's epilepsy
+Epilepsy,F25B,Alcohol-induced epilepsy
+Epilepsy,F25C,Drug-induced epilepsy
+Epilepsy,F25D,Menstrual epilepsy
+Epilepsy,F25E,Stress-induced epilepsy
+Epilepsy,F25F,Photosensitive epilepsy
+Epilepsy,F25X,"Status epilepticus, unspecified"
+Epilepsy,F25y,Other forms of epilepsy
+Epilepsy,F25y0,Cursive (running) epilepsy
+Epilepsy,F25y1,Gelastic epilepsy
+Epilepsy,F25y2,Locl-rlt(foc)(part)idiop epilep&epilptic syn seiz locl onset
+Epilepsy,F25y3,Complex partial status epilepticus
+Epilepsy,F25y5,Panayiotopoulos syndrome
+Epilepsy,F25yz,Other forms of epilepsy NOS
+Epilepsy,F25z,Epilepsy NOS
+Epilepsy,SC200,Traumatic epilepsy
+Epilepsy resolved,21260,Epilepsy resolved
+Epilepsy resolved,212J,Epilepsy resolved

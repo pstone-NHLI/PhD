@@ -1,0 +1,263 @@
+Comorbidity,Read V2 5B code,Read term
+Diabetes,1I0,Diabetes mellitus excluded
+Diabetes,66A3,Diabetic on diet only
+Diabetes,66A4,Diabetic on oral treatment
+Diabetes,66A5,Diabetic on insulin
+Diabetes,66A8,Has seen dietician - diabetes
+Diabetes,66A9,Understands diet - diabetes
+Diabetes,66AA,Injection sites - diabetic
+Diabetes,66Ab,Diabetic foot examination
+Diabetes,66Ac,Diabetic peripheral neuropathy screening
+Diabetes,66AD,Fundoscopy - diabetic check
+Diabetes,66AG,Diabetic drug side effects
+Diabetes,66AH,Diabetic treatment changed
+Diabetes,66AI,Diabetic - good control
+Diabetes,66AJ,Diabetic - poor control
+Diabetes,66AJ1,Brittle diabetes
+Diabetes,66AJz,Diabetic - poor control NOS
+Diabetes,66AK,Diabetic - cooperative patient
+Diabetes,66AL,Diabetic-uncooperative patient
+Diabetes,66Am,Insulin dose changed
+Diabetes,66An,Diabetes type 1 review
+Diabetes,66Ao,Diabetes type 2 review
+Diabetes,66AP,Diabetes: practice programme
+Diabetes,66AQ,Diabetes: shared care programme
+Diabetes,66AR,Diabetes management plan given
+Diabetes,66AS,Diabetic annual review
+Diabetes,66AT,Annual diabetic blood test
+Diabetes,66AU,Diabetes care by hospital only
+Diabetes,66AV,Diabetic on insulin and oral treatment
+Diabetes,66AW,Diabetic foot risk assessment
+Diabetes,66AX,Diabetes: shared care in pregnancy - diabetol and obstet
+Diabetes,66AY,Diabetic diet - good compliance
+Diabetes,68A7,Diabetic retinopathy screening
+Diabetes,68A9,Diabetic retinopathy screening offered
+Diabetes,68AB,Diabetic digital retinopathy screening offered
+Diabetes,7276,Pan retinal photocoagulation for diabetes
+Diabetes,7L100,Continuous subcutaneous infusion of insulin
+Diabetes,7L198,Subcutaneous injection of insulin
+Diabetes,889A,Diab mellit insulin-glucose infus acute myocardial infarct
+Diabetes,8A13,Diabetic stabilisation
+Diabetes,8B3l,Diabetes medication review
+Diabetes,8BL2,Patient on maximal tolerated therapy for diabetes
+Diabetes,8CA41,Pt advised re diabetic diet
+Diabetes,8CAQ,Advice about blood glucose control
+Diabetes,8CP2,Transition of diabetes care options discussed
+Diabetes,8H2J,Admit diabetic emergency
+Diabetes,8H3O,Non-urgent diabetic admission
+Diabetes,8H7r,Refer to diabetic foot screener
+Diabetes,8HBG,Diabetic retinopathy 12 month review
+Diabetes,8HBH,Diabetic retinopathy 6 month review
+Diabetes,8Hl1,Referral for diabetic retinopathy screening
+Diabetes,8HLE,Diabetology D.V. done
+Diabetes,8I3k,Insulin therapy declined
+Diabetes,8I3W,Diabetic foot examination declined
+Diabetes,8I3X,Diabetic retinopathy screening refused
+Diabetes,8I57,Patient held diabetic record declined
+Diabetes,9360,Patient held diabetic record issued
+Diabetes,9OLD,Diabetic patient unsuitable for digital retinal photography
+Diabetes,C10,Diabetes mellitus
+Diabetes,C100,Diabetes mellitus with no mention of complication
+Diabetes,C1000,"Diabetes mellitus, juvenile type, no mention of complication"
+Diabetes,C1001,"Diabetes mellitus, adult onset, no mention of complication"
+Diabetes,C100z,Diabetes mellitus NOS with no mention of complication
+Diabetes,C101,Diabetes mellitus with ketoacidosis
+Diabetes,C1010,"Diabetes mellitus, juvenile type, with ketoacidosis"
+Diabetes,C1011,"Diabetes mellitus, adult onset, with ketoacidosis"
+Diabetes,C101y,Other specified diabetes mellitus with ketoacidosis
+Diabetes,C101z,Diabetes mellitus NOS with ketoacidosis
+Diabetes,C102,Diabetes mellitus with hyperosmolar coma
+Diabetes,C1020,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+Diabetes,C1021,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+Diabetes,C102z,Diabetes mellitus NOS with hyperosmolar coma
+Diabetes,C103,Diabetes mellitus with ketoacidotic coma
+Diabetes,C1030,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+Diabetes,C1031,"Diabetes mellitus, adult onset, with ketoacidotic coma"
+Diabetes,C103y,Other specified diabetes mellitus with coma
+Diabetes,C103z,Diabetes mellitus NOS with ketoacidotic coma
+Diabetes,C104,Diabetes mellitus with renal manifestation
+Diabetes,C1040,"Diabetes mellitus, juvenile type, with renal manifestation"
+Diabetes,C1041,"Diabetes mellitus, adult onset, with renal manifestation"
+Diabetes,C104y,Other specified diabetes mellitus with renal complications
+Diabetes,C104z,Diabetes mellitis with nephropathy NOS
+Diabetes,C105,Diabetes mellitus with ophthalmic manifestation
+Diabetes,C1050,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+Diabetes,C1051,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+Diabetes,C105y,Other specified diabetes mellitus with ophthalmic complicatn
+Diabetes,C105z,Diabetes mellitus NOS with ophthalmic manifestation
+Diabetes,C106,Diabetes mellitus with neurological manifestation
+Diabetes,C1060,"Diabetes mellitus, juvenile, + neurological manifestation"
+Diabetes,C1061,"Diabetes mellitus, adult onset, + neurological manifestation"
+Diabetes,C106y,Other specified diabetes mellitus with neurological comps
+Diabetes,C106z,Diabetes mellitus NOS with neurological manifestation
+Diabetes,C107,Diabetes mellitus with peripheral circulatory disorder
+Diabetes,C1070,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+Diabetes,C1071,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+Diabetes,C1072,"Diabetes mellitus, adult with gangrene"
+Diabetes,C1073,IDDM with peripheral circulatory disorder
+Diabetes,C1074,NIDDM with peripheral circulatory disorder
+Diabetes,C107z,Diabetes mellitus NOS with peripheral circulatory disorder
+Diabetes,C108,Insulin dependent diabetes mellitus
+Diabetes,C1080,Insulin-dependent diabetes mellitus with renal complications
+Diabetes,C1081,Insulin-dependent diabetes mellitus with ophthalmic comps
+Diabetes,C1082,Insulin-dependent diabetes mellitus with neurological comps
+Diabetes,C1083,Insulin dependent diabetes mellitus with multiple complicatn
+Diabetes,C1084,Unstable insulin dependant diabetes mellitus
+Diabetes,C1085,Insulin dependent diabetes mellitus with ulcer
+Diabetes,C1086,Insulin dependent diabetes mellitus with gangrene
+Diabetes,C1087,Insulin dependent diabetes mellitus with retinopathy
+Diabetes,C1088,Insulin dependant diabetes mellitus - poor control
+Diabetes,C1089,Insulin dependant diabetes maturity onset
+Diabetes,C108A,Insulin-dependent diabetes without complication
+Diabetes,C108B,Insulin dependent diabetes mellitus with mononeuropathy
+Diabetes,C108C,Insulin dependent diabetes mellitus with polyneuropathy
+Diabetes,C108D,Insulin dependent diabetes mellitus with nephropathy
+Diabetes,C108E,Insulin dependent diabetes mellitus with hypoglycaemic coma
+Diabetes,C108F,Insulin dependent diabetes mellitus with diabetic cataract
+Diabetes,C108G,Insulin dependent diab mell with peripheral angiopathy
+Diabetes,C108H,Insulin dependent diabetes mellitus with arthropathy
+Diabetes,C108J,Insulin dependent diab mell with neuropathic arthropathy
+Diabetes,C108y,Other specified diabetes mellitus with multiple comps
+Diabetes,C108z,Unspecified diabetes mellitus with multiple complications
+Diabetes,C109,Non-insulin dependent diabetes mellitus
+Diabetes,C1090,Non-insulin-dependent diabetes mellitus with renal comps
+Diabetes,C1091,Non-insulin-dependent diabetes mellitus with ophthalm comps
+Diabetes,C1092,Non-insulin-dependent diabetes mellitus with neuro comps
+Diabetes,C1093,Non-insulin-dependent diabetes mellitus with multiple comps
+Diabetes,C1094,Non-insulin dependent diabetes mellitus with ulcer
+Diabetes,C1095,Non-insulin dependent diabetes mellitus with gangrene
+Diabetes,C1096,Non-insulin-dependent diabetes mellitus with retinopathy
+Diabetes,C1097,Non-insulin dependant diabetes mellitus - poor control
+Diabetes,C1099,Non-insulin-dependent diabetes mellitus without complication
+Diabetes,C109A,Non-insulin dependent diabetes mellitus with mononeuropathy
+Diabetes,C109B,Non-insulin dependent diabetes mellitus with polyneuropathy
+Diabetes,C109C,Non-insulin dependent diabetes mellitus with nephropathy
+Diabetes,C109D,Non-insulin dependent diabetes mellitus with hypoglyca coma
+Diabetes,C109E,Non-insulin depend diabetes mellitus with diabetic cataract
+Diabetes,C109F,Non-insulin-dependent d m with peripheral angiopath
+Diabetes,C109G,Non-insulin dependent diabetes mellitus with arthropathy
+Diabetes,C109H,Non-insulin dependent d m with neuropathic arthropathy
+Diabetes,C109J,Insulin treated Type 2 diabetes mellitus
+Diabetes,C109K,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Diabetes,C10A,Malnutrition-related diabetes mellitus
+Diabetes,C10A0,Malnutrition-related diabetes mellitus with coma
+Diabetes,C10A1,Malnutrition-related diabetes mellitus with ketoacidosis
+Diabetes,C10B,Diabetes mellitus induced by steroids
+Diabetes,C10B0,Steroid induced diabetes mellitus without complication
+Diabetes,C10C,Maturity onset diabetes in youth type 1
+Diabetes,C10D,Diabetes mellitus autosomal dominant type 2
+Diabetes,C10E,Type 1 diabetes mellitus
+Diabetes,C10E0,Type 1 diabetes mellitus with renal complications
+Diabetes,C10E1,Type 1 diabetes mellitus with ophthalmic complications
+Diabetes,C10E2,Type 1 diabetes mellitus with neurological complications
+Diabetes,C10E3,Type 1 diabetes mellitus with multiple complications
+Diabetes,C10E4,Unstable type 1 diabetes mellitus
+Diabetes,C10E5,Type 1 diabetes mellitus with ulcer
+Diabetes,C10E6,Type 1 diabetes mellitus with gangrene
+Diabetes,C10E7,Type 1 diabetes mellitus with retinopathy
+Diabetes,C10E8,Type 1 diabetes mellitus - poor control
+Diabetes,C10E9,Type 1 diabetes mellitus maturity onset
+Diabetes,C10EA,Type 1 diabetes mellitus without complication
+Diabetes,C10EB,Type 1 diabetes mellitus with mononeuropathy
+Diabetes,C10EC,Type 1 diabetes mellitus with polyneuropathy
+Diabetes,C10ED,Type 1 diabetes mellitus with nephropathy
+Diabetes,C10EE,Type 1 diabetes mellitus with hypoglycaemic coma
+Diabetes,C10EF,Type 1 diabetes mellitus with diabetic cataract
+Diabetes,C10EG,Type 1 diabetes mellitus with peripheral angiopathy
+Diabetes,C10EH,Type 1 diabetes mellitus with arthropathy
+Diabetes,C10EJ,Type 1 diabetes mellitus with neuropathic arthropathy
+Diabetes,C10EK,Type 1 diabetes mellitus with persistent proteinuria
+Diabetes,C10EL,Type 1 diabetes mellitus with persistent microalbuminuria
+Diabetes,C10EM,Type 1 diabetes mellitus with ketoacidosis
+Diabetes,C10EN,Type 1 diabetes mellitus with ketoacidotic coma
+Diabetes,C10EP,Type 1 diabetes mellitus with exudative maculopathy
+Diabetes,C10EQ,Type 1 diabetes mellitus with gastroparesis
+Diabetes,C10ER,Latent autoimmune diabetes mellitus in adult
+Diabetes,C10F,Type 2 diabetes mellitus
+Diabetes,C10F0,Type 2 diabetes mellitus with renal complications
+Diabetes,C10F1,Type 2 diabetes mellitus with ophthalmic complications
+Diabetes,C10F2,Type 2 diabetes mellitus with neurological complications
+Diabetes,C10F3,Type 2 diabetes mellitus with multiple complications
+Diabetes,C10F4,Type 2 diabetes mellitus with ulcer
+Diabetes,C10F5,Type 2 diabetes mellitus with gangrene
+Diabetes,C10F6,Type 2 diabetes mellitus with retinopathy
+Diabetes,C10F7,Type 2 diabetes mellitus - poor control
+Diabetes,C10F9,Type 2 diabetes mellitus without complication
+Diabetes,C10FA,Type 2 diabetes mellitus with mononeuropathy
+Diabetes,C10FB,Type 2 diabetes mellitus with polyneuropathy
+Diabetes,C10FC,Type 2 diabetes mellitus with nephropathy
+Diabetes,C10FD,Type 2 diabetes mellitus with hypoglycaemic coma
+Diabetes,C10FE,Type 2 diabetes mellitus with diabetic cataract
+Diabetes,C10FF,Type 2 diabetes mellitus with peripheral angiopathy
+Diabetes,C10FG,Type 2 diabetes mellitus with arthropathy
+Diabetes,C10FH,Type 2 diabetes mellitus with neuropathic arthropathy
+Diabetes,C10FJ,Insulin treated Type 2 diabetes mellitus
+Diabetes,C10FK,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+Diabetes,C10FL,Type 2 diabetes mellitus with persistent proteinuria
+Diabetes,C10FM,Type 2 diabetes mellitus with persistent microalbuminuria
+Diabetes,C10FN,Type 2 diabetes mellitus with ketoacidosis
+Diabetes,C10FP,Type 2 diabetes mellitus with ketoacidotic coma
+Diabetes,C10FQ,Type 2 diabetes mellitus with exudative maculopathy
+Diabetes,C10FR,Type 2 diabetes mellitus with gastroparesis
+Diabetes,C10M,Lipoatrophic diabetes mellitus
+Diabetes,C10y,Diabetes mellitus with other specified manifestation
+Diabetes,C10y1,"Diabetes mellitus, adult, + other specified manifestation"
+Diabetes,C10yy,Other specified diabetes mellitus with other spec comps
+Diabetes,C10yz,Diabetes mellitus NOS with other specified manifestation
+Diabetes,C10z,Diabetes mellitus with unspecified complication
+Diabetes,C10z0,"Diabetes mellitus, juvenile type, + unspecified complication"
+Diabetes,C10z1,"Diabetes mellitus, adult onset, + unspecified complication"
+Diabetes,C10zy,Other specified diabetes mellitus with unspecified comps
+Diabetes,C10zz,Diabetes mellitus NOS with unspecified complication
+Diabetes,C314,Renal diabetes
+Diabetes,C3500,Bronzed diabetes
+Diabetes,Cyu2,[X]Diabetes mellitus
+Diabetes,Cyu20,[X]Other specified diabetes mellitus
+Diabetes,F1711,Autonomic neuropathy due to diabetes
+Diabetes,F3450,Diabetic mononeuritis multiplex
+Diabetes,F35z0,Diabetic mononeuritis NOS
+Diabetes,F372,Polyneuropathy in diabetes
+Diabetes,F3720,Acute painful diabetic neuropathy
+Diabetes,F3721,Chronic painful diabetic neuropathy
+Diabetes,F3722,Asymptomatic diabetic neuropathy
+Diabetes,F3813,Myasthenic syndrome due to diabetic amyotrophy
+Diabetes,F3y0,Diabetic mononeuropathy
+Diabetes,F420,Diabetic retinopathy
+Diabetes,F4200,Background diabetic retinopathy
+Diabetes,F4201,Proliferative diabetic retinopathy
+Diabetes,F4202,Preproliferative diabetic retinopathy
+Diabetes,F4203,Advanced diabetic maculopathy
+Diabetes,F4204,Diabetic maculopathy
+Diabetes,F4205,Advanced diabetic retinal disease
+Diabetes,F4206,Non proliferative diabetic retinopathy
+Diabetes,F4207,High risk proliferative diabetic retinopathy
+Diabetes,F4208,High risk non proliferative diabetic retinopathy
+Diabetes,F420z,Diabetic retinopathy NOS
+Diabetes,F4407,Diabetic iritis
+Diabetes,F4640,Diabetic cataract
+Diabetes,G73y0,Diabetic peripheral angiopathy
+Diabetes,K01x1,Nephrotic syndrome in diabetes mellitus
+Diabetes,L1805,"Pre-existing diabetes mellitus, insulin-dependent"
+Diabetes,L1806,"Pre-existing diabetes mellitus, non-insulin-dependent"
+Diabetes,L180X,"Pre-existing diabetes mellitus, unspecified"
+Diabetes,M0372,Cellulitis in diabetic foot
+Diabetes,M21yC,Insulin lipohypertrophy
+Diabetes,M2710,Ischaemic ulcer diabetic foot
+Diabetes,M2711,Neuropathic diabetic ulcer - foot
+Diabetes,M2712,Mixed diabetic ulcer - foot
+Diabetes,N0300,Diabetic cheiroarthropathy
+Diabetes,N0301,Diabetic Charcot arthropathy
+Diabetes,Q441,Neonatal diabetes mellitus
+Diabetes,R0542,[D]Gangrene of toe in diabetic
+Diabetes,R0543,[D]Widespread diabetic foot gangrene
+Diabetes,TJ23,Adverse reaction to insulins and antidiabetic agents
+Diabetes,TJ23z,Adverse reaction to insulins and antidiabetic agents NOS
+Diabetes,U6023,[X] Adverse reaction to insulins and antidiabetic agents
+Diabetes,ZC2C8,Dietary advice for diabetes mellitus
+Diabetes,ZC2C9,Dietary advice for type I diabetes
+Diabetes,ZC2CA,Dietary advice for type II diabetes
+Diabetes,ZRbH,Perceived control of insulin-dependent diabetes
+Diabetes,ZRq2,SDMT - Symbol digit modalities test
+Diabetes,ZV653,[V]Dietary counselling in diabetes mellitus
+Diabetes resolved,21263,Diabetes resolved
+Diabetes resolved,212H,Diabetes resolved

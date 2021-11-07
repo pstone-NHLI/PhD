@@ -1,0 +1,46 @@
+Comorbidity,Read V2 5B code,Read term
+Heart failure,1O1,heart failure confirmed
+Heart failure,585f,Echocardiogram shows left ventricular systolic dysfunction
+Heart failure,585g,Echocardiogram shows left ventricular diastolic dysfunction
+Heart failure,661M5,heart failure self-management plan agreed
+Heart failure,662f,New York Heart Association classification - class I
+Heart failure,662g,New York Heart Association classification - class II
+Heart failure,662h,New York Heart Association classification - class III
+Heart failure,662i,New York Heart Association classification - class IV
+Heart failure,662p,heart failure 6 month review
+Heart failure,662T,congestive heart failure monitoring
+Heart failure,662W,heart failure annual review
+Heart failure,679W1,education about deteriorating heart failure
+Heart failure,8B29,Cardiac failure therapy
+Heart failure,8CeC,preferred place of care for next exacerbation heart failure
+Heart failure,8CL3,heart failure care plan discussed with patient
+Heart failure,8CMK,has heart failure management plan
+Heart failure,8CMW8,heart failure clinical pathway
+Heart failure,8H2S,admit heart failure emergency
+Heart failure,8HBE,heart failure follow-up
+Heart failure,8HHz,referral to heart failure exercise programme
+Heart failure,9N0k,seen in heart failure clinic
+Heart failure,9N2p,seen by community heart failure nurse
+Heart failure,9N6T,referred by heart failure nurse specialist
+Heart failure,G2101,malignant hypertensive heart disease with ccf
+Heart failure,G2111,benign hypertensive heart disease with ccf
+Heart failure,G21z1,hypertensive heart disease nos with ccf
+Heart failure,G232,hypertensive heart&renal dis wth (congestive) heart failure
+Heart failure,G234,Hyperten heart&renal dis+both(congestv)heart and renal fail
+Heart failure,G58,heart failure
+Heart failure,G580,congestive heart failure
+Heart failure,G5800,acute congestive heart failure
+Heart failure,G5801,chronic congestive heart failure
+Heart failure,G5802,decompensated cardiac failure
+Heart failure,G5803,compensated cardiac failure
+Heart failure,G5804,congestive heart failure due to valvular disease
+Heart failure,G581,left ventricular failure
+Heart failure,G5810,acute left ventricular failure
+Heart failure,G582,acute heart failure
+Heart failure,G583,heart failure with normal ejection fraction
+Heart failure,G584,right ventricular failure
+Heart failure,G58z,heart failure nos
+Heart failure,G5y4z,post cardiac operation heart failure nos
+Heart failure,G5yy9,Left ventricular systolic dysfunction
+Heart failure,G5yyA,Left ventricular diastolic dysfunction
+Heart failure,SP111,heart failure as a complication of care
