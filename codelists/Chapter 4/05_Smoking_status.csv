@@ -1,0 +1,79 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+5,Smoking status,137D,Admitted tobacco cons untrue ?,In the last four years,Code recorded in the last year
+5,Smoking status,137Y,Cigar consumption,In the last four years,Code recorded in the last year
+5,Smoking status,137J,Cigar smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137X,Cigarette consumption,In the last four years,Code recorded in the last year
+5,Smoking status,137P,Cigarette smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137L,Current non-smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137R,Current smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137T,Date ceased smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137O,Ex cigar smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137N,Ex pipe smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137l,Ex roll-up cigarette smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137S,Ex smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137j,Ex-cigarette smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137A,Ex-heavy smoker (20-39/day),In the last four years,Code recorded in the last year
+5,Smoking status,1378,Ex-light smoker (1-9/day),In the last four years,Code recorded in the last year
+5,Smoking status,1379,Ex-moderate smoker (10-19/day),In the last four years,Code recorded in the last year
+5,Smoking status,137F,Ex-smoker - amount unknown,In the last four years,Code recorded in the last year
+5,Smoking status,1377,Ex-trivial smoker (<1/day),In the last four years,Code recorded in the last year
+5,Smoking status,137B,Ex-very heavy smoker (40+/day),In the last four years,Code recorded in the last year
+5,Smoking status,137m,Failed attempt to stop smoking,In the last four years,Code recorded in the last year
+5,Smoking status,1375,Heavy smoker - 20-39 cigs/day,In the last four years,Code recorded in the last year
+5,Smoking status,137C,Keeps trying to stop smoking,In the last four years,Code recorded in the last year
+5,Smoking status,1373,Light smoker - 1-9 cigs/day,In the last four years,Code recorded in the last year
+5,Smoking status,137h,Minutes from waking to first tobacco consumption,In the last four years,Code recorded in the last year
+5,Smoking status,1374,Moderate smoker - 10-19 cigs/d,In the last four years,Code recorded in the last year
+5,Smoking status,1371,Never smoked tobacco,In the last four years,Code recorded in the last year
+5,Smoking status,137d,Not interested in stopping smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137H,Pipe smoker,In the last four years,Code recorded in the last year
+5,Smoking status,137a,Pipe tobacco consumption,In the last four years,Code recorded in the last year
+5,Smoking status,137b,Ready to stop smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137f,Reason for restarting smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137K0,Recently stopped smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137k,Refusal to give smoking status,In the last four years,Code recorded in the last year
+5,Smoking status,137M,Rolls own cigarettes,In the last four years,Code recorded in the last year
+5,Smoking status,137V,Smoking reduced,In the last four years,Code recorded in the last year
+5,Smoking status,137e,Smoking restarted,In the last four years,Code recorded in the last year
+5,Smoking status,137Q,Smoking started,In the last four years,Code recorded in the last year
+5,Smoking status,137K,Stopped smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137c,Thinking about stopping smoking,In the last four years,Code recorded in the last year
+5,Smoking status,137,Tobacco consumption,In the last four years,Code recorded in the last year
+5,Smoking status,137Z,Tobacco consumption NOS,In the last four years,Code recorded in the last year
+5,Smoking status,1372,Trivial smoker - < 1 cig/day,In the last four years,Code recorded in the last year
+5,Smoking status,137G,Trying to give up smoking,In the last four years,Code recorded in the last year
+5,Smoking status,1376,Very heavy smoker - 40+cigs/d,In the last four years,Code recorded in the last year
+5,Smoking status,137o,Waterpipe tobacco consumption,In the last four years,Code recorded in the last year
+5,Smoking status,ZV116,[V]Personal history of tobacco abuse,In the last four years,Code recorded in the last year
+5,Smoking status,ZV6D8,[V]Tobacco abuse counselling,In the last four years,Code recorded in the last year
+5,Smoking status,ZV4K0,[V]Tobacco use,In the last four years,Code recorded in the last year
+5,Smoking status,Eu173,[X]Mental and behav dis due to use tobacco: withdrawal state,In the last four years,Code recorded in the last year
+5,Smoking status,1782,Asthma trigger - tobacco smoke,In the last four years,Code recorded in the last year
+5,Smoking status,137g,Cigarette pack-years,In the last four years,Code recorded in the last year
+5,Smoking status,9ko,Current smoker annual review - enhanced services admin,In the last four years,Code recorded in the last year
+5,Smoking status,9km,ex-smoker annual review - enhanced services administration,In the last four years,Code recorded in the last year
+5,Smoking status,6791,health ed. - smoking,In the last four years,Code recorded in the last year
+5,Smoking status,67H1,lifestyle advice regarding smoking,In the last four years,Code recorded in the last year
+5,Smoking status,63C5,Maternal tobacco abuse,In the last four years,Code recorded in the last year
+5,Smoking status,388B,Pack years,In the last four years,Code recorded in the last year
+5,Smoking status,67A3,pregnancy smoking advice,In the last four years,Code recorded in the last year
+5,Smoking status,9NS02,Referral for smoking cessation service offered,In the last four years,Code recorded in the last year
+5,Smoking status,8HkQ,referral to nhs stop smoking service,In the last four years,Code recorded in the last year
+5,Smoking status,8HTK,referral to stop-smoking clinic,In the last four years,Code recorded in the last year
+5,Smoking status,9OO2,refuses stop smoking monitor,In the last four years,Code recorded in the last year
+5,Smoking status,13cA,smokes drugs,In the last four years,Code recorded in the last year
+5,Smoking status,8IAj,Smoking cessation advice declined,In the last four years,Code recorded in the last year
+5,Smoking status,8CAg,Smoking cessation advice provided by community pharmacist,In the last four years,Code recorded in the last year
+5,Smoking status,745H,Smoking cessation therapy,In the last four years,Code recorded in the last year
+5,Smoking status,745Hz,Smoking cessation therapy NOS,In the last four years,Code recorded in the last year
+5,Smoking status,13p4,Smoking free weeks,In the last four years,Code recorded in the last year
+5,Smoking status,9OO7,stop smoking monitor verb.inv.,In the last four years,Code recorded in the last year
+5,Smoking status,E251,Tobacco dependence,In the last four years,Code recorded in the last year
+5,Smoking status,E2513,Tobacco dependence in remission,In the last four years,Code recorded in the last year
+5,Smoking status,E251z,Tobacco dependence NOS,In the last four years,Code recorded in the last year
+5,Smoking status,E2511,"Tobacco dependence, continuous",In the last four years,Code recorded in the last year
+5,Smoking status,E2510,"Tobacco dependence, unspecified",In the last four years,Code recorded in the last year
+5,Smoking status,SMC,Toxic effect of tobacco and nicotine,In the last four years,Code recorded in the last year
+5,Smoking status,9ko,current smoker annual review,In the last four years,Code recorded in the last year
+5,Smoking status,9km,ex-smoker annual review,In the last four years,Code recorded in the last year
+5,Smoking status,1372,occasional smoker,In the last four years,Code recorded in the last year

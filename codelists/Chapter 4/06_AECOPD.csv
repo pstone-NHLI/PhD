@@ -1,0 +1,437 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+6,Exacerbations,H3122,Acute exacerbation of chronic obstructive airways disease,In the last four years,Code recorded in the last year
+6,Exacerbations,H3y0,Chronic obstruct pulmonary dis with acute lower resp infectn,In the last four years,Code recorded in the last year
+6,Exacerbations,H3y1,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",In the last four years,Code recorded in the last year
+6,Exacerbations,66Yf,Number of COPD exacerbations in past year,In the last four years,Code recorded in the last year
+6,Antibiotics,e9,MACROLIDES,In the last four years,Code recorded in the last year
+6,Antibiotics,e91,ERYTHROMYCIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e911,ERYTHROMYCIN 250mg e/c tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e912,ERYTHROMYCIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e913,ERYTHROMYCIN STEARATE 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e914,ERYTHROMYCIN STEARATE 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e915,ARPIMYCIN 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e916,ARPIMYCIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e917,ARPIMYCIN 500mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e918,ERYCEN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e919,ERYCEN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91A,ERYTHROPED FORTE granules 500mg/sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e91B,ERYTHROPED P.I. granules 125mg/sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e91C,ERYTHROPED P.I. 125mg/5mL sugar free suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e91D,ERYTHROPED 250mg/5mL sugar free suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e91E,ERYTHROMYCIN 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91F,ERYTHROMYCIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91G,ROMMIX-125 suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91H,ROMMIX-250 tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91I,KERYMAX 250mg e/c granules in capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91J,ROMMIX-500 tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91K,ERYTHROCIN 1g intravenous infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e91L,ERYTHROMYCIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91M,ERYTHROMYCIN 125mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91N,ERYTHROMYCIN 250mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91P,ERYTHROMYCIN 500mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91Q,ERYTHROMYCIN 1g/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91R,ERYTHROMYCIN 500mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91S,TILORYTH 250mg e/c granules in capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91T,ERYMIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91U,ARPIMYCIN 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91V,ARPIMYCIN 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91W,ARPIMYCIN 500mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91X,ERYTHROMYCIN 250mg e/c granules in capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91Y,ERYTHROPED FORTE SF 500mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91Z,PRIMACINE 125mg/5mL suspension 100mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e91a,ERYMAX 250mg e/c granules in capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91b,ERYTHROCIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91c,ERYTHROCIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91d,ERYTHROMYCIN LACTOBION 1g intravenous injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e91e,ERYTHROLAR 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91f,ERYTHROLAR 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91g,ERYTHROLAR 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91h,ERYTHROMID 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91i,ERYTHROMID DS 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91j,ERYTHROPED P.I. 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91k,ERYTHROPED 250mg/5mL suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e91l,ERYTHROPED 250mg/sachet sugar free granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91m,ERYTHROPED FORTE 500mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91n,ERYTHROPED A 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91o,ILOSONE 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91p,ILOSONE 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91q,ILOSONE 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91r,ILOSONE FORTE 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91s,ILOTYCIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91t,RETCIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e91u,ERYTHROMYCIN 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91v,ERYTHROMYCIN 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91w,ERYTHROMYCIN 500mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e91x,ERYTHROPED A 1g/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91y,ERYMAX SPRINKLE 125mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e91z,ERYTHROPED 250mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e92,CLARITHROMYCIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e921,CLARITHROMYCIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e922,KLARICID 250mg tablets 14CP,In the last four years,Code recorded in the last year
+6,Antibiotics,e923,CLARITHROMYCIN 125mg/5mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e924,KLARICID 125mg/5mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e925,CLARITHROMYCIN 500mg injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e926,KLARICID IV 500mg injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e927,CLARITHROMYCIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e928,KLARICID 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e929,CLARITHROMYCIN 500mg m/r tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e92A,KLARICID XL 500mg m/r tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e92B,CLARITHROMYCIN 250mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e92C,KLARICID adult 250mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e92D,CLARITHROMYCIN 250mg/5mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e92E,KLARICID 250mg/5mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e92F,CLARITHROMYCIN 125mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92G,CLAROSIP 125mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92H,CLARITHROMYCIN 187.5mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92I,CLAROSIP 187.5mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92J,CLARITHROMYCIN 250mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92K,CLAROSIP 250mg granules straw,In the last four years,Code recorded in the last year
+6,Antibiotics,e92L,XETININ XL 500mg m/r tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e92M,FEBZIN XL 500mg m/r tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e92N,MYCIFOR XL 500mg m/r tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e93,AZITHROMYCIN DIHYDRATE,In the last four years,Code recorded in the last year
+6,Antibiotics,e931,AZITHROMYCIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e932,AZITHROMYCIN 40mg/mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e933,ZITHROMAX 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e934,ZITHROMAX 40mg/mL suspension 15mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e935,ZITHROMAX 40mg/mL suspension 22.5mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e936,ZITHROMAX 40mg/mL suspension 30mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e937,AZITHROMYCIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e938,ZITHROMAX 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e939,CLAMELLE AZITHROMYCIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e93A,AZYTER 15mg/g single-dose eye drops 0.25g,In the last four years,Code recorded in the last year
+6,Antibiotics,e93B,AZITHROMYCIN DIHYDRATE 15mg/g single-dose eye drops,In the last four years,Code recorded in the last year
+6,Antibiotics,e93C,ZEDBAC 500mg powder for solution for infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e93D,AZITHROMYCIN 500mg powder for solution for injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e94,SPIRAMYCIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e941,SPIRAMYCIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e942,ROVAMYCINE 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e943,SPIRAMYCIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e944,ROVAMYCINE 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e95,ERYTHROMYCIN [2],In the last four years,Code recorded in the last year
+6,Antibiotics,e951,PRIMACINE 125mg/5mL suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e952,PRIMACINE 250mg/5mL suspension 100mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e953,PRIMACINE 250mg/5mL suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e954,PRIMACINE 500mg/5mL suspension 100mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e955,PRIMACINE 500mg/5mL suspension 140mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e96,TELITHROMYCIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e961,TELITHROMYCIN 400mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e96a,KETEK 400mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e75,DOXYCYCLINE,In the last four years,Code recorded in the last year
+6,Antibiotics,e751,DOXATET 100mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e752,DOXYLAR 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e753,NORDOX 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e754,VIBRAMYCIN 50mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e755,VIBRAMYCIN 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e756,VIBRAMYCIN 50mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e757,VIBRAMYCIN-D 100mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e758,DOXYCYCLINE 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e759,DEMIX-100 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75A,RAMYSIS 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75B,DEMIX-50 50mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75C,CYCLODOX 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75D,VIBRAMYCIN ACNE PACK 50mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75E,DOXYLAR 50mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75F,PERIOSTAT 20mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75G,PERIOSTAT 20mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e75H,EFRACEA 40mg m/r capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75s,DOXYCYCLINE 40mg m/r capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75t,DOXYCYCLINE 20mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e75u,DOXYCYCLINE 20mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75v,DOXYCYCLINE 100mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e75w,DOXYCYCLINE 100mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75x,DOXYCYCLINE 50mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e75y,DOXYCYCLINE 50mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e75z,DOXYCYCLINE 100mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3,BROAD SPECTRUM PENICILLINS,In the last four years,Code recorded in the last year
+6,Antibiotics,e31,AMOXICILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e311,AMOXICILLIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e312,AMOXICILLIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e313,AMOXIDIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e314,AMOXIDIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e315,AMOXIL 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e316,AMOXIL 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e317,AMOXIL 500mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e318,AMOXIL 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e319,AMOXIL SF 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31A,AMIX 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31B,AMIX 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31C,AMRIT 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31D,AMRIT 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31E,AMRIT 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31F,AMRIT 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31G,AMOPEN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31H,AMOPEN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31I,AMOPEN 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31J,AMOPEN 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31K,FLEMOXIN SOLUTAB 375mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31L,FLEMOXIN SOLUTAB 750mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31M,AMOXIL FIZTAB 125mg chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31N,AMOXIL FIZTAB 250mg chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31O,AMOXIL FIZTAB 500mg chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31P,AUGMENTIN 250/62 in 5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31Q,CO-AMOXICLAV 125/31mg in 5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31R,AMOXYMED 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31S,AMOXYMED 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31T,AUGMENTIN 625mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31U,CO-AMOXICLAV 625mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31V,ALMODAN 125mg/5mL sugar free syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31W,ALMODAN 250mg/5mL sugar free syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31X,CO-AMOXICLAV 400/57mg in 5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31Y,AUGMENTIN-DUO 400/57 in 5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31a,AMOXIL SF 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31b,AMOXIL 125mg/1.25mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31c,AMOXIL SF 750mg sachets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31d,AMOXIL SF 3g sachets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31e,AMOXIL 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31f,AMOXIL 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31g,AMOXIL 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31h,AUGMENTIN 375mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31i,AUGMENTIN 375mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31j,AUGMENTIN JUNIOR 125/62 in 5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31k,AUGMENTIN 125/31 in 5mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31l,AUGMENTIN 600mg intravenous injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31m,AUGMENTIN 1.2g intravenous injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31n,ALMODAN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31o,ALMODAN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e31p,ALMODAN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31q,ALMODAN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e31r,ALMODAN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31s,ALMODAN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31t,CO-AMOXICLAV 375mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31u,CO-AMOXICLAV 375mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e31v,CO-AMOXICLAV 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31w,CO-AMOXICLAV 125mg/mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e31x,CO-AMOXICLAV 600mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31y,CO-AMOXICLAV 1.2g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e31z,CO-AMOXICLAV 250/62 in 5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32,AMPICILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e321,AMPICILLIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e322,AMPICILLIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e323,AMPICILLIN 125mg/5mL mixture,In the last four years,Code recorded in the last year
+6,Antibiotics,e324,AMPICILLIN 250mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e325,AMFIPEN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e326,AMFIPEN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e327,AMFIPEN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e328,AMFIPEN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e329,AMFIPEN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32A,RIMACILLIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32B,RIMACILLIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32C,RIMACILLIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32D,RIMACILLIN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32E,AMPICILLIN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32F,AMPICILLIN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32G,AMPICILLIN 125mg/1.25mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32H,AMPICILLIN 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32J,AMPICILLIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32K,AMPICILLIN 125mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32a,AMFIPEN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32b,AMPILAR 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32c,AMPILAR 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32d,AMPILAR 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32e,AMPILAR 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32f,BRITCIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32g,BRITCIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32h,PENBRITIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32i,PENBRITIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32j,PENBRITIN 125mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e32k,PENBRITIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32l,PENBRITIN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32m,PENBRITIN 100mg/mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32n,PENBRITIN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32o,PENBRITIN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32p,VIDOPEN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32q,VIDOPEN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32r,VIDOPEN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32s,VIDOPEN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e32t,VIDOPEN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32u,VIDOPEN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e32v,AMPITRIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32w,AMPITRIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e32x,AMPITRIN 125mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32y,AMPITRIN 250mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e32z,AMPICILLIN 125mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e33,AMPICILLIN + PENICILLINASE-RESISTANT PENICILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e331,AMPICLOX injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e332,AMPICLOX neonatal suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e333,AMPICLOX neonatal injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e334,FLU-AMP 250/250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e335,MAGNAPEN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e336,MAGNAPEN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e337,MAGNAPEN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e338,MAGNAPEN 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e339,CO-FLUAMPICIL 250mg/250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e33a,CO-FLUAMPICIL 125/125mg syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e33b,CO-FLUAMPICIL 250/250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33c,CO-FLUAMPICIL 500/500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33d,DICAPEN 750mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33e,DICAPEN 1.5g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33f,DICAPEN 3g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33g,UNASYN 750mg/10mL injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33h,UNASYN 375mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e33i,SULTAMICILLIN 375mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e33j,SULBACTAM AMPICILLIN 750mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33k,AMPICLOX 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e33l,AMPICLOX 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e33m,AMPICILLIN+CLOXACILLIN 250mg/250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e33n,AMPICILLIN+CLOXACILLIN 60mg/30mg/0.6mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e33p,AMPICILLIN+CLOXACILLIN 125mg/125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e33q,AMPICILLIN+CLOXACILLIN 250mg/250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e33r,AMPICILLIN+CLOXACILLIN 250mg/250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e33s,AMPICILLIN+CLOXACILLIN 50mg/25mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e34,BACAMPICILLIN HYDROCHLORIDE,In the last four years,Code recorded in the last year
+6,Antibiotics,e341,AMBAXIN 400mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e34z,BACAMPICILLIN HCL 400mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e35,CICLACILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e351,CALTHOR 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e352,CALTHOR 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e353,CALTHOR 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e354,CALTHOR 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e35w,CICLACILLIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e35x,CICLACILLIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e35y,CICLACILLIN 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e35z,CICLACILLIN 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e36,MEZLOCILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e361,BAYPEN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e362,BAYPEN 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e363,BAYPEN 2g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e364,BAYPEN 5g infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e365,BAYPEN 5g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e36w,MEZLOCILLIN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e36x,MEZLOCILLIN 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e36y,MEZLOCILLIN 2g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e36z,MEZLOCILLIN 5g infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e37,PIPERACILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e371,PIPRIL 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e372,PIPRIL 2g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e373,PIPRIL 4g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e374,PIPRIL 4g infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e375,TAZOCIN 2.25g injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e376,TAZOCIN 4.5g infusion pack,In the last four years,Code recorded in the last year
+6,Antibiotics,e377,TAZOCIN 4.5g injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e37t,PIPERACILLIN + TAZOBACTAM 4.5g injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e37u,PIPERACILLIN + TAZOBACTAM 4.5g infusion pack,In the last four years,Code recorded in the last year
+6,Antibiotics,e37v,PIPERACILLIN + TAZOBACTAM 2.25g injection (pdr for recon),In the last four years,Code recorded in the last year
+6,Antibiotics,e37w,PIPERACILLIN 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e37x,PIPERACILLIN 2g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e37y,PIPERACILLIN 4g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e37z,PIPERACILLIN 4g infusion,In the last four years,Code recorded in the last year
+6,Antibiotics,e38,PIVAMPICILLIN,In the last four years,Code recorded in the last year
+6,Antibiotics,e381,PONDOCILLIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e382,PONDOCILLIN 175mg/5mL suspension 50mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e383,PONDOCILLIN 175mg/5mL suspension 100mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e384,PONDOCILLIN 175mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e385,MIRAXID 225mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e386,MIRAXID-450 tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e387,MIRAXID paediatric sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e388,PONDOCILLIN PLUS tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e389,PIVAMPICILLIN+PIVMECILLINAM 125mg/100mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e38A,PIVAMPICILLIN+PIVMECILLINAM 250mg/200mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e38u,PIVAMPICILLIN 175mg/5mL sugar free suspension 50mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e38v,PIVAMPICILLIN 175mg/5mL sugar free suspension 100mL,In the last four years,Code recorded in the last year
+6,Antibiotics,e38w,PIVAMPICILLIN 175mg/sachet granules,In the last four years,Code recorded in the last year
+6,Antibiotics,e38x,PIVAMPICILLIN 500mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e38y,PIVAMPICILLIN 162mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e38z,PIVAMPICILLIN 162mg sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e39,TALAMPICILLIN HYDROCHLORIDE,In the last four years,Code recorded in the last year
+6,Antibiotics,e391,TALPEN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e392,TALPEN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e39y,TALAMPICILLIN 250mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e39z,TALAMPICILLIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A,AMOXICILLIN [2],In the last four years,Code recorded in the last year
+6,Antibiotics,e3A1,RESPILLIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A2,RESPILLIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A3,RESPILLIN 125mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A4,RESPILLIN 250mg/5mL oral suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A5,RESPILLIN 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A6,RESPILLIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A7,AMICLAV 250mg/125mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A8,RANCLAV 375mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3A9,RANCLAV 625mg tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3AA,RANCLAV 125mg/31mg sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3AB,RANCLAV 250mg/62mg sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z,AMOXICILLIN [GENERIC ADDITIONS],In the last four years,Code recorded in the last year
+6,Antibiotics,e3z1,AMORAM 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z2,AMORAM 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z3,AMORAM 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z4,AMORAM 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z5,AMIX 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z6,AMIX 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z7,GALENAMOX 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z8,GALENAMOX 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3z9,GALENAMOX 125mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zA,GALENAMOX TP 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zB,GALENAMOX TP 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zC,ZOXYCIL 250 capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zD,ZOXYCIL 500 capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zE,AMOXICILLIN 125mg/sachet sugar free powder,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zF,AMOXIDENT 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zG,AMOXIDENT 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3za,GALENAMOX 250mg/5mL suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zb,GALENAMOX 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zc,GALENAMOX 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zf,RIMOXALLIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zg,RIMOXALLIN 250mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zh,RIMOXALLIN 500mg capsules,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zj,RIMOXALLIN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zk,AMOXICILLIN 125mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zl,AMOXYCILLIN 500mg dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zm,AMOXICILLIN 125mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zn,AMOXICILLIN 250mg/5mL syrup,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zo,AMOXICILLIN 125mg/1.25mL paediatric suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zp,AMOXYCILLIN powder 750mg/sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zq,AMOXICILLIN powder 3g/sachet,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zr,AMOXICILLIN 250mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zs,AMOXICILLIN 500mg injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zt,AMOXICILLIN 1g injection,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zu,AMOXICILLIN 250mg/5mL sugar free suspension,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zv,AMOXYCILLIN 125mg s/f chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zw,AMOXYCILLIN 250mg s/f chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zx,AMOXYCILLIN 500mg s/f chewable tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zy,AMOXYCILLIN 375mg s/f dispersible tablets,In the last four years,Code recorded in the last year
+6,Antibiotics,e3zz,AMOXYCILLIN 750mg s/f dispersible tablets,In the last four years,Code recorded in the last year
+6,LRTI,H060,Acute bronchitis,In the last four years,Code recorded in the last year
+6,LRTI,H062,Acute lower respiratory tract infection,In the last four years,Code recorded in the last year
+6,LRTI,H06z0,Chest infection NOS,In the last four years,Code recorded in the last year
+6,LRTI,H06z1,Lower resp tract infection,In the last four years,Code recorded in the last year
+6,LRTI,H06z2,Recurrent chest infection,In the last four years,Code recorded in the last year
+6,LRTI,H3y0,Chronic obstruct pulmonary dis with acute lower resp infectn,In the last four years,Code recorded in the last year
+6,LRTI,Hyu1,[X]Other acute lower respiratory infections,In the last four years,Code recorded in the last year
+6,LRTI,Hyu10,[X]Acute bronchitis due to other specified organisms,In the last four years,Code recorded in the last year
+6,LRTI,Hyu11,[X]Acute bronchiolitis due to other specified organisms,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6,PREDNISOLONE [ENDOCRINE],In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe61,PREDNISOLONE 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe62,PREDNISOLONE 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe64,DELTA-PHORICOL 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe65,DELTACORTRIL ENTERIC 2.5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe66,DELTACORTRIL ENTERIC 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe67,DELTALONE 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe68,DELTALONE 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe69,DELTASTAB 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6a,DELTASTAB 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6c,PRECORTISYL 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6d,PRECORTISYL 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6e,PRECORTISYL FORTE 25mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6f,PREDNESOL 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6g,SINTISONE 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6h,PREDNISOLONE 2.5mg e/c tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6i,PREDNISOLONE 5mg e/c tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6j,PREDNISOLONE 5mg soluble tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6k,PREDNISOLONE 50mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6l,DILACORT 5mg gastro-resistant tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6m,DILACORT 2.5mg gastro-resistant tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6v,PREDNISOLONE 2.5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6w,PREDNISOLONE 2.5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe6z,PREDNISOLONE 25mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe7,PREDNISONE,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe71,PREDNISONE 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe72,PREDNISONE 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe73,DECORTISYL 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe74,ECONOSONE 1mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe75,ECONOSONE 5mg tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe77,LODOTRA 2mg m/r tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe78,LODOTRA 5mg m/r tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe79,LODOTRA 1mg m/r tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe7x,PREDNISONE 5mg m/r tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe7y,PREDNISONE 2mg m/r tablets,In the last four years,Code recorded in the last year
+6,Oral corticosteroids,fe7z,PREDNISONE 1mg m/r tablets,In the last four years,Code recorded in the last year

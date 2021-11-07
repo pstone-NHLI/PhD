@@ -1,0 +1,11 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+11,Pulmonary rehabilitation exception,8IA9,Pulmonary rehabilitation declined,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation exception,9kf0,COPD patient unsuitable for pulmonary rehab - enh serv admin,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation exception,8I97,Pulmonary rehabilitation programme not available,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8FA,Pulmonary rehabilitation,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8FA0,Assessment for pulmonary rehabilitation completed,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,9NSL,Pulmonary rehabilitation offered,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8H7u,Referral to pulmonary rehabilitation,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8FA1,Pulmonary rehabilitation programme commenced,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8FA2,Pulmonary rehabilitation programme completed,In the last four years,Presence of code in the last three years
+11,Pulmonary rehabilitation,8I86,Did not complete pulmonary rehabilitation programme,In the last four years,Presence of code in the last three years

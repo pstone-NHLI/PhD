@@ -1,0 +1,77 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+7,Oxygen saturation,44Y9,Blood oxygen saturation (calculated),In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA,Blood oxygen saturation,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA0,Oxygen saturation at periphery,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA1,Peripheral blood oxygen saturation on room air at rest,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA2,Peripheral blood oxygen saturation on room air on exertion,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA3,Peripheral blood oxygen saturation supplmentl oxygen at rest,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA4,Peripheral bld ox saturation on supplemental ox on exertion,In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YA5,Baseline SpO2 (oxygen saturation at periphery),In the last four years,Code recorded in the last two years
+7,Oxygen saturation,44YF,"Blood gases, capillary measurement",In the last four years,Code recorded in the last two years
+7,Oxygen assessment,389A,Assessment for home oxygen therapy,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,66Yn,Oxygen therapy initial assessment,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,66Yo,Oxygen therapy follow up assessment,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,6AJ,Home oxygen therapy review,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,745E1,Long term oxygen assessment,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,745E2,Ambulatory oxygen assessment,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,8HHx,Referred for assessment of need for oxygen therapy,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,8Hke,Referral to home oxygen service,In the last four years,Code recorded in the last two years
+7,Oxygen assessment,8I6b,Referral for long-term oxygen therapy assessmt not indicated,In the last four years,Code recorded in the last two years
+7,Oxygen therapy, 877,Oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8774,Oxygenator therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8775,High concentration oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8776,LTOT - Long-term oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8777,SBOT - Short-burst oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8778,Ambulatory oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,87,Oxygen enrichment therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,877,Oxygen enrichment therapy NOS,In the last four years,Code recorded in the last six months
+7,Oxygen therapy, 66Y,Oxygen therapy initial assessment,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,389,Assessment for home oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,66Y,Oxygen therapy follow up assessment,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8HH,Referred for assessment of need for oxygen therapy,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8I6,Referral for long-term oxygen therapy assessmt not indicated,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,745E,Long term oxygen assessment,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,745E,Ambulatory oxygen assessment,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,8Hk,Referral to home oxygen service,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,6A,Home oxygen therapy review,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc,OXYGEN & EQUIPMENT,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc1,OXYGEN SETS,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc11,BOC 33022 oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc12,MEDISHIELD DOM MDS240 oxygen set x1,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc13,OXYLITRE MR210 oxygen set x1,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc14,AIR APP & VALVE D24 oxygen set x1,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc15,OHMEDA DOM-2/4 1550033 oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc16,OXYGEN GIVING SET,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc17,BOC DOMIFLOW OXYGEN 888830 set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc18,PURITAN BENNETT 778435 oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc19,SABRE MEDICAL OXYDOM oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc1A,THERAPY EQUIPMENT DIALREG 5120 oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc1B,OXYLITRE M410 oxygen set,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc2,OXYGEN MASKS,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc21,INTERSURGICAL 28%/010 oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc22,VENTIMASK 28%/MK1V oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc23,INTERSURGICAL 005 oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc24,MC oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc25,VENTICAIRE oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc26,VENTICAIRE 28% Venturi oxygen mask,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3,OXYGEN CYLINDERS,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc31,OXYGEN BP 1360litres cylinder,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc32,OXYGEN GAS cylinder AD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc33,OXYGEN GAS cylinder AF 1360L,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc34,OXYGEN GAS cylinder C,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc35,OXYGEN GAS cylinder D,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc36,OXYGEN GAS cylinder E,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc37,OXYGEN GAS cylinder F 1360L,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc38,OXYGEN GAS cylinder G,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc39,OXYGEN GAS cylinder J,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3A,OXYGEN GAS cylinder PD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3B,OXYGEN GAS cylinder SD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3C,OXYGEN gas cylinder DD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3D,OXYGEN gas cylinder HD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3E,OXYGEN gas cylinder RD,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3F,OXYGEN gas cylinder DF,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3G,OXYGEN gas cylinder HX,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc3H,OXYGEN GAS cylinder FC,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc4,OXYGEN CONCENTRATOR,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc41,OXYGEN CONCENTRATOR 1,In the last four years,Code recorded in the last six months
+7,Oxygen therapy,pc5,OXYGEN NASAL CANNULA,In the last four years,Code recorded in the last six months

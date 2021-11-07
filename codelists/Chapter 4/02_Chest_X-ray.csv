@@ -1,0 +1,15 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+2,Chest X-ray,535,Standard chest X-ray,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5351,Standard chest X-ray requested,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5352,Standard chest xray normal ,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5353,Standard chest xray abnormal ,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,535Z,Standard chest xray NOS ,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,536,Soft tissue X-ray chest ,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5361,Soft tissue X-ray chest normal,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5362,Soft tissue X-ray chest abnormal,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5364,Soft tiss.X-ray lung/bronchus,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,536Z,Soft tissue X-ray chest NOS,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,5637,Tomography – lungs,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,56780,CT of chest and abdomen,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,56781,"CT of chest, abdomen and pelvis",In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code
+2,Chest X-ray,68C1,Screening chest X-ray,In the last four years for patients diagnosed in the last two years,Presence within 6 months prior to or after a diagnosis code

@@ -1,0 +1,31 @@
+Audit query,Category,Read V2 5B code,Read term,Extracted data,Use in analysis
+1,Spirometry,5882,Spirometry,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,745C1,Spirometry,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,33G,Spirometry reversibility,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,68M,Spirometry screening,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,33G0,Spirometry reversibility negative,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,33G1,Spirometry reversibility positive,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,8HRC,Referral for spirometry,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,3397,Forced expiratory volume - FEV,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,1I70,Chronic obstructive pulmonary disease excluded by spirometry,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,8BR0,Spirometry indicated,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,745D4,Post bronchodilator spirometry,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339S,Percent predicted FEV1,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339R,FEV1/FVC percent,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339O,Forced expired volume in 1 second,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339T,FEV1/FVC > 70% of predicted,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,3398,FEV1/FVC ratio normal,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339M,FEV1/FVC ratio,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339b,FEV1 after bronchodilation,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339m,FEV1/FVC ratio after bronchodilator,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339a,FEV1 before bronchodilation,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,3399,FEV1/FVC ratio abnormal,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339U,FEV1/FVC < 70% of predicted,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339l,FEV1/FVC ratio before bronchodilator,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339e,FEV1 pre steroids,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339f,FEV1 post steroids,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339j,FEV1/FVC ratio pre steroids,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339k,FEV1/FVC ratio post steroids,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339O0,Forced expired volume in 1 second reversibility,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,33971,Forced expired volume in 1 second percentage change,In the last four years for patients diagnosed in the last two years,Most recent
+1,Spirometry,339O1,Forced expired volume in one second/vital capacity ratio,In the last four years for patients diagnosed in the last two years,Most recent
